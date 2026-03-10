@@ -1,0 +1,534 @@
+2019 Federal Election House of Representatives First Preferences By Candidate By Polling Place for NT [Event:24310 Phase:FinalResults Generated:2019-07-30T11:10:45 Cycle:02109509-c159-4199-88f6-389818be8a1c Created:2019-07-26T10:57:31 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.7.17.56581]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+NT,306,Lingiari,8701,Alice Springs,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,487,-0.94
+NT,306,Lingiari,8701,Alice Springs,33034,HANNA,George,2,N,N,GRN,The Greens,262,1.19
+NT,306,Lingiari,8701,Alice Springs,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,22,1.61
+NT,306,Lingiari,8701,Alice Springs,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,16,-2.92
+NT,306,Lingiari,8701,Alice Springs,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,29,2.12
+NT,306,Lingiari,8701,Alice Springs,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),554,6.07
+NT,306,Lingiari,8701,Alice Springs,999,Informal,Informal,999,N,N,,Informal,44,-2
+NT,306,Lingiari,65681,Alice Springs PPVC,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2347,2.48
+NT,306,Lingiari,65681,Alice Springs PPVC,33034,HANNA,George,2,N,N,GRN,The Greens,689,-2.53
+NT,306,Lingiari,65681,Alice Springs PPVC,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,122,1.98
+NT,306,Lingiari,65681,Alice Springs PPVC,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,64,-2.26
+NT,306,Lingiari,65681,Alice Springs PPVC,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,159,2.58
+NT,306,Lingiari,65681,Alice Springs PPVC,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),2778,4.65
+NT,306,Lingiari,65681,Alice Springs PPVC,999,Informal,Informal,999,N,N,,Informal,213,-2.66
+NT,306,Lingiari,8710,Arumbera,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,80,3.04
+NT,306,Lingiari,8710,Arumbera,33034,HANNA,George,2,N,N,GRN,The Greens,19,-4.49
+NT,306,Lingiari,8710,Arumbera,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,4,1.46
+NT,306,Lingiari,8710,Arumbera,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,5,-1.86
+NT,306,Lingiari,8710,Arumbera,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,5,1.82
+NT,306,Lingiari,8710,Arumbera,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),161,8.6
+NT,306,Lingiari,8710,Arumbera,999,Informal,Informal,999,N,N,,Informal,6,-2.9
+NT,306,Lingiari,34264,Bees Creek,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,173,-6.46
+NT,306,Lingiari,34264,Bees Creek,33034,HANNA,George,2,N,N,GRN,The Greens,63,2.7
+NT,306,Lingiari,34264,Bees Creek,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,22,2.99
+NT,306,Lingiari,34264,Bees Creek,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,14,-0.59
+NT,306,Lingiari,34264,Bees Creek,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,50,6.78
+NT,306,Lingiari,34264,Bees Creek,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),415,11.93
+NT,306,Lingiari,34264,Bees Creek,999,Informal,Informal,999,N,N,,Informal,36,-1.09
+NT,306,Lingiari,8706,Berry Springs,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,173,1.36
+NT,306,Lingiari,8706,Berry Springs,33034,HANNA,George,2,N,N,GRN,The Greens,57,3.1
+NT,306,Lingiari,8706,Berry Springs,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,40,6.39
+NT,306,Lingiari,8706,Berry Springs,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,27,0.49
+NT,306,Lingiari,8706,Berry Springs,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,46,7.35
+NT,306,Lingiari,8706,Berry Springs,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),283,8.48
+NT,306,Lingiari,8706,Berry Springs,999,Informal,Informal,999,N,N,,Informal,39,-0.6
+NT,306,Lingiari,65576,BLV Lingiari PPVC,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,33034,HANNA,George,2,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8707,Braitling,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,284,-2
+NT,306,Lingiari,8707,Braitling,33034,HANNA,George,2,N,N,GRN,The Greens,142,0
+NT,306,Lingiari,8707,Braitling,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,21,2.35
+NT,306,Lingiari,8707,Braitling,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,8,-1.44
+NT,306,Lingiari,8707,Braitling,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,21,2.35
+NT,306,Lingiari,8707,Braitling,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),416,7.41
+NT,306,Lingiari,8707,Braitling,999,Informal,Informal,999,N,N,,Informal,43,-1.37
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,215,0.2
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,33034,HANNA,George,2,N,N,GRN,The Greens,49,0.45
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,14,2.93
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,24,2.5
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,16,3.35
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),160,2.15
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,30,-2.87
+NT,306,Lingiari,65748,Coolalinga PPVC,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1015,-2.67
+NT,306,Lingiari,65748,Coolalinga PPVC,33034,HANNA,George,2,N,N,GRN,The Greens,250,1.92
+NT,306,Lingiari,65748,Coolalinga PPVC,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,143,3.72
+NT,306,Lingiari,65748,Coolalinga PPVC,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,119,0.81
+NT,306,Lingiari,65748,Coolalinga PPVC,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,343,8.93
+NT,306,Lingiari,65748,Coolalinga PPVC,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),1973,10.21
+NT,306,Lingiari,65748,Coolalinga PPVC,999,Informal,Informal,999,N,N,,Informal,204,-0.48
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,285,-3.35
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,33034,HANNA,George,2,N,N,GRN,The Greens,71,-0.32
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,31,3.86
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,24,-0.04
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,44,5.47
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),349,7.09
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,37,-3.34
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,-17.67
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),33034,HANNA,George,2,N,N,GRN,The Greens,0,-7.64
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,0,0
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,0,-0.01
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),33028,MacFARLANE,Hamish,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),0,-47.28
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,-1.09
+NT,306,Lingiari,8711,Gillen,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,469,-2.83
+NT,306,Lingiari,8711,Gillen,33034,HANNA,George,2,N,N,GRN,The Greens,142,0.19
+NT,306,Lingiari,8711,Gillen,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,32,2.4
+NT,306,Lingiari,8711,Gillen,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,22,-1.14
+NT,306,Lingiari,8711,Gillen,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,34,2.54
+NT,306,Lingiari,8711,Gillen,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),637,7.76
+NT,306,Lingiari,8711,Gillen,999,Informal,Informal,999,N,N,,Informal,50,-2.9
+NT,306,Lingiari,8713,Howard Springs,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,319,-1.62
+NT,306,Lingiari,8713,Howard Springs,33034,HANNA,George,2,N,N,GRN,The Greens,68,0.2
+NT,306,Lingiari,8713,Howard Springs,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,41,3.7
+NT,306,Lingiari,8713,Howard Springs,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,22,-0.17
+NT,306,Lingiari,8713,Howard Springs,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,66,5.96
+NT,306,Lingiari,8713,Howard Springs,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),592,9.69
+NT,306,Lingiari,8713,Howard Springs,999,Informal,Informal,999,N,N,,Informal,61,-0.68
+NT,306,Lingiari,8714,Humpty Doo,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,416,-0.1
+NT,306,Lingiari,8714,Humpty Doo,33034,HANNA,George,2,N,N,GRN,The Greens,94,0.81
+NT,306,Lingiari,8714,Humpty Doo,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,56,4.01
+NT,306,Lingiari,8714,Humpty Doo,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,45,-1.19
+NT,306,Lingiari,8714,Humpty Doo,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,146,10.47
+NT,306,Lingiari,8714,Humpty Doo,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),638,8.53
+NT,306,Lingiari,8714,Humpty Doo,999,Informal,Informal,999,N,N,,Informal,82,-0.66
+NT,306,Lingiari,83180,Johnston,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,403,-12.51
+NT,306,Lingiari,83180,Johnston,33034,HANNA,George,2,N,N,GRN,The Greens,114,3.66
+NT,306,Lingiari,83180,Johnston,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,42,3.57
+NT,306,Lingiari,83180,Johnston,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,36,0.52
+NT,306,Lingiari,83180,Johnston,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,42,3.57
+NT,306,Lingiari,83180,Johnston,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),540,16.19
+NT,306,Lingiari,83180,Johnston,999,Informal,Informal,999,N,N,,Informal,67,-2.29
+NT,306,Lingiari,8717,Katherine,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,178,-0.64
+NT,306,Lingiari,8717,Katherine,33034,HANNA,George,2,N,N,GRN,The Greens,50,0.83
+NT,306,Lingiari,8717,Katherine,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,24,4.03
+NT,306,Lingiari,8717,Katherine,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,12,-1.53
+NT,306,Lingiari,8717,Katherine,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,69,11.6
+NT,306,Lingiari,8717,Katherine,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),262,12.51
+NT,306,Lingiari,8717,Katherine,999,Informal,Informal,999,N,N,,Informal,17,-3.46
+NT,306,Lingiari,12068,Katherine East,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,208,1.84
+NT,306,Lingiari,12068,Katherine East,33034,HANNA,George,2,N,N,GRN,The Greens,34,-1.15
+NT,306,Lingiari,12068,Katherine East,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,12,2.4
+NT,306,Lingiari,12068,Katherine East,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,17,1.33
+NT,306,Lingiari,12068,Katherine East,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,43,8.62
+NT,306,Lingiari,12068,Katherine East,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),185,6.67
+NT,306,Lingiari,12068,Katherine East,999,Informal,Informal,999,N,N,,Informal,20,-1.71
+NT,306,Lingiari,34179,Katherine PPVC,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,818,-1.05
+NT,306,Lingiari,34179,Katherine PPVC,33034,HANNA,George,2,N,N,GRN,The Greens,163,-0.25
+NT,306,Lingiari,34179,Katherine PPVC,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,94,3.6
+NT,306,Lingiari,34179,Katherine PPVC,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,83,-0.25
+NT,306,Lingiari,34179,Katherine PPVC,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,296,11.33
+NT,306,Lingiari,34179,Katherine PPVC,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),1159,8.37
+NT,306,Lingiari,34179,Katherine PPVC,999,Informal,Informal,999,N,N,,Informal,142,-0.58
+NT,306,Lingiari,12069,Larapinta,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,245,0.75
+NT,306,Lingiari,12069,Larapinta,33034,HANNA,George,2,N,N,GRN,The Greens,66,-5.1
+NT,306,Lingiari,12069,Larapinta,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,13,1.99
+NT,306,Lingiari,12069,Larapinta,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,6,-1.97
+NT,306,Lingiari,12069,Larapinta,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,14,2.15
+NT,306,Lingiari,12069,Larapinta,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),308,9.99
+NT,306,Lingiari,12069,Larapinta,999,Informal,Informal,999,N,N,,Informal,28,-3.4
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,492,-5.94
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,33034,HANNA,George,2,N,N,GRN,The Greens,112,1.73
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,85,4.76
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,67,1.45
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,107,6
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),921,9.33
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,106,-2.59
+NT,306,Lingiari,34147,Remote Mobile Team 1,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,968,23.11
+NT,306,Lingiari,34147,Remote Mobile Team 1,33034,HANNA,George,2,N,N,GRN,The Greens,33,-1.68
+NT,306,Lingiari,34147,Remote Mobile Team 1,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,14,1.05
+NT,306,Lingiari,34147,Remote Mobile Team 1,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,32,-1.56
+NT,306,Lingiari,34147,Remote Mobile Team 1,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,10,0.75
+NT,306,Lingiari,34147,Remote Mobile Team 1,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),277,-1.17
+NT,306,Lingiari,34147,Remote Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,52,-6.99
+NT,306,Lingiari,34156,Remote Mobile Team 10,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,491,22.33
+NT,306,Lingiari,34156,Remote Mobile Team 10,33034,HANNA,George,2,N,N,GRN,The Greens,21,-1.08
+NT,306,Lingiari,34156,Remote Mobile Team 10,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,16,2.34
+NT,306,Lingiari,34156,Remote Mobile Team 10,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,33,0.86
+NT,306,Lingiari,34156,Remote Mobile Team 10,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,9,1.32
+NT,306,Lingiari,34156,Remote Mobile Team 10,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),114,-5.26
+NT,306,Lingiari,34156,Remote Mobile Team 10,999,Informal,Informal,999,N,N,,Informal,52,-3.67
+NT,306,Lingiari,34157,Remote Mobile Team 11,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,441,27.65
+NT,306,Lingiari,34157,Remote Mobile Team 11,33034,HANNA,George,2,N,N,GRN,The Greens,26,0.4
+NT,306,Lingiari,34157,Remote Mobile Team 11,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,5,0.87
+NT,306,Lingiari,34157,Remote Mobile Team 11,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,11,-2.04
+NT,306,Lingiari,34157,Remote Mobile Team 11,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,7,1.22
+NT,306,Lingiari,34157,Remote Mobile Team 11,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),82,-7.59
+NT,306,Lingiari,34157,Remote Mobile Team 11,999,Informal,Informal,999,N,N,,Informal,52,-2.41
+NT,306,Lingiari,34158,Remote Mobile Team 12,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,317,38.12
+NT,306,Lingiari,34158,Remote Mobile Team 12,33034,HANNA,George,2,N,N,GRN,The Greens,9,-1.66
+NT,306,Lingiari,34158,Remote Mobile Team 12,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,3,0.83
+NT,306,Lingiari,34158,Remote Mobile Team 12,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,8,-1.75
+NT,306,Lingiari,34158,Remote Mobile Team 12,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,1,0.28
+NT,306,Lingiari,34158,Remote Mobile Team 12,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),24,-15.3
+NT,306,Lingiari,34158,Remote Mobile Team 12,999,Informal,Informal,999,N,N,,Informal,29,-3.32
+NT,306,Lingiari,34159,Remote Mobile Team 13,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,412,33.28
+NT,306,Lingiari,34159,Remote Mobile Team 13,33034,HANNA,George,2,N,N,GRN,The Greens,29,1.67
+NT,306,Lingiari,34159,Remote Mobile Team 13,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,4,0.8
+NT,306,Lingiari,34159,Remote Mobile Team 13,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,12,-1.55
+NT,306,Lingiari,34159,Remote Mobile Team 13,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,5,1
+NT,306,Lingiari,34159,Remote Mobile Team 13,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),36,-14.7
+NT,306,Lingiari,34159,Remote Mobile Team 13,999,Informal,Informal,999,N,N,,Informal,33,-4.53
+NT,306,Lingiari,34160,Remote Mobile Team 14,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,564,39.65
+NT,306,Lingiari,34160,Remote Mobile Team 14,33034,HANNA,George,2,N,N,GRN,The Greens,13,-2.1
+NT,306,Lingiari,34160,Remote Mobile Team 14,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,5,0.79
+NT,306,Lingiari,34160,Remote Mobile Team 14,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,11,-2.22
+NT,306,Lingiari,34160,Remote Mobile Team 14,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,2,0.32
+NT,306,Lingiari,34160,Remote Mobile Team 14,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),38,-15.93
+NT,306,Lingiari,34160,Remote Mobile Team 14,999,Informal,Informal,999,N,N,,Informal,11,-9.03
+NT,306,Lingiari,34161,Remote Mobile Team 15,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,513,37.79
+NT,306,Lingiari,34161,Remote Mobile Team 15,33034,HANNA,George,2,N,N,GRN,The Greens,14,-1.77
+NT,306,Lingiari,34161,Remote Mobile Team 15,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,6,1.02
+NT,306,Lingiari,34161,Remote Mobile Team 15,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,8,-2.6
+NT,306,Lingiari,34161,Remote Mobile Team 15,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,1,0.17
+NT,306,Lingiari,34161,Remote Mobile Team 15,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),46,-14.11
+NT,306,Lingiari,34161,Remote Mobile Team 15,999,Informal,Informal,999,N,N,,Informal,30,-5.89
+NT,306,Lingiari,34162,Remote Mobile Team 16,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,532,15.75
+NT,306,Lingiari,34162,Remote Mobile Team 16,33034,HANNA,George,2,N,N,GRN,The Greens,71,4.55
+NT,306,Lingiari,34162,Remote Mobile Team 16,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,23,2.82
+NT,306,Lingiari,34162,Remote Mobile Team 16,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,24,-1.02
+NT,306,Lingiari,34162,Remote Mobile Team 16,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,15,1.84
+NT,306,Lingiari,34162,Remote Mobile Team 16,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),151,-3.43
+NT,306,Lingiari,34162,Remote Mobile Team 16,999,Informal,Informal,999,N,N,,Informal,46,-5.4
+NT,306,Lingiari,34163,Remote Mobile Team 17,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,179,6.31
+NT,306,Lingiari,34163,Remote Mobile Team 17,33034,HANNA,George,2,N,N,GRN,The Greens,19,1.77
+NT,306,Lingiari,34163,Remote Mobile Team 17,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,17,5.3
+NT,306,Lingiari,34163,Remote Mobile Team 17,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,14,0.4
+NT,306,Lingiari,34163,Remote Mobile Team 17,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,7,2.18
+NT,306,Lingiari,34163,Remote Mobile Team 17,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),85,4.55
+NT,306,Lingiari,34163,Remote Mobile Team 17,999,Informal,Informal,999,N,N,,Informal,19,-5.15
+NT,306,Lingiari,82791,Remote Mobile Team 18,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,665,3.75
+NT,306,Lingiari,82791,Remote Mobile Team 18,33034,HANNA,George,2,N,N,GRN,The Greens,178,10.09
+NT,306,Lingiari,82791,Remote Mobile Team 18,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,45,3.6
+NT,306,Lingiari,82791,Remote Mobile Team 18,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,34,-1.24
+NT,306,Lingiari,82791,Remote Mobile Team 18,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,24,1.92
+NT,306,Lingiari,82791,Remote Mobile Team 18,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),304,2.39
+NT,306,Lingiari,82791,Remote Mobile Team 18,999,Informal,Informal,999,N,N,,Informal,60,-6.16
+NT,306,Lingiari,83193,Remote Mobile Team 19,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,654,2.45
+NT,306,Lingiari,83193,Remote Mobile Team 19,33034,HANNA,George,2,N,N,GRN,The Greens,75,1.8
+NT,306,Lingiari,83193,Remote Mobile Team 19,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,24,1.9
+NT,306,Lingiari,83193,Remote Mobile Team 19,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,53,0.25
+NT,306,Lingiari,83193,Remote Mobile Team 19,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,28,2.22
+NT,306,Lingiari,83193,Remote Mobile Team 19,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),426,11.88
+NT,306,Lingiari,83193,Remote Mobile Team 19,999,Informal,Informal,999,N,N,,Informal,74,-5.19
+NT,306,Lingiari,34148,Remote Mobile Team 2,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,797,20.65
+NT,306,Lingiari,34148,Remote Mobile Team 2,33034,HANNA,George,2,N,N,GRN,The Greens,28,-1.69
+NT,306,Lingiari,34148,Remote Mobile Team 2,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,19,1.67
+NT,306,Lingiari,34148,Remote Mobile Team 2,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,33,-1.06
+NT,306,Lingiari,34148,Remote Mobile Team 2,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,7,0.62
+NT,306,Lingiari,34148,Remote Mobile Team 2,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),253,0.32
+NT,306,Lingiari,34148,Remote Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,147,0.71
+NT,306,Lingiari,83194,Remote Mobile Team 20,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,276,18.7
+NT,306,Lingiari,83194,Remote Mobile Team 20,33034,HANNA,George,2,N,N,GRN,The Greens,34,4.25
+NT,306,Lingiari,83194,Remote Mobile Team 20,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,5,1.23
+NT,306,Lingiari,83194,Remote Mobile Team 20,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,7,-2.23
+NT,306,Lingiari,83194,Remote Mobile Team 20,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,10,2.47
+NT,306,Lingiari,83194,Remote Mobile Team 20,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),73,-3.91
+NT,306,Lingiari,83194,Remote Mobile Team 20,999,Informal,Informal,999,N,N,,Informal,12,-7.86
+NT,306,Lingiari,83195,Remote Mobile Team 21,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,222,30.12
+NT,306,Lingiari,83195,Remote Mobile Team 21,33034,HANNA,George,2,N,N,GRN,The Greens,17,1.94
+NT,306,Lingiari,83195,Remote Mobile Team 21,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,1,0.36
+NT,306,Lingiari,83195,Remote Mobile Team 21,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,6,-1.81
+NT,306,Lingiari,83195,Remote Mobile Team 21,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,5,1.79
+NT,306,Lingiari,83195,Remote Mobile Team 21,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),28,-11.89
+NT,306,Lingiari,83195,Remote Mobile Team 21,999,Informal,Informal,999,N,N,,Informal,15,-5.64
+NT,306,Lingiari,34149,Remote Mobile Team 3,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,402,16.13
+NT,306,Lingiari,34149,Remote Mobile Team 3,33034,HANNA,George,2,N,N,GRN,The Greens,16,-1.54
+NT,306,Lingiari,34149,Remote Mobile Team 3,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,10,1.63
+NT,306,Lingiari,34149,Remote Mobile Team 3,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,16,-1.35
+NT,306,Lingiari,34149,Remote Mobile Team 3,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,9,1.47
+NT,306,Lingiari,34149,Remote Mobile Team 3,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),160,4.17
+NT,306,Lingiari,34149,Remote Mobile Team 3,999,Informal,Informal,999,N,N,,Informal,45,-3.9
+NT,306,Lingiari,34150,Remote Mobile Team 4,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,412,7.22
+NT,306,Lingiari,34150,Remote Mobile Team 4,33034,HANNA,George,2,N,N,GRN,The Greens,42,1.63
+NT,306,Lingiari,34150,Remote Mobile Team 4,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,19,2.61
+NT,306,Lingiari,34150,Remote Mobile Team 4,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,30,0.17
+NT,306,Lingiari,34150,Remote Mobile Team 4,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,27,3.71
+NT,306,Lingiari,34150,Remote Mobile Team 4,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),197,5.17
+NT,306,Lingiari,34150,Remote Mobile Team 4,999,Informal,Informal,999,N,N,,Informal,60,-3.12
+NT,306,Lingiari,34151,Remote Mobile Team 5,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,992,29.78
+NT,306,Lingiari,34151,Remote Mobile Team 5,33034,HANNA,George,2,N,N,GRN,The Greens,50,-0.16
+NT,306,Lingiari,34151,Remote Mobile Team 5,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,12,0.96
+NT,306,Lingiari,34151,Remote Mobile Team 5,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,57,0.59
+NT,306,Lingiari,34151,Remote Mobile Team 5,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,4,0.32
+NT,306,Lingiari,34151,Remote Mobile Team 5,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),137,-10.99
+NT,306,Lingiari,34151,Remote Mobile Team 5,999,Informal,Informal,999,N,N,,Informal,101,-3.28
+NT,306,Lingiari,34152,Remote Mobile Team 6,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,638,34.5
+NT,306,Lingiari,34152,Remote Mobile Team 6,33034,HANNA,George,2,N,N,GRN,The Greens,20,-1.52
+NT,306,Lingiari,34152,Remote Mobile Team 6,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,7,0.92
+NT,306,Lingiari,34152,Remote Mobile Team 6,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,24,-0.8
+NT,306,Lingiari,34152,Remote Mobile Team 6,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,10,1.32
+NT,306,Lingiari,34152,Remote Mobile Team 6,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),61,-13.9
+NT,306,Lingiari,34152,Remote Mobile Team 6,999,Informal,Informal,999,N,N,,Informal,101,0.99
+NT,306,Lingiari,34153,Remote Mobile Team 7,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,507,1.1
+NT,306,Lingiari,34153,Remote Mobile Team 7,33034,HANNA,George,2,N,N,GRN,The Greens,55,1.33
+NT,306,Lingiari,34153,Remote Mobile Team 7,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,23,2.29
+NT,306,Lingiari,34153,Remote Mobile Team 7,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,68,2.82
+NT,306,Lingiari,34153,Remote Mobile Team 7,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,23,2.29
+NT,306,Lingiari,34153,Remote Mobile Team 7,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),327,10.67
+NT,306,Lingiari,34153,Remote Mobile Team 7,999,Informal,Informal,999,N,N,,Informal,51,-5.9
+NT,306,Lingiari,34154,Remote Mobile Team 8,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,499,11.63
+NT,306,Lingiari,34154,Remote Mobile Team 8,33034,HANNA,George,2,N,N,GRN,The Greens,48,1.73
+NT,306,Lingiari,34154,Remote Mobile Team 8,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,11,1.35
+NT,306,Lingiari,34154,Remote Mobile Team 8,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,62,3.63
+NT,306,Lingiari,34154,Remote Mobile Team 8,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,56,6.85
+NT,306,Lingiari,34154,Remote Mobile Team 8,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),141,-4.67
+NT,306,Lingiari,34154,Remote Mobile Team 8,999,Informal,Informal,999,N,N,,Informal,73,-2.54
+NT,306,Lingiari,34155,Remote Mobile Team 9,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,548,18.79
+NT,306,Lingiari,34155,Remote Mobile Team 9,33034,HANNA,George,2,N,N,GRN,The Greens,19,-1.78
+NT,306,Lingiari,34155,Remote Mobile Team 9,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,12,1.49
+NT,306,Lingiari,34155,Remote Mobile Team 9,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,50,2.27
+NT,306,Lingiari,34155,Remote Mobile Team 9,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,15,1.87
+NT,306,Lingiari,34155,Remote Mobile Team 9,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),159,-2.13
+NT,306,Lingiari,34155,Remote Mobile Team 9,999,Informal,Informal,999,N,N,,Informal,40,-6
+NT,306,Lingiari,8731,Sadadeen,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,357,-0.78
+NT,306,Lingiari,8731,Sadadeen,33034,HANNA,George,2,N,N,GRN,The Greens,137,-1.86
+NT,306,Lingiari,8731,Sadadeen,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,15,1.8
+NT,306,Lingiari,8731,Sadadeen,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,12,-1.52
+NT,306,Lingiari,8731,Sadadeen,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,22,2.64
+NT,306,Lingiari,8731,Sadadeen,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),290,6.33
+NT,306,Lingiari,8731,Sadadeen,999,Informal,Informal,999,N,N,,Informal,33,-0.69
+NT,306,Lingiari,97528,Special Hospital Team 1,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,3,13.25
+NT,306,Lingiari,97528,Special Hospital Team 1,33034,HANNA,George,2,N,N,GRN,The Greens,0,-6.03
+NT,306,Lingiari,97528,Special Hospital Team 1,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,0,0
+NT,306,Lingiari,97528,Special Hospital Team 1,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,0,-2.54
+NT,306,Lingiari,97528,Special Hospital Team 1,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,97528,Special Hospital Team 1,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),2,10.31
+NT,306,Lingiari,97528,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,0,-7.68
+NT,306,Lingiari,8888,Tindal,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,65,10.77
+NT,306,Lingiari,8888,Tindal,33034,HANNA,George,2,N,N,GRN,The Greens,20,2.88
+NT,306,Lingiari,8888,Tindal,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,12,5.13
+NT,306,Lingiari,8888,Tindal,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,7,-0.31
+NT,306,Lingiari,8888,Tindal,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,15,6.41
+NT,306,Lingiari,8888,Tindal,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),115,2.47
+NT,306,Lingiari,8888,Tindal,999,Informal,Informal,999,N,N,,Informal,15,1.51
+NT,306,Lingiari,65142,Wagait Beach,32740,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,64,1.4
+NT,306,Lingiari,65142,Wagait Beach,33034,HANNA,George,2,N,N,GRN,The Greens,22,-6.3
+NT,306,Lingiari,65142,Wagait Beach,32734,HODGSON,Daniel Isaac,3,N,N,UAPP,United Australia Party,4,2.4
+NT,306,Lingiari,65142,Wagait Beach,33014,McCARTHY,Regina,4,N,N,RUA,Rise Up Australia Party,2,-2.39
+NT,306,Lingiari,65142,Wagait Beach,33028,MacFARLANE,Hamish,5,N,N,IND,Independent,14,8.38
+NT,306,Lingiari,65142,Wagait Beach,33045,PRICE,Jacinta,6,N,N,CLP,Country Liberals (NT),61,9.34
+NT,306,Lingiari,65142,Wagait Beach,999,Informal,Informal,999,N,N,,Informal,4,-2.07
+NT,307,Solomon,8703,Anula,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,499,-3.08
+NT,307,Solomon,8703,Anula,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,13,0.15
+NT,307,Solomon,8703,Anula,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),370,1.49
+NT,307,Solomon,8703,Anula,33031,PARISH,Timothy,4,N,N,GRN,The Greens,143,3.74
+NT,307,Solomon,8703,Anula,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,27,2.44
+NT,307,Solomon,8703,Anula,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,56,5.05
+NT,307,Solomon,8703,Anula,999,Informal,Informal,999,N,N,,Informal,53,-2.56
+NT,307,Solomon,33137,Bakewell,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,628,-5.37
+NT,307,Solomon,33137,Bakewell,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,46,0.86
+NT,307,Solomon,33137,Bakewell,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),549,8.77
+NT,307,Solomon,33137,Bakewell,33031,PARISH,Timothy,4,N,N,GRN,The Greens,137,3.1
+NT,307,Solomon,33137,Bakewell,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,51,3.43
+NT,307,Solomon,33137,Bakewell,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,77,5.17
+NT,307,Solomon,33137,Bakewell,999,Informal,Informal,999,N,N,,Informal,94,-1.25
+NT,307,Solomon,8705,Berrimah,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,81,4.97
+NT,307,Solomon,8705,Berrimah,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,4,-1.79
+NT,307,Solomon,8705,Berrimah,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),102,-3.3
+NT,307,Solomon,8705,Berrimah,33031,PARISH,Timothy,4,N,N,GRN,The Greens,26,3.41
+NT,307,Solomon,8705,Berrimah,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,10,4.24
+NT,307,Solomon,8705,Berrimah,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,13,5.51
+NT,307,Solomon,8705,Berrimah,999,Informal,Informal,999,N,N,,Informal,21,-0.92
+NT,307,Solomon,65623,BLV Solomon PPVC,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1,33.33
+NT,307,Solomon,65623,BLV Solomon PPVC,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),1,-66.67
+NT,307,Solomon,65623,BLV Solomon PPVC,33031,PARISH,Timothy,4,N,N,GRN,The Greens,0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,1,33.33
+NT,307,Solomon,65623,BLV Solomon PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,3678,0.77
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,144,0.7
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),3110,4.41
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,33031,PARISH,Timothy,4,N,N,GRN,The Greens,899,-0.45
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,192,2.3
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,325,3.89
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,395,-1.75
+NT,307,Solomon,8709,Darwin,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,630,0.27
+NT,307,Solomon,8709,Darwin,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,25,0.17
+NT,307,Solomon,8709,Darwin,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),593,-1.36
+NT,307,Solomon,8709,Darwin,33031,PARISH,Timothy,4,N,N,GRN,The Greens,231,3.91
+NT,307,Solomon,8709,Darwin,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,49,3.04
+NT,307,Solomon,8709,Darwin,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,84,5.21
+NT,307,Solomon,8709,Darwin,999,Informal,Informal,999,N,N,,Informal,67,-2.65
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2726,0.35
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,90,0.2
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),3348,2.58
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,33031,PARISH,Timothy,4,N,N,GRN,The Greens,788,0.95
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,163,2.19
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,322,4.33
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,247,-1.47
+NT,307,Solomon,34135,Divisional Office (PREPOLL),32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,-42.71
+NT,307,Solomon,34135,Divisional Office (PREPOLL),33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,0,0
+NT,307,Solomon,34135,Divisional Office (PREPOLL),33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),0,-27.08
+NT,307,Solomon,34135,Divisional Office (PREPOLL),33031,PARISH,Timothy,4,N,N,GRN,The Greens,0,-11.46
+NT,307,Solomon,34135,Divisional Office (PREPOLL),32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,0,0
+NT,307,Solomon,34135,Divisional Office (PREPOLL),33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,0,0
+NT,307,Solomon,34135,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,-8.57
+NT,307,Solomon,8725,Driver,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,488,-6.2
+NT,307,Solomon,8725,Driver,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,34,0.16
+NT,307,Solomon,8725,Driver,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),490,6.1
+NT,307,Solomon,8725,Driver,33031,PARISH,Timothy,4,N,N,GRN,The Greens,149,3.86
+NT,307,Solomon,8725,Driver,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,47,3.62
+NT,307,Solomon,8725,Driver,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,89,6.86
+NT,307,Solomon,8725,Driver,999,Informal,Informal,999,N,N,,Informal,90,-1.25
+NT,307,Solomon,32595,Durack,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,361,-5.03
+NT,307,Solomon,32595,Durack,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,21,-1.51
+NT,307,Solomon,32595,Durack,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),544,11.08
+NT,307,Solomon,32595,Durack,33031,PARISH,Timothy,4,N,N,GRN,The Greens,97,2.96
+NT,307,Solomon,32595,Durack,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,23,2.11
+NT,307,Solomon,32595,Durack,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,44,4.04
+NT,307,Solomon,32595,Durack,999,Informal,Informal,999,N,N,,Informal,71,-1.03
+NT,307,Solomon,8887,Gray,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,343,-3.36
+NT,307,Solomon,8887,Gray,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,25,0.94
+NT,307,Solomon,8887,Gray,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),230,2.28
+NT,307,Solomon,8887,Gray,33031,PARISH,Timothy,4,N,N,GRN,The Greens,109,5.51
+NT,307,Solomon,8887,Gray,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,31,3.96
+NT,307,Solomon,8887,Gray,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,44,5.63
+NT,307,Solomon,8887,Gray,999,Informal,Informal,999,N,N,,Informal,69,-1.2
+NT,307,Solomon,8716,Karama,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,745,-0.7
+NT,307,Solomon,8716,Karama,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,50,0.28
+NT,307,Solomon,8716,Karama,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),447,4.02
+NT,307,Solomon,8716,Karama,33031,PARISH,Timothy,4,N,N,GRN,The Greens,132,0.64
+NT,307,Solomon,8716,Karama,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,41,2.74
+NT,307,Solomon,8716,Karama,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,79,5.29
+NT,307,Solomon,8716,Karama,999,Informal,Informal,999,N,N,,Informal,82,-4.4
+NT,307,Solomon,83441,Karama East,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,341,4.11
+NT,307,Solomon,83441,Karama East,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,15,-0.57
+NT,307,Solomon,83441,Karama East,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),164,-0.96
+NT,307,Solomon,83441,Karama East,33031,PARISH,Timothy,4,N,N,GRN,The Greens,59,1.22
+NT,307,Solomon,83441,Karama East,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,16,2.54
+NT,307,Solomon,83441,Karama East,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,35,5.56
+NT,307,Solomon,83441,Karama East,999,Informal,Informal,999,N,N,,Informal,30,-4.88
+NT,307,Solomon,8718,Larrakeyah,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,211,3.95
+NT,307,Solomon,8718,Larrakeyah,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,16,-0.09
+NT,307,Solomon,8718,Larrakeyah,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),316,-5.14
+NT,307,Solomon,8718,Larrakeyah,33031,PARISH,Timothy,4,N,N,GRN,The Greens,102,4.74
+NT,307,Solomon,8718,Larrakeyah,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,14,2.04
+NT,307,Solomon,8718,Larrakeyah,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,26,3.8
+NT,307,Solomon,8718,Larrakeyah,999,Informal,Informal,999,N,N,,Informal,14,-3.78
+NT,307,Solomon,8719,Leanyer,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,707,-0.21
+NT,307,Solomon,8719,Leanyer,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,30,-0.32
+NT,307,Solomon,8719,Leanyer,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),604,3.09
+NT,307,Solomon,8719,Leanyer,33031,PARISH,Timothy,4,N,N,GRN,The Greens,143,1.11
+NT,307,Solomon,8719,Leanyer,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,49,3.08
+NT,307,Solomon,8719,Leanyer,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,60,3.77
+NT,307,Solomon,8719,Leanyer,999,Informal,Informal,999,N,N,,Informal,72,-4.1
+NT,307,Solomon,8720,Ludmilla,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,310,0.16
+NT,307,Solomon,8720,Ludmilla,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,27,2.05
+NT,307,Solomon,8720,Ludmilla,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),267,1.32
+NT,307,Solomon,8720,Ludmilla,33031,PARISH,Timothy,4,N,N,GRN,The Greens,100,2.62
+NT,307,Solomon,8720,Ludmilla,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,15,1.97
+NT,307,Solomon,8720,Ludmilla,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,42,5.52
+NT,307,Solomon,8720,Ludmilla,999,Informal,Informal,999,N,N,,Informal,34,-2.36
+NT,307,Solomon,38314,Malak,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,475,-1.32
+NT,307,Solomon,38314,Malak,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,25,0.27
+NT,307,Solomon,38314,Malak,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),300,-1.15
+NT,307,Solomon,38314,Malak,33031,PARISH,Timothy,4,N,N,GRN,The Greens,114,3.57
+NT,307,Solomon,38314,Malak,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,36,3.63
+NT,307,Solomon,38314,Malak,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,43,4.33
+NT,307,Solomon,38314,Malak,999,Informal,Informal,999,N,N,,Informal,42,-4.48
+NT,307,Solomon,83440,Millner,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,417,0.79
+NT,307,Solomon,83440,Millner,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,24,1.57
+NT,307,Solomon,83440,Millner,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),268,0.06
+NT,307,Solomon,83440,Millner,33031,PARISH,Timothy,4,N,N,GRN,The Greens,165,0.75
+NT,307,Solomon,83440,Millner,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,24,2.59
+NT,307,Solomon,83440,Millner,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,28,3.02
+NT,307,Solomon,83440,Millner,999,Informal,Informal,999,N,N,,Informal,44,-3.71
+NT,307,Solomon,8721,Moil,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,496,-4.56
+NT,307,Solomon,8721,Moil,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,39,0.84
+NT,307,Solomon,8721,Moil,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),381,4.32
+NT,307,Solomon,8721,Moil,33031,PARISH,Timothy,4,N,N,GRN,The Greens,183,3.58
+NT,307,Solomon,8721,Moil,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,31,2.63
+NT,307,Solomon,8721,Moil,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,50,4.24
+NT,307,Solomon,8721,Moil,999,Informal,Informal,999,N,N,,Informal,59,-4.83
+NT,307,Solomon,8722,Nakara,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,713,-2.57
+NT,307,Solomon,8722,Nakara,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,46,1.04
+NT,307,Solomon,8722,Nakara,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),499,-0.52
+NT,307,Solomon,8722,Nakara,33031,PARISH,Timothy,4,N,N,GRN,The Greens,257,3.86
+NT,307,Solomon,8722,Nakara,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,42,2.6
+NT,307,Solomon,8722,Nakara,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,56,3.47
+NT,307,Solomon,8722,Nakara,999,Informal,Informal,999,N,N,,Informal,75,-2.09
+NT,307,Solomon,8724,Nightcliff,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,268,1.34
+NT,307,Solomon,8724,Nightcliff,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,7,0.13
+NT,307,Solomon,8724,Nightcliff,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),162,-4.35
+NT,307,Solomon,8724,Nightcliff,33031,PARISH,Timothy,4,N,N,GRN,The Greens,162,6.53
+NT,307,Solomon,8724,Nightcliff,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,19,2.99
+NT,307,Solomon,8724,Nightcliff,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,18,2.83
+NT,307,Solomon,8724,Nightcliff,999,Informal,Informal,999,N,N,,Informal,29,-3.04
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1915,-3.74
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,159,1.18
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),2431,7.14
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,33031,PARISH,Timothy,4,N,N,GRN,The Greens,393,1.13
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,186,3.43
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,337,6.22
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,290,-2.28
+NT,307,Solomon,8726,Parap,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,395,0.75
+NT,307,Solomon,8726,Parap,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,20,0.38
+NT,307,Solomon,8726,Parap,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),444,-1.01
+NT,307,Solomon,8726,Parap,33031,PARISH,Timothy,4,N,N,GRN,The Greens,191,4.85
+NT,307,Solomon,8726,Parap,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,22,1.99
+NT,307,Solomon,8726,Parap,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,36,3.25
+NT,307,Solomon,8726,Parap,999,Informal,Informal,999,N,N,,Informal,49,-0.72
+NT,307,Solomon,97427,Parap East,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,339,3.32
+NT,307,Solomon,97427,Parap East,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,19,0.71
+NT,307,Solomon,97427,Parap East,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),331,-3.76
+NT,307,Solomon,97427,Parap East,33031,PARISH,Timothy,4,N,N,GRN,The Greens,143,3.73
+NT,307,Solomon,97427,Parap East,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,18,2.03
+NT,307,Solomon,97427,Parap East,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,37,4.17
+NT,307,Solomon,97427,Parap East,999,Informal,Informal,999,N,N,,Informal,27,-2.01
+NT,307,Solomon,8729,Rapid Creek,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,700,-4.5
+NT,307,Solomon,8729,Rapid Creek,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,28,0.59
+NT,307,Solomon,8729,Rapid Creek,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),552,2.96
+NT,307,Solomon,8729,Rapid Creek,33031,PARISH,Timothy,4,N,N,GRN,The Greens,358,3.75
+NT,307,Solomon,8729,Rapid Creek,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,44,2.53
+NT,307,Solomon,8729,Rapid Creek,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,59,3.39
+NT,307,Solomon,8729,Rapid Creek,999,Informal,Informal,999,N,N,,Informal,66,-4.72
+NT,307,Solomon,65151,Rosebery,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,420,-8.93
+NT,307,Solomon,65151,Rosebery,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,36,-0.11
+NT,307,Solomon,65151,Rosebery,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),505,10.18
+NT,307,Solomon,65151,Rosebery,33031,PARISH,Timothy,4,N,N,GRN,The Greens,94,2.21
+NT,307,Solomon,65151,Rosebery,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,45,3.86
+NT,307,Solomon,65151,Rosebery,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,66,5.66
+NT,307,Solomon,65151,Rosebery,999,Informal,Informal,999,N,N,,Informal,57,-4.11
+NT,307,Solomon,34131,Special Hospital Team 1,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,53,6.5
+NT,307,Solomon,34131,Special Hospital Team 1,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,5,3.86
+NT,307,Solomon,34131,Special Hospital Team 1,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),28,-8.87
+NT,307,Solomon,34131,Special Hospital Team 1,33031,PARISH,Timothy,4,N,N,GRN,The Greens,5,-3.65
+NT,307,Solomon,34131,Special Hospital Team 1,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,5,5.05
+NT,307,Solomon,34131,Special Hospital Team 1,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,3,3.03
+NT,307,Solomon,34131,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,6,-2.95
+NT,307,Solomon,97462,Special Hospital Team 2,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,27,-15.64
+NT,307,Solomon,97462,Special Hospital Team 2,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,3,2.3
+NT,307,Solomon,97462,Special Hospital Team 2,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),49,19.83
+NT,307,Solomon,97462,Special Hospital Team 2,33031,PARISH,Timothy,4,N,N,GRN,The Greens,3,-5.21
+NT,307,Solomon,97462,Special Hospital Team 2,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,2,2.33
+NT,307,Solomon,97462,Special Hospital Team 2,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,2,2.33
+NT,307,Solomon,97462,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,7,-1.13
+NT,307,Solomon,8732,Stuart Park,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,510,0.86
+NT,307,Solomon,8732,Stuart Park,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,24,0.3
+NT,307,Solomon,8732,Stuart Park,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),465,-2.05
+NT,307,Solomon,8732,Stuart Park,33031,PARISH,Timothy,4,N,N,GRN,The Greens,175,3.08
+NT,307,Solomon,8732,Stuart Park,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,24,1.91
+NT,307,Solomon,8732,Stuart Park,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,61,4.85
+NT,307,Solomon,8732,Stuart Park,999,Informal,Informal,999,N,N,,Informal,42,-2.71
+NT,307,Solomon,8734,Wanguri,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,790,-3.74
+NT,307,Solomon,8734,Wanguri,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,46,0.64
+NT,307,Solomon,8734,Wanguri,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),558,1.83
+NT,307,Solomon,8734,Wanguri,33031,PARISH,Timothy,4,N,N,GRN,The Greens,207,3.76
+NT,307,Solomon,8734,Wanguri,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,36,2.1
+NT,307,Solomon,8734,Wanguri,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,80,4.66
+NT,307,Solomon,8734,Wanguri,999,Informal,Informal,999,N,N,,Informal,75,-2.75
+NT,307,Solomon,32593,Woodroffe,32743,GOSLING,Luke John,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,217,-5.43
+NT,307,Solomon,32593,Woodroffe,33016,GIMINI,Lorraine,2,N,N,RUA,Rise Up Australia Party,15,1.18
+NT,307,Solomon,32593,Woodroffe,33053,GANLEY,Kathy,3,N,N,CLP,Country Liberals (NT),189,4.39
+NT,307,Solomon,32593,Woodroffe,33031,PARISH,Timothy,4,N,N,GRN,The Greens,57,1.63
+NT,307,Solomon,32593,Woodroffe,32731,RAJWIN,Raj Samson,5,N,N,UAPP,United Australia Party,19,3.53
+NT,307,Solomon,32593,Woodroffe,33617,FRASER-ADAMS,Sue,6,N,N,IND,Independent,42,7.79
+NT,307,Solomon,32593,Woodroffe,999,Informal,Informal,999,N,N,,Informal,34,-5.9

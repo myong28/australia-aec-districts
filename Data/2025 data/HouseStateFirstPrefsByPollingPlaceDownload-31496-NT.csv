@@ -1,0 +1,654 @@
+2025 Federal Election House of Representatives First Preferences By Candidate By Polling Place for NT [Event:31496 Phase:FinalResults Generated:2025-06-16T10:38:42 Cycle:194a421d-c559-4a18-a78a-90c7cf2acb4e Created:2025-06-16T10:36:42 Environment:PROD Site:CANBERRA Server:Internal Version:10.11.386.0]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+NT,306,Lingiari,8701,Alice Springs,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,401,9.33
+NT,306,Lingiari,8701,Alice Springs,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,19,0.98
+NT,306,Lingiari,8701,Alice Springs,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,48,4.46
+NT,306,Lingiari,8701,Alice Springs,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,251,0.34
+NT,306,Lingiari,8701,Alice Springs,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,74,0.42
+NT,306,Lingiari,8701,Alice Springs,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,283,-7.4
+NT,306,Lingiari,8701,Alice Springs,999,Informal,Informal,999,N,N,,Informal,36,-2.81
+NT,306,Lingiari,65681,Alice Springs PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2000,2.53
+NT,306,Lingiari,65681,Alice Springs PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,90,0.89
+NT,306,Lingiari,65681,Alice Springs PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,138,2.45
+NT,306,Lingiari,65681,Alice Springs PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,973,0.49
+NT,306,Lingiari,65681,Alice Springs PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,349,2.35
+NT,306,Lingiari,65681,Alice Springs PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,2092,-3.01
+NT,306,Lingiari,65681,Alice Springs PPVC,999,Informal,Informal,999,N,N,,Informal,215,-1.13
+NT,306,Lingiari,34264,Bees Creek,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,50,1.22
+NT,306,Lingiari,34264,Bees Creek,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,3,0.18
+NT,306,Lingiari,34264,Bees Creek,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,1,0.44
+NT,306,Lingiari,34264,Bees Creek,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,22,1.53
+NT,306,Lingiari,34264,Bees Creek,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,47,11.28
+NT,306,Lingiari,34264,Bees Creek,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,102,8.72
+NT,306,Lingiari,34264,Bees Creek,999,Informal,Informal,999,N,N,,Informal,10,-4.73
+NT,306,Lingiari,8706,Berry Springs,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,119,2.09
+NT,306,Lingiari,8706,Berry Springs,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,16,-0.1
+NT,306,Lingiari,8706,Berry Springs,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,8,1.77
+NT,306,Lingiari,8706,Berry Springs,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,35,-0.52
+NT,306,Lingiari,8706,Berry Springs,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,94,9.34
+NT,306,Lingiari,8706,Berry Springs,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,180,3.77
+NT,306,Lingiari,8706,Berry Springs,999,Informal,Informal,999,N,N,,Informal,15,-4.49
+NT,306,Lingiari,8707,Braitling,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,195,4.78
+NT,306,Lingiari,8707,Braitling,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,4,-0.49
+NT,306,Lingiari,8707,Braitling,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,18,2.84
+NT,306,Lingiari,8707,Braitling,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,127,1.54
+NT,306,Lingiari,8707,Braitling,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,49,-1.45
+NT,306,Lingiari,8707,Braitling,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,240,-0.13
+NT,306,Lingiari,8707,Braitling,999,Informal,Informal,999,N,N,,Informal,25,-2.98
+NT,306,Lingiari,109636,Coolalinga,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,182,-1.03
+NT,306,Lingiari,109636,Coolalinga,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,25,1.61
+NT,306,Lingiari,109636,Coolalinga,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,21,2.53
+NT,306,Lingiari,109636,Coolalinga,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,64,1.03
+NT,306,Lingiari,109636,Coolalinga,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,184,13.79
+NT,306,Lingiari,109636,Coolalinga,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,354,-1.71
+NT,306,Lingiari,109636,Coolalinga,999,Informal,Informal,999,N,N,,Informal,29,-3.29
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1597,2.44
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,177,1.42
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,82,1.3
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,383,-0.59
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,1019,7.83
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,3029,3.82
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,217,-3.33
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,188,3.33
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,11,1.69
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,10,1.99
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,57,-3.74
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,43,3.02
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,193,5.71
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,23,-4.08
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,174,4.63
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,19,2.23
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,14,2.63
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,47,-2.75
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,51,3.77
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,228,5.27
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,18,-7.55
+NT,306,Lingiari,65576,EAV Lingiari PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,4,56.68
+NT,306,Lingiari,65576,EAV Lingiari PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,0,-0.01
+NT,306,Lingiari,65576,EAV Lingiari PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,1,14.29
+NT,306,Lingiari,65576,EAV Lingiari PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,1,-35.22
+NT,306,Lingiari,65576,EAV Lingiari PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,0,-0.1
+NT,306,Lingiari,65576,EAV Lingiari PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,1,-35.43
+NT,306,Lingiari,65576,EAV Lingiari PPVC,999,Informal,Informal,999,N,N,,Informal,0,-0.07
+NT,306,Lingiari,8711,Gillen,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,363,7.96
+NT,306,Lingiari,8711,Gillen,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,23,1.49
+NT,306,Lingiari,8711,Gillen,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,36,3.45
+NT,306,Lingiari,8711,Gillen,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,193,3.15
+NT,306,Lingiari,8711,Gillen,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,93,1.45
+NT,306,Lingiari,8711,Gillen,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,334,-10.53
+NT,306,Lingiari,8711,Gillen,999,Informal,Informal,999,N,N,,Informal,35,-2.66
+NT,306,Lingiari,8713,Howard Springs,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,136,2.68
+NT,306,Lingiari,8713,Howard Springs,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,12,1.03
+NT,306,Lingiari,8713,Howard Springs,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,10,1.85
+NT,306,Lingiari,8713,Howard Springs,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,54,2.61
+NT,306,Lingiari,8713,Howard Springs,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,81,6.1
+NT,306,Lingiari,8713,Howard Springs,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,249,4.71
+NT,306,Lingiari,8713,Howard Springs,999,Informal,Informal,999,N,N,,Informal,15,-2.4
+NT,306,Lingiari,8714,Humpty Doo,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,172,1.69
+NT,306,Lingiari,8714,Humpty Doo,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,27,1.62
+NT,306,Lingiari,8714,Humpty Doo,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,11,1.56
+NT,306,Lingiari,8714,Humpty Doo,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,64,0.04
+NT,306,Lingiari,8714,Humpty Doo,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,142,12.18
+NT,306,Lingiari,8714,Humpty Doo,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,288,3.27
+NT,306,Lingiari,8714,Humpty Doo,999,Informal,Informal,999,N,N,,Informal,43,-0.74
+NT,306,Lingiari,8710,Ilparpa,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,45,-0.59
+NT,306,Lingiari,8710,Ilparpa,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,3,0.7
+NT,306,Lingiari,8710,Ilparpa,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,5,2.42
+NT,306,Lingiari,8710,Ilparpa,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,23,0.16
+NT,306,Lingiari,8710,Ilparpa,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,11,-2.23
+NT,306,Lingiari,8710,Ilparpa,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,120,5.63
+NT,306,Lingiari,8710,Ilparpa,999,Informal,Informal,999,N,N,,Informal,5,-0.94
+NT,306,Lingiari,12068,Katherine East,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,65,10.7
+NT,306,Lingiari,12068,Katherine East,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,3,-1.13
+NT,306,Lingiari,12068,Katherine East,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,6,3.09
+NT,306,Lingiari,12068,Katherine East,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,21,-6.35
+NT,306,Lingiari,12068,Katherine East,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,24,2.17
+NT,306,Lingiari,12068,Katherine East,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,75,1.61
+NT,306,Lingiari,12068,Katherine East,999,Informal,Informal,999,N,N,,Informal,6,-4.01
+NT,306,Lingiari,8717,Katherine North,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,94,1.71
+NT,306,Lingiari,8717,Katherine North,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,12,3.58
+NT,306,Lingiari,8717,Katherine North,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,10,3.42
+NT,306,Lingiari,8717,Katherine North,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,36,-1.1
+NT,306,Lingiari,8717,Katherine North,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,33,2.21
+NT,306,Lingiari,8717,Katherine North,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,107,1.65
+NT,306,Lingiari,8717,Katherine North,999,Informal,Informal,999,N,N,,Informal,12,-3.24
+NT,306,Lingiari,34179,Katherine PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,936,3.66
+NT,306,Lingiari,34179,Katherine PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,59,0.87
+NT,306,Lingiari,34179,Katherine PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,47,1.7
+NT,306,Lingiari,34179,Katherine PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,218,-3.34
+NT,306,Lingiari,34179,Katherine PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,273,4.41
+NT,306,Lingiari,34179,Katherine PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,1228,3.18
+NT,306,Lingiari,34179,Katherine PPVC,999,Informal,Informal,999,N,N,,Informal,115,-1.87
+NT,306,Lingiari,109818,Katherine South,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,60,2.74
+NT,306,Lingiari,109818,Katherine South,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,3,0.78
+NT,306,Lingiari,109818,Katherine South,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,3,1.58
+NT,306,Lingiari,109818,Katherine South,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,22,-2.37
+NT,306,Lingiari,109818,Katherine South,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,19,1.59
+NT,306,Lingiari,109818,Katherine South,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,83,9.4
+NT,306,Lingiari,109818,Katherine South,999,Informal,Informal,999,N,N,,Informal,7,-2.99
+NT,306,Lingiari,12069,Larapinta,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,173,7.24
+NT,306,Lingiari,12069,Larapinta,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,5,0.93
+NT,306,Lingiari,12069,Larapinta,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,12,2.64
+NT,306,Lingiari,12069,Larapinta,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,73,3.56
+NT,306,Lingiari,12069,Larapinta,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,44,1.58
+NT,306,Lingiari,12069,Larapinta,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,147,-8.88
+NT,306,Lingiari,12069,Larapinta,999,Informal,Informal,999,N,N,,Informal,19,0.26
+NT,306,Lingiari,109816,Nhulunbuy PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,484,-4.76
+NT,306,Lingiari,109816,Nhulunbuy PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,20,0.68
+NT,306,Lingiari,109816,Nhulunbuy PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,37,3.05
+NT,306,Lingiari,109816,Nhulunbuy PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,251,4.26
+NT,306,Lingiari,109816,Nhulunbuy PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,171,7.44
+NT,306,Lingiari,109816,Nhulunbuy PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,250,0.49
+NT,306,Lingiari,109816,Nhulunbuy PPVC,999,Informal,Informal,999,N,N,,Informal,46,-4.92
+NT,306,Lingiari,108482,Other Mobile Team 1,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,144,-9.95
+NT,306,Lingiari,108482,Other Mobile Team 1,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,12,3.78
+NT,306,Lingiari,108482,Other Mobile Team 1,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,45,19.15
+NT,306,Lingiari,108482,Other Mobile Team 1,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,3,-5.96
+NT,306,Lingiari,108482,Other Mobile Team 1,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,4,0.01
+NT,306,Lingiari,108482,Other Mobile Team 1,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,27,-2.87
+NT,306,Lingiari,108482,Other Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,19,-8.74
+NT,306,Lingiari,108483,Other Mobile Team 2,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,331,5.04
+NT,306,Lingiari,108483,Other Mobile Team 2,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,9,0.74
+NT,306,Lingiari,108483,Other Mobile Team 2,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,28,6.45
+NT,306,Lingiari,108483,Other Mobile Team 2,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,16,-3.55
+NT,306,Lingiari,108483,Other Mobile Team 2,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,12,1.07
+NT,306,Lingiari,108483,Other Mobile Team 2,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,38,-5.6
+NT,306,Lingiari,108483,Other Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,39,-7.97
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,283,4.75
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,30,1.86
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,28,3.11
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,58,-2.45
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,138,9.36
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,364,1.03
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,42,-2.11
+NT,306,Lingiari,34147,Remote Mobile Team 1,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,879,16.21
+NT,306,Lingiari,34147,Remote Mobile Team 1,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,14,0.32
+NT,306,Lingiari,34147,Remote Mobile Team 1,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,13,1.12
+NT,306,Lingiari,34147,Remote Mobile Team 1,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,19,-4.81
+NT,306,Lingiari,34147,Remote Mobile Team 1,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,7,-1.09
+NT,306,Lingiari,34147,Remote Mobile Team 1,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,233,-4.13
+NT,306,Lingiari,34147,Remote Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,50,-6.47
+NT,306,Lingiari,34156,Remote Mobile Team 10,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,299,1.91
+NT,306,Lingiari,34156,Remote Mobile Team 10,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,14,1.98
+NT,306,Lingiari,34156,Remote Mobile Team 10,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,25,5.11
+NT,306,Lingiari,34156,Remote Mobile Team 10,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,19,-2.55
+NT,306,Lingiari,34156,Remote Mobile Team 10,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,27,3.83
+NT,306,Lingiari,34156,Remote Mobile Team 10,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,105,-2.66
+NT,306,Lingiari,34156,Remote Mobile Team 10,999,Informal,Informal,999,N,N,,Informal,22,-6.28
+NT,306,Lingiari,34157,Remote Mobile Team 11,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,399,24.58
+NT,306,Lingiari,34157,Remote Mobile Team 11,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,8,0.8
+NT,306,Lingiari,34157,Remote Mobile Team 11,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,16,3.36
+NT,306,Lingiari,34157,Remote Mobile Team 11,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,10,-4.34
+NT,306,Lingiari,34157,Remote Mobile Team 11,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,5,-0.64
+NT,306,Lingiari,34157,Remote Mobile Team 11,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,38,-16.15
+NT,306,Lingiari,34157,Remote Mobile Team 11,999,Informal,Informal,999,N,N,,Informal,14,-7.73
+NT,306,Lingiari,34158,Remote Mobile Team 12,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,594,25.62
+NT,306,Lingiari,34158,Remote Mobile Team 12,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,6,-0.02
+NT,306,Lingiari,34158,Remote Mobile Team 12,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,18,2.57
+NT,306,Lingiari,34158,Remote Mobile Team 12,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,23,-3.15
+NT,306,Lingiari,34158,Remote Mobile Team 12,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,16,0.6
+NT,306,Lingiari,34158,Remote Mobile Team 12,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,43,-17.99
+NT,306,Lingiari,34158,Remote Mobile Team 12,999,Informal,Informal,999,N,N,,Informal,89,0.69
+NT,306,Lingiari,34159,Remote Mobile Team 13,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,279,9.31
+NT,306,Lingiari,34159,Remote Mobile Team 13,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,12,2.07
+NT,306,Lingiari,34159,Remote Mobile Team 13,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,6,1.47
+NT,306,Lingiari,34159,Remote Mobile Team 13,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,13,-3.25
+NT,306,Lingiari,34159,Remote Mobile Team 13,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,4,-0.71
+NT,306,Lingiari,34159,Remote Mobile Team 13,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,93,-1.28
+NT,306,Lingiari,34159,Remote Mobile Team 13,999,Informal,Informal,999,N,N,,Informal,44,-0.83
+NT,306,Lingiari,34160,Remote Mobile Team 14,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,55,3.98
+NT,306,Lingiari,34160,Remote Mobile Team 14,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,4,3.72
+NT,306,Lingiari,34160,Remote Mobile Team 14,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,10,11.49
+NT,306,Lingiari,34160,Remote Mobile Team 14,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,3,-2.99
+NT,306,Lingiari,34160,Remote Mobile Team 14,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,4,2.91
+NT,306,Lingiari,34160,Remote Mobile Team 14,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,11,-11.49
+NT,306,Lingiari,34160,Remote Mobile Team 14,999,Informal,Informal,999,N,N,,Informal,9,-1.21
+NT,306,Lingiari,34161,Remote Mobile Team 15,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,166,7.16
+NT,306,Lingiari,34161,Remote Mobile Team 15,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,5,1.12
+NT,306,Lingiari,34161,Remote Mobile Team 15,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,8,3.2
+NT,306,Lingiari,34161,Remote Mobile Team 15,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,11,-2.04
+NT,306,Lingiari,34161,Remote Mobile Team 15,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,4,-0.09
+NT,306,Lingiari,34161,Remote Mobile Team 15,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,56,-1.73
+NT,306,Lingiari,34161,Remote Mobile Team 15,999,Informal,Informal,999,N,N,,Informal,9,-7.12
+NT,306,Lingiari,34162,Remote Mobile Team 16,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,155,16
+NT,306,Lingiari,34162,Remote Mobile Team 16,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,4,1.06
+NT,306,Lingiari,34162,Remote Mobile Team 16,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,8,3.88
+NT,306,Lingiari,34162,Remote Mobile Team 16,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,14,0.36
+NT,306,Lingiari,34162,Remote Mobile Team 16,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,0,-1.69
+NT,306,Lingiari,34162,Remote Mobile Team 16,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,25,-11.99
+NT,306,Lingiari,34162,Remote Mobile Team 16,999,Informal,Informal,999,N,N,,Informal,24,-0.16
+NT,306,Lingiari,108875,Remote Mobile Team 17,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,309,26.12
+NT,306,Lingiari,108875,Remote Mobile Team 17,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,5,0.5
+NT,306,Lingiari,108875,Remote Mobile Team 17,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,12,3.31
+NT,306,Lingiari,108875,Remote Mobile Team 17,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,10,-3.68
+NT,306,Lingiari,108875,Remote Mobile Team 17,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,7,0.24
+NT,306,Lingiari,108875,Remote Mobile Team 17,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,19,-18.88
+NT,306,Lingiari,108875,Remote Mobile Team 17,999,Informal,Informal,999,N,N,,Informal,35,-1.77
+NT,306,Lingiari,108877,Remote Mobile Team 18,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,311,21.96
+NT,306,Lingiari,108877,Remote Mobile Team 18,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,7,0.95
+NT,306,Lingiari,108877,Remote Mobile Team 18,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,12,3.13
+NT,306,Lingiari,108877,Remote Mobile Team 18,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,23,-0.43
+NT,306,Lingiari,108877,Remote Mobile Team 18,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,6,-0.12
+NT,306,Lingiari,108877,Remote Mobile Team 18,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,24,-17.86
+NT,306,Lingiari,108877,Remote Mobile Team 18,999,Informal,Informal,999,N,N,,Informal,26,-4.23
+NT,306,Lingiari,109384,Remote Mobile Team 19,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,163,25.22
+NT,306,Lingiari,109384,Remote Mobile Team 19,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,2,0.16
+NT,306,Lingiari,109384,Remote Mobile Team 19,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,9,4.66
+NT,306,Lingiari,109384,Remote Mobile Team 19,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,4,-4.37
+NT,306,Lingiari,109384,Remote Mobile Team 19,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,4,0.38
+NT,306,Lingiari,109384,Remote Mobile Team 19,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,11,-18.43
+NT,306,Lingiari,109384,Remote Mobile Team 19,999,Informal,Informal,999,N,N,,Informal,6,-7.57
+NT,306,Lingiari,34148,Remote Mobile Team 2,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,417,17.56
+NT,306,Lingiari,34148,Remote Mobile Team 2,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,7,0.41
+NT,306,Lingiari,34148,Remote Mobile Team 2,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,14,2.58
+NT,306,Lingiari,34148,Remote Mobile Team 2,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,14,-3.86
+NT,306,Lingiari,34148,Remote Mobile Team 2,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,26,3.1
+NT,306,Lingiari,34148,Remote Mobile Team 2,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,65,-12.16
+NT,306,Lingiari,34148,Remote Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,14,-8.08
+NT,306,Lingiari,109385,Remote Mobile Team 20,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,188,19.42
+NT,306,Lingiari,109385,Remote Mobile Team 20,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,3,0.38
+NT,306,Lingiari,109385,Remote Mobile Team 20,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,14,5.86
+NT,306,Lingiari,109385,Remote Mobile Team 20,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,9,-2.67
+NT,306,Lingiari,109385,Remote Mobile Team 20,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,5,0.4
+NT,306,Lingiari,109385,Remote Mobile Team 20,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,20,-15.76
+NT,306,Lingiari,109385,Remote Mobile Team 20,999,Informal,Informal,999,N,N,,Informal,14,-5.06
+NT,306,Lingiari,109386,Remote Mobile Team 21,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,429,26.22
+NT,306,Lingiari,109386,Remote Mobile Team 21,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,11,1.31
+NT,306,Lingiari,109386,Remote Mobile Team 21,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,15,2.99
+NT,306,Lingiari,109386,Remote Mobile Team 21,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,15,-3.45
+NT,306,Lingiari,109386,Remote Mobile Team 21,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,4,-0.89
+NT,306,Lingiari,109386,Remote Mobile Team 21,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,28,-18.55
+NT,306,Lingiari,109386,Remote Mobile Team 21,999,Informal,Informal,999,N,N,,Informal,24,-6.03
+NT,306,Lingiari,109491,Remote Mobile Team 22,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,115,25.32
+NT,306,Lingiari,109491,Remote Mobile Team 22,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,6,3.53
+NT,306,Lingiari,109491,Remote Mobile Team 22,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,5,3.68
+NT,306,Lingiari,109491,Remote Mobile Team 22,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,3,-4.23
+NT,306,Lingiari,109491,Remote Mobile Team 22,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,2,-0.22
+NT,306,Lingiari,109491,Remote Mobile Team 22,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,5,-20.45
+NT,306,Lingiari,109491,Remote Mobile Team 22,999,Informal,Informal,999,N,N,,Informal,8,-5.03
+NT,306,Lingiari,109648,Remote Mobile Team 23,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,242,5.64
+NT,306,Lingiari,109648,Remote Mobile Team 23,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,6,0.73
+NT,306,Lingiari,109648,Remote Mobile Team 23,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,8,2.14
+NT,306,Lingiari,109648,Remote Mobile Team 23,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,62,10.18
+NT,306,Lingiari,109648,Remote Mobile Team 23,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,21,3.94
+NT,306,Lingiari,109648,Remote Mobile Team 23,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,34,-15.01
+NT,306,Lingiari,109648,Remote Mobile Team 23,999,Informal,Informal,999,N,N,,Informal,17,-6.23
+NT,306,Lingiari,109649,Remote Mobile Team 24,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,229,23.43
+NT,306,Lingiari,109649,Remote Mobile Team 24,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,2,-0.16
+NT,306,Lingiari,109649,Remote Mobile Team 24,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,10,3.61
+NT,306,Lingiari,109649,Remote Mobile Team 24,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,16,-0.66
+NT,306,Lingiari,109649,Remote Mobile Team 24,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,8,1.2
+NT,306,Lingiari,109649,Remote Mobile Team 24,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,12,-19.8
+NT,306,Lingiari,109649,Remote Mobile Team 24,999,Informal,Informal,999,N,N,,Informal,9,-7.44
+NT,306,Lingiari,109650,Remote Mobile Team 25,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,156,-11.24
+NT,306,Lingiari,109650,Remote Mobile Team 25,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,7,1.27
+NT,306,Lingiari,109650,Remote Mobile Team 25,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,24,7.38
+NT,306,Lingiari,109650,Remote Mobile Team 25,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,66,13.87
+NT,306,Lingiari,109650,Remote Mobile Team 25,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,25,6
+NT,306,Lingiari,109650,Remote Mobile Team 25,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,47,-9.67
+NT,306,Lingiari,109650,Remote Mobile Team 25,999,Informal,Informal,999,N,N,,Informal,7,-8.48
+NT,306,Lingiari,109651,Remote Mobile Team 26,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,59,-5.6
+NT,306,Lingiari,109651,Remote Mobile Team 26,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,2,0.94
+NT,306,Lingiari,109651,Remote Mobile Team 26,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,5,4.55
+NT,306,Lingiari,109651,Remote Mobile Team 26,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,5,-1.89
+NT,306,Lingiari,109651,Remote Mobile Team 26,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,5,2.86
+NT,306,Lingiari,109651,Remote Mobile Team 26,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,34,6.78
+NT,306,Lingiari,109651,Remote Mobile Team 26,999,Informal,Informal,999,N,N,,Informal,10,-2.26
+NT,306,Lingiari,124056,Remote Mobile Team 27,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,648,28.92
+NT,306,Lingiari,124056,Remote Mobile Team 27,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,13,0.89
+NT,306,Lingiari,124056,Remote Mobile Team 27,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,10,1.36
+NT,306,Lingiari,124056,Remote Mobile Team 27,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,14,-4.54
+NT,306,Lingiari,124056,Remote Mobile Team 27,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,12,-0.06
+NT,306,Lingiari,124056,Remote Mobile Team 27,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,38,-18.96
+NT,306,Lingiari,124056,Remote Mobile Team 27,999,Informal,Informal,999,N,N,,Informal,71,-1.78
+NT,306,Lingiari,124057,Remote Mobile Team 28,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,449,22.84
+NT,306,Lingiari,124057,Remote Mobile Team 28,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,9,0.77
+NT,306,Lingiari,124057,Remote Mobile Team 28,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,7,1.28
+NT,306,Lingiari,124057,Remote Mobile Team 28,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,25,-1.87
+NT,306,Lingiari,124057,Remote Mobile Team 28,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,12,0.5
+NT,306,Lingiari,124057,Remote Mobile Team 28,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,45,-15.9
+NT,306,Lingiari,124057,Remote Mobile Team 28,999,Informal,Informal,999,N,N,,Informal,50,-2.21
+NT,306,Lingiari,124149,Remote Mobile Team 29,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,369,6.54
+NT,306,Lingiari,124149,Remote Mobile Team 29,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,7,0.37
+NT,306,Lingiari,124149,Remote Mobile Team 29,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,9,1.6
+NT,306,Lingiari,124149,Remote Mobile Team 29,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,28,-1.45
+NT,306,Lingiari,124149,Remote Mobile Team 29,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,23,2.41
+NT,306,Lingiari,124149,Remote Mobile Team 29,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,125,-1.85
+NT,306,Lingiari,124149,Remote Mobile Team 29,999,Informal,Informal,999,N,N,,Informal,50,-2.41
+NT,306,Lingiari,34149,Remote Mobile Team 3,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,51,11.59
+NT,306,Lingiari,34149,Remote Mobile Team 3,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,2,1.9
+NT,306,Lingiari,34149,Remote Mobile Team 3,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,8,11.11
+NT,306,Lingiari,34149,Remote Mobile Team 3,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,4,-0.88
+NT,306,Lingiari,34149,Remote Mobile Team 3,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,1,-0.3
+NT,306,Lingiari,34149,Remote Mobile Team 3,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,6,-15.8
+NT,306,Lingiari,34149,Remote Mobile Team 3,999,Informal,Informal,999,N,N,,Informal,21,11.99
+NT,306,Lingiari,124150,Remote Mobile Team 30,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,294,12.64
+NT,306,Lingiari,124150,Remote Mobile Team 30,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,6,0.59
+NT,306,Lingiari,124150,Remote Mobile Team 30,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,7,1.71
+NT,306,Lingiari,124150,Remote Mobile Team 30,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,18,-2.04
+NT,306,Lingiari,124150,Remote Mobile Team 30,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,15,1.98
+NT,306,Lingiari,124150,Remote Mobile Team 30,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,69,-7.26
+NT,306,Lingiari,124150,Remote Mobile Team 30,999,Informal,Informal,999,N,N,,Informal,38,-2.09
+NT,306,Lingiari,124151,Remote Mobile Team 31,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,16,-42.91
+NT,306,Lingiari,124151,Remote Mobile Team 31,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,3,2.18
+NT,306,Lingiari,124151,Remote Mobile Team 31,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,1,1.02
+NT,306,Lingiari,124151,Remote Mobile Team 31,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,2,-4.4
+NT,306,Lingiari,124151,Remote Mobile Team 31,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,33,31.98
+NT,306,Lingiari,124151,Remote Mobile Team 31,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,43,19.75
+NT,306,Lingiari,124151,Remote Mobile Team 31,999,Informal,Informal,999,N,N,,Informal,1,-9.58
+NT,306,Lingiari,34150,Remote Mobile Team 4,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,121,-18.64
+NT,306,Lingiari,34150,Remote Mobile Team 4,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,9,2.14
+NT,306,Lingiari,34150,Remote Mobile Team 4,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,6,2.01
+NT,306,Lingiari,34150,Remote Mobile Team 4,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,7,-4.09
+NT,306,Lingiari,34150,Remote Mobile Team 4,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,27,7.37
+NT,306,Lingiari,34150,Remote Mobile Team 4,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,128,18.82
+NT,306,Lingiari,34150,Remote Mobile Team 4,999,Informal,Informal,999,N,N,,Informal,19,-4.6
+NT,306,Lingiari,34151,Remote Mobile Team 5,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,698,24.55
+NT,306,Lingiari,34151,Remote Mobile Team 5,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,10,0.32
+NT,306,Lingiari,34151,Remote Mobile Team 5,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,16,1.92
+NT,306,Lingiari,34151,Remote Mobile Team 5,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,36,-2.12
+NT,306,Lingiari,34151,Remote Mobile Team 5,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,5,-1.09
+NT,306,Lingiari,34151,Remote Mobile Team 5,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,68,-15.97
+NT,306,Lingiari,34151,Remote Mobile Team 5,999,Informal,Informal,999,N,N,,Informal,66,-3.25
+NT,306,Lingiari,34152,Remote Mobile Team 6,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,93,-9.24
+NT,306,Lingiari,34152,Remote Mobile Team 6,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,14,6.65
+NT,306,Lingiari,34152,Remote Mobile Team 6,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,23,12.37
+NT,306,Lingiari,34152,Remote Mobile Team 6,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,20,4.31
+NT,306,Lingiari,34152,Remote Mobile Team 6,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,12,4.76
+NT,306,Lingiari,34152,Remote Mobile Team 6,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,24,-11.23
+NT,306,Lingiari,34152,Remote Mobile Team 6,999,Informal,Informal,999,N,N,,Informal,11,-5.01
+NT,306,Lingiari,34153,Remote Mobile Team 7,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,293,13.28
+NT,306,Lingiari,34153,Remote Mobile Team 7,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,16,3.08
+NT,306,Lingiari,34153,Remote Mobile Team 7,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,29,7.18
+NT,306,Lingiari,34153,Remote Mobile Team 7,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,23,-0.75
+NT,306,Lingiari,34153,Remote Mobile Team 7,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,8,0.29
+NT,306,Lingiari,34153,Remote Mobile Team 7,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,35,-15.47
+NT,306,Lingiari,34153,Remote Mobile Team 7,999,Informal,Informal,999,N,N,,Informal,40,-1.58
+NT,306,Lingiari,34154,Remote Mobile Team 8,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,476,8.37
+NT,306,Lingiari,34154,Remote Mobile Team 8,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,9,0.4
+NT,306,Lingiari,34154,Remote Mobile Team 8,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,14,1.99
+NT,306,Lingiari,34154,Remote Mobile Team 8,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,39,-0.9
+NT,306,Lingiari,34154,Remote Mobile Team 8,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,45,4.7
+NT,306,Lingiari,34154,Remote Mobile Team 8,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,121,-6.94
+NT,306,Lingiari,34154,Remote Mobile Team 8,999,Informal,Informal,999,N,N,,Informal,36,-5.73
+NT,306,Lingiari,34155,Remote Mobile Team 9,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,339,3.31
+NT,306,Lingiari,34155,Remote Mobile Team 9,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,11,1.15
+NT,306,Lingiari,34155,Remote Mobile Team 9,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,26,4.8
+NT,306,Lingiari,34155,Remote Mobile Team 9,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,23,-2.2
+NT,306,Lingiari,34155,Remote Mobile Team 9,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,13,0.71
+NT,306,Lingiari,34155,Remote Mobile Team 9,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,130,-0.14
+NT,306,Lingiari,34155,Remote Mobile Team 9,999,Informal,Informal,999,N,N,,Informal,29,-5.51
+NT,306,Lingiari,8731,Sadadeen,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,184,2.26
+NT,306,Lingiari,8731,Sadadeen,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,10,1.2
+NT,306,Lingiari,8731,Sadadeen,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,16,2.97
+NT,306,Lingiari,8731,Sadadeen,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,153,3.51
+NT,306,Lingiari,8731,Sadadeen,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,39,1.96
+NT,306,Lingiari,8731,Sadadeen,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,137,-3.61
+NT,306,Lingiari,8731,Sadadeen,999,Informal,Informal,999,N,N,,Informal,12,-2.81
+NT,306,Lingiari,109475,Special Hospital Team 1,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,337,24.77
+NT,306,Lingiari,109475,Special Hospital Team 1,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,9,0.46
+NT,306,Lingiari,109475,Special Hospital Team 1,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,20,3.41
+NT,306,Lingiari,109475,Special Hospital Team 1,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,92,2.5
+NT,306,Lingiari,109475,Special Hospital Team 1,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,14,-3.9
+NT,306,Lingiari,109475,Special Hospital Team 1,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,114,-11.33
+NT,306,Lingiari,109475,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,30,-1.38
+NT,306,Lingiari,109819,Special Hospital Team 2,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,70,27.09
+NT,306,Lingiari,109819,Special Hospital Team 2,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,1,-0.23
+NT,306,Lingiari,109819,Special Hospital Team 2,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,10,8.55
+NT,306,Lingiari,109819,Special Hospital Team 2,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,8,-6.36
+NT,306,Lingiari,109819,Special Hospital Team 2,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,6,-1.16
+NT,306,Lingiari,109819,Special Hospital Team 2,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,22,-11.98
+NT,306,Lingiari,109819,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,5,-2.15
+NT,306,Lingiari,109817,Tennant Creek PPVC,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,410,20.53
+NT,306,Lingiari,109817,Tennant Creek PPVC,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,24,1.85
+NT,306,Lingiari,109817,Tennant Creek PPVC,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,18,2.16
+NT,306,Lingiari,109817,Tennant Creek PPVC,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,68,-4.27
+NT,306,Lingiari,109817,Tennant Creek PPVC,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,52,0.12
+NT,306,Lingiari,109817,Tennant Creek PPVC,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,263,-6.65
+NT,306,Lingiari,109817,Tennant Creek PPVC,999,Informal,Informal,999,N,N,,Informal,56,0.31
+NT,306,Lingiari,8888,Tindal,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,54,2.76
+NT,306,Lingiari,8888,Tindal,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,3,1.35
+NT,306,Lingiari,8888,Tindal,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,1,0.63
+NT,306,Lingiari,8888,Tindal,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,22,5.67
+NT,306,Lingiari,8888,Tindal,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,18,5.91
+NT,306,Lingiari,8888,Tindal,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,62,16.18
+NT,306,Lingiari,8888,Tindal,999,Informal,Informal,999,N,N,,Informal,6,-0.93
+NT,306,Lingiari,65142,Wagait Beach,41011,SCRYMGOUR,Marion,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,74,0.52
+NT,306,Lingiari,65142,Wagait Beach,40635,FLYNN,Peter,2,N,N,CEC,Citizens Party,1,-1.39
+NT,306,Lingiari,65142,Wagait Beach,41843,TOMLINS,Chris,3,N,N,IAP,Indigenous - Aboriginal Party of Australia,2,1.1
+NT,306,Lingiari,65142,Wagait Beach,41151,McFARLAND,Blair,4,N,N,GRN,Australian Greens,28,7.6
+NT,306,Lingiari,65142,Wagait Beach,41020,BAIRAMIS,Sakellarios,5,N,N,ON,Pauline Hanson's One Nation,21,0.57
+NT,306,Lingiari,65142,Wagait Beach,41126,SIEBERT,Lisa,6,N,N,CLP,NT CLP,56,1.43
+NT,306,Lingiari,65142,Wagait Beach,999,Informal,Informal,999,N,N,,Informal,9,0.34
+NT,307,Solomon,33137,Bakewell,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,99,-0.25
+NT,307,Solomon,33137,Bakewell,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,298,9.49
+NT,307,Solomon,33137,Bakewell,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,91,3.47
+NT,307,Solomon,33137,Bakewell,40620,SCOTT,Phil,4,N,N,IND,Independent,114,13.1
+NT,307,Solomon,33137,Bakewell,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,9,1.03
+NT,307,Solomon,33137,Bakewell,42082,DAVIES,Janey,6,N,N,IND,Independent,3,0.34
+NT,307,Solomon,33137,Bakewell,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,256,-7.58
+NT,307,Solomon,33137,Bakewell,999,Informal,Informal,999,N,N,,Informal,50,0.11
+NT,307,Solomon,32593,Bellamack,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,39,-0.04
+NT,307,Solomon,32593,Bellamack,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,109,13.67
+NT,307,Solomon,32593,Bellamack,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,36,2.61
+NT,307,Solomon,32593,Bellamack,40620,SCOTT,Phil,4,N,N,IND,Independent,28,8.92
+NT,307,Solomon,32593,Bellamack,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,1,0.32
+NT,307,Solomon,32593,Bellamack,42082,DAVIES,Janey,6,N,N,IND,Independent,3,0.96
+NT,307,Solomon,32593,Bellamack,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,98,-10.42
+NT,307,Solomon,32593,Bellamack,999,Informal,Informal,999,N,N,,Informal,12,-1.63
+NT,307,Solomon,8705,Berrimah,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,21,-1.77
+NT,307,Solomon,8705,Berrimah,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,146,15.96
+NT,307,Solomon,8705,Berrimah,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,18,-4.74
+NT,307,Solomon,8705,Berrimah,40620,SCOTT,Phil,4,N,N,IND,Independent,37,11.75
+NT,307,Solomon,8705,Berrimah,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,3,0.95
+NT,307,Solomon,8705,Berrimah,42082,DAVIES,Janey,6,N,N,IND,Independent,1,0.32
+NT,307,Solomon,8705,Berrimah,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,89,-3.6
+NT,307,Solomon,8705,Berrimah,999,Informal,Informal,999,N,N,,Informal,12,1.09
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,139,-2.85
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,799,13.8
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,183,0.54
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,40620,SCOTT,Phil,4,N,N,IND,Independent,149,8.15
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,22,0.84
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,42082,DAVIES,Janey,6,N,N,IND,Independent,40,2.19
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,497,-4.44
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,65,-2.01
+NT,307,Solomon,8709,Darwin,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,167,-3.79
+NT,307,Solomon,8709,Darwin,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,390,10.17
+NT,307,Solomon,8709,Darwin,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,96,2.85
+NT,307,Solomon,8709,Darwin,40620,SCOTT,Phil,4,N,N,IND,Independent,137,10.96
+NT,307,Solomon,8709,Darwin,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,7,0.56
+NT,307,Solomon,8709,Darwin,42082,DAVIES,Janey,6,N,N,IND,Independent,19,1.52
+NT,307,Solomon,8709,Darwin,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,434,-5.54
+NT,307,Solomon,8709,Darwin,999,Informal,Informal,999,N,N,,Informal,44,0.67
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,765,-5.07
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,2533,9.72
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,340,1.73
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,40620,SCOTT,Phil,4,N,N,IND,Independent,884,12.77
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,26,0.37
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,42082,DAVIES,Janey,6,N,N,IND,Independent,56,0.81
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2319,-7.56
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,192,-0.05
+NT,307,Solomon,8725,Driver,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,110,1.45
+NT,307,Solomon,8725,Driver,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,276,3.51
+NT,307,Solomon,8725,Driver,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,102,0.96
+NT,307,Solomon,8725,Driver,40620,SCOTT,Phil,4,N,N,IND,Independent,133,14.49
+NT,307,Solomon,8725,Driver,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,6,0.65
+NT,307,Solomon,8725,Driver,42082,DAVIES,Janey,6,N,N,IND,Independent,21,2.29
+NT,307,Solomon,8725,Driver,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,270,-3.56
+NT,307,Solomon,8725,Driver,999,Informal,Informal,999,N,N,,Informal,47,-0.22
+NT,307,Solomon,32595,Durack,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,55,-4.23
+NT,307,Solomon,32595,Durack,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,317,13.88
+NT,307,Solomon,32595,Durack,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,68,2.73
+NT,307,Solomon,32595,Durack,40620,SCOTT,Phil,4,N,N,IND,Independent,75,10.59
+NT,307,Solomon,32595,Durack,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,0,0
+NT,307,Solomon,32595,Durack,42082,DAVIES,Janey,6,N,N,IND,Independent,7,0.99
+NT,307,Solomon,32595,Durack,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,186,-5.85
+NT,307,Solomon,32595,Durack,999,Informal,Informal,999,N,N,,Informal,40,0.29
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,1163,-6.02
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,5384,11.36
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,763,0.94
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,40620,SCOTT,Phil,4,N,N,IND,Independent,1985,13.61
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,72,0.48
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,42082,DAVIES,Janey,6,N,N,IND,Independent,119,0.82
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,5099,-7.17
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,543,0.55
+NT,307,Solomon,65623,EAV Solomon PPVC,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,2,21.82
+NT,307,Solomon,65623,EAV Solomon PPVC,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,5,41.12
+NT,307,Solomon,65623,EAV Solomon PPVC,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,0,-14.1
+NT,307,Solomon,65623,EAV Solomon PPVC,40620,SCOTT,Phil,4,N,N,IND,Independent,0,0
+NT,307,Solomon,65623,EAV Solomon PPVC,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,0,0
+NT,307,Solomon,65623,EAV Solomon PPVC,42082,DAVIES,Janey,6,N,N,IND,Independent,0,0
+NT,307,Solomon,65623,EAV Solomon PPVC,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2,-48.59
+NT,307,Solomon,65623,EAV Solomon PPVC,999,Informal,Informal,999,N,N,,Informal,0,-0.04
+NT,307,Solomon,8887,Gray,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,53,-7.35
+NT,307,Solomon,8887,Gray,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,207,16.67
+NT,307,Solomon,8887,Gray,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,64,1.49
+NT,307,Solomon,8887,Gray,40620,SCOTT,Phil,4,N,N,IND,Independent,62,10.86
+NT,307,Solomon,8887,Gray,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,1,0.18
+NT,307,Solomon,8887,Gray,42082,DAVIES,Janey,6,N,N,IND,Independent,6,1.05
+NT,307,Solomon,8887,Gray,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,178,-9.85
+NT,307,Solomon,8887,Gray,999,Informal,Informal,999,N,N,,Informal,35,0.09
+NT,307,Solomon,8716,Karama,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,85,-1.82
+NT,307,Solomon,8716,Karama,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,290,10.86
+NT,307,Solomon,8716,Karama,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,53,-0.2
+NT,307,Solomon,8716,Karama,40620,SCOTT,Phil,4,N,N,IND,Independent,146,15.9
+NT,307,Solomon,8716,Karama,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,11,1.2
+NT,307,Solomon,8716,Karama,42082,DAVIES,Janey,6,N,N,IND,Independent,12,1.31
+NT,307,Solomon,8716,Karama,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,321,-8.59
+NT,307,Solomon,8716,Karama,999,Informal,Informal,999,N,N,,Informal,53,0.2
+NT,307,Solomon,83441,Karama East,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,39,-3.2
+NT,307,Solomon,83441,Karama East,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,110,13.41
+NT,307,Solomon,83441,Karama East,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,18,-2.14
+NT,307,Solomon,83441,Karama East,40620,SCOTT,Phil,4,N,N,IND,Independent,57,15.7
+NT,307,Solomon,83441,Karama East,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,2,0.55
+NT,307,Solomon,83441,Karama East,42082,DAVIES,Janey,6,N,N,IND,Independent,6,1.65
+NT,307,Solomon,83441,Karama East,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,131,-9.23
+NT,307,Solomon,83441,Karama East,999,Informal,Informal,999,N,N,,Informal,19,2.07
+NT,307,Solomon,8719,Leanyer,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,83,-0.59
+NT,307,Solomon,8719,Leanyer,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,252,7.61
+NT,307,Solomon,8719,Leanyer,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,48,1.5
+NT,307,Solomon,8719,Leanyer,40620,SCOTT,Phil,4,N,N,IND,Independent,113,14.68
+NT,307,Solomon,8719,Leanyer,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,10,1.3
+NT,307,Solomon,8719,Leanyer,42082,DAVIES,Janey,6,N,N,IND,Independent,9,1.17
+NT,307,Solomon,8719,Leanyer,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,255,-8.85
+NT,307,Solomon,8719,Leanyer,999,Informal,Informal,999,N,N,,Informal,26,-1.54
+NT,307,Solomon,8720,Ludmilla,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,81,-6.51
+NT,307,Solomon,8720,Ludmilla,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,183,8.06
+NT,307,Solomon,8720,Ludmilla,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,36,2.44
+NT,307,Solomon,8720,Ludmilla,40620,SCOTT,Phil,4,N,N,IND,Independent,68,11.89
+NT,307,Solomon,8720,Ludmilla,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,5,0.87
+NT,307,Solomon,8720,Ludmilla,42082,DAVIES,Janey,6,N,N,IND,Independent,6,1.05
+NT,307,Solomon,8720,Ludmilla,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,193,-4.03
+NT,307,Solomon,8720,Ludmilla,999,Informal,Informal,999,N,N,,Informal,19,0.23
+NT,307,Solomon,38314,Malak,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,93,-5.31
+NT,307,Solomon,38314,Malak,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,298,8.82
+NT,307,Solomon,38314,Malak,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,47,0.69
+NT,307,Solomon,38314,Malak,40620,SCOTT,Phil,4,N,N,IND,Independent,151,15.6
+NT,307,Solomon,38314,Malak,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,6,0.62
+NT,307,Solomon,38314,Malak,42082,DAVIES,Janey,6,N,N,IND,Independent,7,0.72
+NT,307,Solomon,38314,Malak,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,366,-7.53
+NT,307,Solomon,38314,Malak,999,Informal,Informal,999,N,N,,Informal,28,-1.01
+NT,307,Solomon,83440,Millner,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,97,-12.48
+NT,307,Solomon,83440,Millner,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,305,13.12
+NT,307,Solomon,83440,Millner,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,61,2.03
+NT,307,Solomon,83440,Millner,40620,SCOTT,Phil,4,N,N,IND,Independent,160,16.61
+NT,307,Solomon,83440,Millner,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,7,0.73
+NT,307,Solomon,83440,Millner,42082,DAVIES,Janey,6,N,N,IND,Independent,12,1.25
+NT,307,Solomon,83440,Millner,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,321,-8.22
+NT,307,Solomon,83440,Millner,999,Informal,Informal,999,N,N,,Informal,41,0.45
+NT,307,Solomon,8721,Moil,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,124,-6.37
+NT,307,Solomon,8721,Moil,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,352,10.7
+NT,307,Solomon,8721,Moil,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,67,2.67
+NT,307,Solomon,8721,Moil,40620,SCOTT,Phil,4,N,N,IND,Independent,165,15.71
+NT,307,Solomon,8721,Moil,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,9,0.86
+NT,307,Solomon,8721,Moil,42082,DAVIES,Janey,6,N,N,IND,Independent,12,1.14
+NT,307,Solomon,8721,Moil,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,321,-9.71
+NT,307,Solomon,8721,Moil,999,Informal,Informal,999,N,N,,Informal,64,0.86
+NT,307,Solomon,8722,Nakara,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,125,-7.1
+NT,307,Solomon,8722,Nakara,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,264,9.91
+NT,307,Solomon,8722,Nakara,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,43,-2.23
+NT,307,Solomon,8722,Nakara,40620,SCOTT,Phil,4,N,N,IND,Independent,192,19.75
+NT,307,Solomon,8722,Nakara,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,8,0.82
+NT,307,Solomon,8722,Nakara,42082,DAVIES,Janey,6,N,N,IND,Independent,8,0.82
+NT,307,Solomon,8722,Nakara,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,332,-8.51
+NT,307,Solomon,8722,Nakara,999,Informal,Informal,999,N,N,,Informal,41,-0.25
+NT,307,Solomon,109473,Other Mobile Team 1,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,28,-3.44
+NT,307,Solomon,109473,Other Mobile Team 1,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,41,-3.54
+NT,307,Solomon,109473,Other Mobile Team 1,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,10,0.75
+NT,307,Solomon,109473,Other Mobile Team 1,40620,SCOTT,Phil,4,N,N,IND,Independent,25,13.44
+NT,307,Solomon,109473,Other Mobile Team 1,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,1,0.54
+NT,307,Solomon,109473,Other Mobile Team 1,42082,DAVIES,Janey,6,N,N,IND,Independent,4,2.15
+NT,307,Solomon,109473,Other Mobile Team 1,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,77,3.91
+NT,307,Solomon,109473,Other Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,20,6.9
+NT,307,Solomon,83180,Palmerston,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,64,-0.63
+NT,307,Solomon,83180,Palmerston,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,179,7.01
+NT,307,Solomon,83180,Palmerston,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,49,3.11
+NT,307,Solomon,83180,Palmerston,40620,SCOTT,Phil,4,N,N,IND,Independent,60,11.63
+NT,307,Solomon,83180,Palmerston,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,4,-0.04
+NT,307,Solomon,83180,Palmerston,42082,DAVIES,Janey,6,N,N,IND,Independent,8,1.55
+NT,307,Solomon,83180,Palmerston,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,152,-4.97
+NT,307,Solomon,83180,Palmerston,999,Informal,Informal,999,N,N,,Informal,31,0.41
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,639,-1.69
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,3652,10.3
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,627,1.22
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,40620,SCOTT,Phil,4,N,N,IND,Independent,863,10.13
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,48,0.36
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,42082,DAVIES,Janey,6,N,N,IND,Independent,99,1.16
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2588,-4.66
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,333,-0.77
+NT,307,Solomon,8726,Parap,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,264,-3.24
+NT,307,Solomon,8726,Parap,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,489,5.58
+NT,307,Solomon,8726,Parap,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,93,2.15
+NT,307,Solomon,8726,Parap,40620,SCOTT,Phil,4,N,N,IND,Independent,226,13.92
+NT,307,Solomon,8726,Parap,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,6,0.37
+NT,307,Solomon,8726,Parap,42082,DAVIES,Janey,6,N,N,IND,Independent,18,1.11
+NT,307,Solomon,8726,Parap,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,527,-3.83
+NT,307,Solomon,8726,Parap,999,Informal,Informal,999,N,N,,Informal,42,-0.79
+NT,307,Solomon,8729,Rapid Creek,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,247,-7.86
+NT,307,Solomon,8729,Rapid Creek,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,288,3.23
+NT,307,Solomon,8729,Rapid Creek,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,67,1.23
+NT,307,Solomon,8729,Rapid Creek,40620,SCOTT,Phil,4,N,N,IND,Independent,312,22.97
+NT,307,Solomon,8729,Rapid Creek,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,1,0.07
+NT,307,Solomon,8729,Rapid Creek,42082,DAVIES,Janey,6,N,N,IND,Independent,16,1.18
+NT,307,Solomon,8729,Rapid Creek,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,427,-8.56
+NT,307,Solomon,8729,Rapid Creek,999,Informal,Informal,999,N,N,,Informal,44,0.67
+NT,307,Solomon,65151,Rosebery,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,60,-3.06
+NT,307,Solomon,65151,Rosebery,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,326,9.86
+NT,307,Solomon,65151,Rosebery,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,84,1.76
+NT,307,Solomon,65151,Rosebery,40620,SCOTT,Phil,4,N,N,IND,Independent,113,13.5
+NT,307,Solomon,65151,Rosebery,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,1,0.12
+NT,307,Solomon,65151,Rosebery,42082,DAVIES,Janey,6,N,N,IND,Independent,8,0.96
+NT,307,Solomon,65151,Rosebery,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,245,-5.15
+NT,307,Solomon,65151,Rosebery,999,Informal,Informal,999,N,N,,Informal,40,-0.63
+NT,307,Solomon,109381,Special Hospital Team 1,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,108,-2.84
+NT,307,Solomon,109381,Special Hospital Team 1,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,225,0.87
+NT,307,Solomon,109381,Special Hospital Team 1,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,35,-1.04
+NT,307,Solomon,109381,Special Hospital Team 1,40620,SCOTT,Phil,4,N,N,IND,Independent,111,13.86
+NT,307,Solomon,109381,Special Hospital Team 1,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,10,1.25
+NT,307,Solomon,109381,Special Hospital Team 1,42082,DAVIES,Janey,6,N,N,IND,Independent,13,1.62
+NT,307,Solomon,109381,Special Hospital Team 1,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,299,0.13
+NT,307,Solomon,109381,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,51,3.35
+NT,307,Solomon,8732,Stuart Park,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,90,-4.18
+NT,307,Solomon,8732,Stuart Park,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,257,12.71
+NT,307,Solomon,8732,Stuart Park,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,32,-0.12
+NT,307,Solomon,8732,Stuart Park,40620,SCOTT,Phil,4,N,N,IND,Independent,85,12.5
+NT,307,Solomon,8732,Stuart Park,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,3,0.44
+NT,307,Solomon,8732,Stuart Park,42082,DAVIES,Janey,6,N,N,IND,Independent,3,0.44
+NT,307,Solomon,8732,Stuart Park,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,210,-8.91
+NT,307,Solomon,8732,Stuart Park,999,Informal,Informal,999,N,N,,Informal,22,0.88
+NT,307,Solomon,8734,Wanguri,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,140,-5.14
+NT,307,Solomon,8734,Wanguri,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,422,11.81
+NT,307,Solomon,8734,Wanguri,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,80,0.44
+NT,307,Solomon,8734,Wanguri,40620,SCOTT,Phil,4,N,N,IND,Independent,162,12.52
+NT,307,Solomon,8734,Wanguri,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,3,0.23
+NT,307,Solomon,8734,Wanguri,42082,DAVIES,Janey,6,N,N,IND,Independent,7,0.54
+NT,307,Solomon,8734,Wanguri,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,480,-3.29
+NT,307,Solomon,8734,Wanguri,999,Informal,Informal,999,N,N,,Informal,43,-1.49
+NT,307,Solomon,109630,Zuccoli,41153,PARRY,Jonathan,1,N,N,GRN,Australian Greens,110,0.94
+NT,307,Solomon,109630,Zuccoli,41036,BAYLISS,Lisa,2,N,N,CLP,NT CLP,414,5.34
+NT,307,Solomon,109630,Zuccoli,41023,CRAKER,Benjamin,3,N,N,ON,Pauline Hanson's One Nation,69,-0.05
+NT,307,Solomon,109630,Zuccoli,40620,SCOTT,Phil,4,N,N,IND,Independent,89,8.71
+NT,307,Solomon,109630,Zuccoli,40639,KRISTO,Brian,5,N,N,CEC,Citizens Party,3,-1.02
+NT,307,Solomon,109630,Zuccoli,42082,DAVIES,Janey,6,N,N,IND,Independent,18,1.76
+NT,307,Solomon,109630,Zuccoli,41012,GOSLING,Luke John,7,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,319,1.11
+NT,307,Solomon,109630,Zuccoli,999,Informal,Informal,999,N,N,,Informal,35,-2.4

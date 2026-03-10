@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Australian Federal District Representativeness</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Australian Federal Electoral Boundaries</p>
+          <h1>Representativeness screen for 2019, 2022, and 2025</h1>
+          <p class="hero-copy">
+            This app scores districts using boundary-based gerrymandering indicators only: compactness, enclosure efficiency,
+            convexity, and contiguity. It is a screening tool for unusual shapes, not proof of partisan intent.
+          </p>
+        </div>
+        <div class="control-panel">
+          <div class="control-group" id="year-controls" aria-label="Year selector"></div>
+          <div class="legend">
+            <span>More representative</span>
+            <div class="legend-bar"></div>
+            <span>More irregular</span>
+          </div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="map-panel card">
+          <div class="panel-head">
+            <div>
+              <h2>Map</h2>
+              <p id="map-subtitle"></p>
+            </div>
+            <div class="selection-meta">
+              <span id="selection-name">Hover a district</span>
+              <span id="selection-rank"></span>
+            </div>
+          </div>
+          <div class="map-wrap">
+            <svg id="map-svg" viewBox="0 0 1100 760" role="img" aria-label="Australian electoral district map"></svg>
+            <div id="map-tooltip" class="tooltip hidden"></div>
+          </div>
+        </section>
+
+        <section class="sidebar">
+          <section class="card insight-panel">
+            <h2>Interpretation</h2>
+            <div id="top-bottom-summary" class="summary-grid"></div>
+            <ul id="limitations" class="limitations"></ul>
+          </section>
+
+          <section class="card detail-panel">
+            <h2>District stats</h2>
+            <dl id="district-stats" class="stats-grid">
+              <div><dt>Status</dt><dd>Hover a district or row</dd></div>
+            </dl>
+          </section>
+        </section>
+      </main>
+
+      <section class="card table-panel">
+        <div class="panel-head">
+          <div>
+            <h2>Sortable district ranking</h2>
+            <p>Click any column header to sort. The default order is most representative to least representative for the selected year.</p>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table id="district-table">
+            <thead>
+              <tr>
+                <th data-key="representative_rank">Rank</th>
+                <th data-key="district">District</th>
+                <th data-key="state">State</th>
+                <th data-key="representative_score">Representative score</th>
+                <th data-key="gerrymander_index">Irregularity index</th>
+                <th data-key="polsby_popper">Polsby-Popper</th>
+                <th data-key="reock">Reock</th>
+                <th data-key="convex_hull_ratio">Hull ratio</th>
+                <th data-key="components">Components</th>
+                <th data-key="population_actual">Actual population</th>
+                <th data-key="population_projected">Projected population</th>
+                <th data-key="population_total">Total population</th>
+                <th data-key="computed_area_sqkm">Area sq km</th>
+                <th data-key="perimeter_km">Perimeter km</th>
+                <th data-key="num_ccds">CCDs</th>
+              </tr>
+            </thead>
+            <tbody id="district-table-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <script src="./data/analysis-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

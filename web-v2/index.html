@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Australian Federal District Representativeness Explorer</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <div class="hero-copy">
+          <h1>Australian federal district representativeness explorer</h1>
+          <p>
+            This tool combines district geometry with enrolment, turnout, two-party-preferred outcomes, first preferences, and polling-place data.
+            It is built to support both strategic reading and close inspection: start with the summary, then move into the map, report, and stakeholder views.
+          </p>
+        </div>
+      </header>
+
+      <nav class="tab-shell card" aria-label="Sections">
+        <div id="main-tabs" class="tab-row"></div>
+      </nav>
+
+      <section id="tab-executive" class="tab-panel">
+        <div class="overview-grid">
+          <section class="card page-card intro-card">
+            <div class="card-head">
+              <div>
+                <h2>Executive summary</h2>
+                <p id="executive-subtitle"></p>
+              </div>
+            </div>
+            <div id="executive-kpis" class="kpi-grid"></div>
+            <div id="executive-findings" class="report-block"></div>
+          </section>
+
+          <aside class="stack">
+            <section class="card page-card">
+              <h2>What this tool does</h2>
+              <div id="tool-purpose" class="copy-block"></div>
+            </section>
+            <section class="card page-card">
+              <h2>Breaking findings</h2>
+              <div id="breaking-findings" class="copy-block"></div>
+            </section>
+          </aside>
+        </div>
+      </section>
+
+      <section id="tab-findings" class="tab-panel hidden">
+        <main class="layout">
+          <section class="map-card card page-card">
+            <div class="card-head">
+              <div>
+                <h2>Data + map findings</h2>
+                <p id="map-status"></p>
+              </div>
+              <div class="selection">
+                <strong id="selection-name">No district selected</strong>
+                <span id="selection-subtitle">Click a district or a table row to pin it.</span>
+              </div>
+            </div>
+            <div class="legend-panel">
+              <div class="legend-scale">
+                <span id="legend-min"></span>
+                <div id="legend-bar" class="legend-bar"></div>
+                <span id="legend-max"></span>
+              </div>
+              <p id="booth-status" class="note"></p>
+            </div>
+            <div id="map-wrap" class="map-wrap">
+              <div class="map-zoom-overlay">
+                <div class="button-row">
+                  <button id="zoom-out" type="button">-</button>
+                  <button id="zoom-in" type="button">+</button>
+                </div>
+                <input id="zoom-slider" type="range" min="1" max="30" step="0.1" value="1">
+                <span id="zoom-scale" class="scale-pill">1.0x</span>
+              </div>
+              <svg id="map-svg" viewBox="0 0 1200 820" role="img" aria-label="Australian electoral district map with polling-place overlay"></svg>
+              <div id="tooltip" class="tooltip hidden"></div>
+            </div>
+          </section>
+
+          <aside class="sidebar">
+            <section class="card page-card">
+              <h2>Controls</h2>
+              <div class="control-grid findings-controls">
+                <label>
+                  <span>Election year</span>
+                  <div id="year-controls" class="button-row" aria-label="Election year"></div>
+                </label>
+                <label>
+                  <span>Map fill metric</span>
+                  <select id="metric-select"></select>
+                </label>
+                <label class="toggle-label">
+                  <span>Polling-place layer</span>
+                  <input id="booth-toggle" type="checkbox">
+                </label>
+                <label>
+                  <span>Zoom preset</span>
+                  <select id="zoom-preset"></select>
+                </label>
+                <label class="district-picker">
+                  <span>Find district</span>
+                  <input id="district-search" list="district-options" placeholder="Search district name">
+                  <datalist id="district-options"></datalist>
+                </label>
+              </div>
+              <div class="button-row utility-row">
+                <button id="reset-zoom" type="button">Reset zoom</button>
+                <button id="clear-selection" type="button">Clear selection</button>
+              </div>
+            </section>
+
+            <section class="card page-card">
+              <h2>Map year summary</h2>
+              <div id="summary-grid" class="summary-grid"></div>
+            </section>
+          </aside>
+        </main>
+
+        <section class="card page-card selection-banner">
+          <div class="card-head">
+            <div>
+              <h2>Selection</h2>
+              <p>Selected district statistics and context.</p>
+            </div>
+          </div>
+          <dl id="detail-grid" class="detail-grid">
+            <div><dt>Status</dt><dd>Select a district</dd></div>
+          </dl>
+        </section>
+
+        <section class="card page-card">
+          <h2>Method notes</h2>
+          <ul id="methods" class="copy-list"></ul>
+          <h3>Limits</h3>
+          <ul id="limitations" class="copy-list"></ul>
+        </section>
+
+        <section class="card table-card page-card">
+          <div class="card-head">
+            <div>
+              <h2>District ranking</h2>
+              <p>Default ranking is highest representative score for the selected map year. Column headers sort that year.</p>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th data-key="representative_rank">Rank</th>
+                  <th data-key="district">District</th>
+                  <th data-key="state">State</th>
+                  <th data-key="representative_score">Representative</th>
+                  <th data-key="gerrymander_index">Risk</th>
+                  <th data-key="shape_irregularity">Shape</th>
+                  <th data-key="packing_signal">Packing</th>
+                  <th data-key="quota_deviation_pct">Quota dev %</th>
+                  <th data-key="tpp_alp_pct">ALP TPP %</th>
+                  <th data-key="tpp_margin_pct">TPP margin</th>
+                  <th data-key="tpp_swing">TPP swing</th>
+                  <th data-key="enrolment">Enrolment</th>
+                  <th data-key="turnout_pct">Turnout %</th>
+                  <th data-key="booth_tpp_stddev">Booth sd</th>
+                  <th data-key="effective_parties">Effective parties</th>
+                  <th data-key="top_primary_party">Top primary</th>
+                  <th data-key="top_primary_pct">Top primary %</th>
+                  <th data-key="vote_type_skew">Vote-type skew</th>
+                  <th data-key="polsby_popper">Polsby</th>
+                  <th data-key="reock">Reock</th>
+                </tr>
+              </thead>
+              <tbody id="table-body"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+
+      <section id="tab-metrics" class="tab-panel hidden">
+        <section class="card page-card">
+          <div class="card-head">
+            <div>
+              <h2>Understanding the metrics</h2>
+              <p>Definitions, intuition, and simple maths for the measures used in this tool.</p>
+            </div>
+          </div>
+          <div id="glossary-grid" class="glossary-grid"></div>
+        </section>
+      </section>
+
+      <section id="tab-report" class="tab-panel hidden">
+        <section class="card page-card">
+          <div class="card-head">
+            <div>
+              <h2>Key findings report</h2>
+              <p>Detailed research-style interpretation, focused on multi-year evidence and 2025 where the trend evidence is not decisive.</p>
+            </div>
+          </div>
+          <div id="report-summary" class="report-block"></div>
+          <div id="state-analysis" class="state-grid"></div>
+        </section>
+      </section>
+
+      <section id="tab-electoral" class="tab-panel hidden">
+        <section class="card page-card">
+          <div class="card-head">
+            <div>
+              <h2>Electoral analysis</h2>
+              <p>Findings from the election data that matter even if you ignore district design questions.</p>
+            </div>
+          </div>
+          <div id="electoral-kpis" class="kpi-grid"></div>
+          <div id="electoral-findings" class="report-block"></div>
+        </section>
+      </section>
+
+      <section id="tab-stakeholders" class="tab-panel hidden">
+        <section class="card page-card">
+          <div class="card-head">
+            <div>
+              <h2>Stakeholder analyses</h2>
+              <p>Tailored implications for different audiences.</p>
+            </div>
+          </div>
+          <div id="stakeholder-content" class="persona-grid"></div>
+        </section>
+      </section>
+    </div>
+
+    <script src="./data/analysis-v2.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

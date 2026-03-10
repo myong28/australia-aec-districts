@@ -1,0 +1,712 @@
+2022 Federal Election House of Representatives First Preferences By Candidate By Polling Place for NT [Event:27966 Phase:FinalResults Generated:2022-07-19T10:30:00 Cycle:06578790-03c6-4cf4-b786-103cfb915abd Created:2022-07-19T10:24:10 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.9.9.0]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+NT,306,Lingiari,108362,Adelaide River PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,47,33.83
+NT,306,Lingiari,108362,Adelaide River PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,6,0.64
+NT,306,Lingiari,108362,Adelaide River PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,2,2.17
+NT,306,Lingiari,108362,Adelaide River PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,3,1.91
+NT,306,Lingiari,108362,Adelaide River PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,19,-40.43
+NT,306,Lingiari,108362,Adelaide River PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,2,2.17
+NT,306,Lingiari,108362,Adelaide River PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,1.09
+NT,306,Lingiari,108362,Adelaide River PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,8,8.7
+NT,306,Lingiari,108362,Adelaide River PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,4,4.35
+NT,306,Lingiari,108362,Adelaide River PPVC,999,Informal,Informal,999,N,N,,Informal,6,-2.08
+NT,306,Lingiari,8701,Alice Springs,36968,RYAN,Damien,1,N,N,CLP,NT CLP,427,-6.79
+NT,306,Lingiari,8701,Alice Springs,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,294,4.05
+NT,306,Lingiari,8701,Alice Springs,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,10,0.79
+NT,306,Lingiari,8701,Alice Springs,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,26,0.44
+NT,306,Lingiari,8701,Alice Springs,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,354,-7.65
+NT,306,Lingiari,8701,Alice Springs,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,29,2.29
+NT,306,Lingiari,8701,Alice Springs,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,6,0.47
+NT,306,Lingiari,8701,Alice Springs,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,82,6.46
+NT,306,Lingiari,8701,Alice Springs,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,41,3.23
+NT,306,Lingiari,8701,Alice Springs,999,Informal,Informal,999,N,N,,Informal,82,2.96
+NT,306,Lingiari,65681,Alice Springs PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,2139,-4.99
+NT,306,Lingiari,65681,Alice Springs PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,899,5.67
+NT,306,Lingiari,65681,Alice Springs PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,38,0.71
+NT,306,Lingiari,65681,Alice Springs PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,63,-0.8
+NT,306,Lingiari,65681,Alice Springs PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,1758,-5.15
+NT,306,Lingiari,65681,Alice Springs PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,88,1.65
+NT,306,Lingiari,65681,Alice Springs PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,35,0.66
+NT,306,Lingiari,65681,Alice Springs PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,203,3.81
+NT,306,Lingiari,65681,Alice Springs PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,110,2.06
+NT,306,Lingiari,65681,Alice Springs PPVC,999,Informal,Informal,999,N,N,,Informal,268,1.44
+NT,306,Lingiari,108361,Batchelor PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,42,2.07
+NT,306,Lingiari,108361,Batchelor PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,9,0.47
+NT,306,Lingiari,108361,Batchelor PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,2,1.39
+NT,306,Lingiari,108361,Batchelor PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,7,2.25
+NT,306,Lingiari,108361,Batchelor PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,67,-10.14
+NT,306,Lingiari,108361,Batchelor PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,3,2.08
+NT,306,Lingiari,108361,Batchelor PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.69
+NT,306,Lingiari,108361,Batchelor PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,13,9.03
+NT,306,Lingiari,108361,Batchelor PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,0,0
+NT,306,Lingiari,108361,Batchelor PPVC,999,Informal,Informal,999,N,N,,Informal,7,-2.98
+NT,306,Lingiari,34264,Bees Creek,36968,RYAN,Damien,1,N,N,CLP,NT CLP,224,-19.47
+NT,306,Lingiari,34264,Bees Creek,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,49,-0.49
+NT,306,Lingiari,34264,Bees Creek,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,7,1.15
+NT,306,Lingiari,34264,Bees Creek,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,58,6.55
+NT,306,Lingiari,34264,Bees Creek,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,124,-3.08
+NT,306,Lingiari,34264,Bees Creek,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,25,4.11
+NT,306,Lingiari,34264,Bees Creek,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,11,1.81
+NT,306,Lingiari,34264,Bees Creek,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,59,9.7
+NT,306,Lingiari,34264,Bees Creek,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,51,8.39
+NT,306,Lingiari,34264,Bees Creek,999,Informal,Informal,999,N,N,,Informal,61,4.46
+NT,306,Lingiari,8706,Berry Springs,36968,RYAN,Damien,1,N,N,CLP,NT CLP,193,-9
+NT,306,Lingiari,8706,Berry Springs,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,43,-1.04
+NT,306,Lingiari,8706,Berry Springs,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,20,3.75
+NT,306,Lingiari,8706,Berry Springs,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,37,0.55
+NT,306,Lingiari,8706,Berry Springs,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,127,-3.81
+NT,306,Lingiari,8706,Berry Springs,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,13,2.44
+NT,306,Lingiari,8706,Berry Springs,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,9,1.69
+NT,306,Lingiari,8706,Berry Springs,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,62,11.63
+NT,306,Lingiari,8706,Berry Springs,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,29,5.44
+NT,306,Lingiari,8706,Berry Springs,999,Informal,Informal,999,N,N,,Informal,45,1.93
+NT,306,Lingiari,8707,Braitling,36968,RYAN,Damien,1,N,N,CLP,NT CLP,271,-8.63
+NT,306,Lingiari,8707,Braitling,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,133,2.73
+NT,306,Lingiari,8707,Braitling,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,8,1.12
+NT,306,Lingiari,8707,Braitling,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,13,-0.53
+NT,306,Lingiari,8707,Braitling,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,185,-5.89
+NT,306,Lingiari,8707,Braitling,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,16,2.24
+NT,306,Lingiari,8707,Braitling,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,6,0.84
+NT,306,Lingiari,8707,Braitling,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,66,9.26
+NT,306,Lingiari,8707,Braitling,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,15,2.1
+NT,306,Lingiari,8707,Braitling,999,Informal,Informal,999,N,N,,Informal,52,2.2
+NT,306,Lingiari,97712,Christmas Island PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,28,-10.41
+NT,306,Lingiari,97712,Christmas Island PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,34,0.84
+NT,306,Lingiari,97712,Christmas Island PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,8,2.17
+NT,306,Lingiari,97712,Christmas Island PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,8,0.94
+NT,306,Lingiari,97712,Christmas Island PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,247,-1.03
+NT,306,Lingiari,97712,Christmas Island PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,4,1.09
+NT,306,Lingiari,97712,Christmas Island PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.27
+NT,306,Lingiari,97712,Christmas Island PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,7,1.9
+NT,306,Lingiari,97712,Christmas Island PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,31,8.42
+NT,306,Lingiari,97712,Christmas Island PPVC,999,Informal,Informal,999,N,N,,Informal,23,3
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,2634,-6.5
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,381,-0.02
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,83,1.41
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,421,3.45
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,1318,-3.97
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,153,2.6
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,77,1.31
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,495,8.43
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,312,5.31
+NT,306,Lingiari,65748,Coolalinga LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,423,1.68
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,206,-10.4
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,95,6.39
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,3,0.48
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,26,0.31
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,212,-1.48
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,15,2.4
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,7,1.12
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,34,5.45
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,26,4.17
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,59,4.24
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,193,4.6
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,58,1.19
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,7,1.38
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,34,3.78
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,139,-17.56
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,6,1.18
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,10,1.97
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,29,5.72
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,31,6.11
+NT,306,Lingiari,58672,Eaton LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,64,5.3
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,54,36.49
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,24,16.22
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,0,0
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,11,7.43
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,38,25.68
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,2,1.35
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,4,2.7
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,8,5.41
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,7,4.73
+NT,306,Lingiari,108577,EAV COVID19 Lingiari PPVC,999,Informal,Informal,999,N,N,,Informal,2,1.33
+NT,306,Lingiari,65576,EAV Lingiari PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,1,-50
+NT,306,Lingiari,65576,EAV Lingiari PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,1,50
+NT,306,Lingiari,65576,EAV Lingiari PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,0,0
+NT,306,Lingiari,65576,EAV Lingiari PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,0,0
+NT,306,Lingiari,65576,EAV Lingiari PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,0,0
+NT,306,Lingiari,65576,EAV Lingiari PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,0,0
+NT,306,Lingiari,65576,EAV Lingiari PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,0,0
+NT,306,Lingiari,65576,EAV Lingiari PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,0,0
+NT,306,Lingiari,65576,EAV Lingiari PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,0,0
+NT,306,Lingiari,65576,EAV Lingiari PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8711,Gillen,36968,RYAN,Damien,1,N,N,CLP,NT CLP,534,-5.03
+NT,306,Lingiari,8711,Gillen,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,193,4.79
+NT,306,Lingiari,8711,Gillen,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,9,0.72
+NT,306,Lingiari,8711,Gillen,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,26,-0.32
+NT,306,Lingiari,8711,Gillen,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,336,-8.26
+NT,306,Lingiari,8711,Gillen,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,30,2.4
+NT,306,Lingiari,8711,Gillen,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,12,0.96
+NT,306,Lingiari,8711,Gillen,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,94,7.51
+NT,306,Lingiari,8711,Gillen,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,18,1.44
+NT,306,Lingiari,8711,Gillen,999,Informal,Informal,999,N,N,,Informal,79,2.33
+NT,306,Lingiari,108366,Home Island PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,22,10.09
+NT,306,Lingiari,108366,Home Island PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,6,2.75
+NT,306,Lingiari,108366,Home Island PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,4,1.83
+NT,306,Lingiari,108366,Home Island PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,2,0.92
+NT,306,Lingiari,108366,Home Island PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,165,75.69
+NT,306,Lingiari,108366,Home Island PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,4,1.83
+NT,306,Lingiari,108366,Home Island PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,2,0.92
+NT,306,Lingiari,108366,Home Island PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,1,0.46
+NT,306,Lingiari,108366,Home Island PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,12,5.5
+NT,306,Lingiari,108366,Home Island PPVC,999,Informal,Informal,999,N,N,,Informal,21,8.79
+NT,306,Lingiari,8713,Howard Springs,36968,RYAN,Damien,1,N,N,CLP,NT CLP,349,-12.03
+NT,306,Lingiari,8713,Howard Springs,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,61,1.1
+NT,306,Lingiari,8713,Howard Springs,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,10,1.19
+NT,306,Lingiari,8713,Howard Springs,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,95,7.57
+NT,306,Lingiari,8713,Howard Springs,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,187,-6.61
+NT,306,Lingiari,8713,Howard Springs,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,18,2.14
+NT,306,Lingiari,8713,Howard Springs,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,13,1.54
+NT,306,Lingiari,8713,Howard Springs,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,75,8.9
+NT,306,Lingiari,8713,Howard Springs,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,35,4.15
+NT,306,Lingiari,8713,Howard Springs,999,Informal,Informal,999,N,N,,Informal,45,-0.15
+NT,306,Lingiari,8714,Humpty Doo,36968,RYAN,Damien,1,N,N,CLP,NT CLP,370,-7.82
+NT,306,Lingiari,8714,Humpty Doo,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,87,2.17
+NT,306,Lingiari,8714,Humpty Doo,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,22,2.25
+NT,306,Lingiari,8714,Humpty Doo,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,120,8.29
+NT,306,Lingiari,8714,Humpty Doo,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,218,-7.48
+NT,306,Lingiari,8714,Humpty Doo,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,27,2.77
+NT,306,Lingiari,8714,Humpty Doo,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,7,0.72
+NT,306,Lingiari,8714,Humpty Doo,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,78,7.99
+NT,306,Lingiari,8714,Humpty Doo,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,47,4.82
+NT,306,Lingiari,8714,Humpty Doo,999,Informal,Informal,999,N,N,,Informal,68,0.96
+NT,306,Lingiari,97716,Jabiru PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,59,3.47
+NT,306,Lingiari,97716,Jabiru PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,28,8.29
+NT,306,Lingiari,97716,Jabiru PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,0,0
+NT,306,Lingiari,97716,Jabiru PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,9,-0.73
+NT,306,Lingiari,97716,Jabiru PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,69,-20.73
+NT,306,Lingiari,97716,Jabiru PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,6,3.05
+NT,306,Lingiari,97716,Jabiru PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,1.52
+NT,306,Lingiari,97716,Jabiru PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,9,4.57
+NT,306,Lingiari,97716,Jabiru PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,14,7.11
+NT,306,Lingiari,97716,Jabiru PPVC,999,Informal,Informal,999,N,N,,Informal,16,1.92
+NT,306,Lingiari,83180,Johnston,36968,RYAN,Damien,1,N,N,CLP,NT CLP,348,-13.98
+NT,306,Lingiari,83180,Johnston,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,119,1.22
+NT,306,Lingiari,83180,Johnston,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,14,1.28
+NT,306,Lingiari,83180,Johnston,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,65,2.39
+NT,306,Lingiari,83180,Johnston,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,356,-1.61
+NT,306,Lingiari,83180,Johnston,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,27,2.47
+NT,306,Lingiari,83180,Johnston,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,14,1.28
+NT,306,Lingiari,83180,Johnston,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,68,6.23
+NT,306,Lingiari,83180,Johnston,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,80,7.33
+NT,306,Lingiari,83180,Johnston,999,Informal,Informal,999,N,N,,Informal,62,-0.01
+NT,306,Lingiari,8717,Katherine,36968,RYAN,Damien,1,N,N,CLP,NT CLP,202,-9.08
+NT,306,Lingiari,8717,Katherine,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,78,5.09
+NT,306,Lingiari,8717,Katherine,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,3,0.52
+NT,306,Lingiari,8717,Katherine,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,18,-0.92
+NT,306,Lingiari,8717,Katherine,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,176,0.53
+NT,306,Lingiari,8717,Katherine,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,8,1.38
+NT,306,Lingiari,8717,Katherine,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,6,1.04
+NT,306,Lingiari,8717,Katherine,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,53,9.17
+NT,306,Lingiari,8717,Katherine,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,34,5.88
+NT,306,Lingiari,8717,Katherine,999,Informal,Informal,999,N,N,,Informal,45,4.44
+NT,306,Lingiari,12068,Katherine East,36968,RYAN,Damien,1,N,N,CLP,NT CLP,79,0.19
+NT,306,Lingiari,12068,Katherine East,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,37,10.64
+NT,306,Lingiari,12068,Katherine East,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,6,2.83
+NT,306,Lingiari,12068,Katherine East,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,6,0.43
+NT,306,Lingiari,12068,Katherine East,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,47,-19.51
+NT,306,Lingiari,12068,Katherine East,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,2,0.94
+NT,306,Lingiari,12068,Katherine East,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.47
+NT,306,Lingiari,12068,Katherine East,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,22,10.38
+NT,306,Lingiari,12068,Katherine East,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,12,5.66
+NT,306,Lingiari,12068,Katherine East,999,Informal,Informal,999,N,N,,Informal,16,3.17
+NT,306,Lingiari,34179,Katherine PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,1110,-2.6
+NT,306,Lingiari,34179,Katherine PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,296,4.9
+NT,306,Lingiari,34179,Katherine PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,35,1.32
+NT,306,Lingiari,34179,Katherine PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,64,-1.19
+NT,306,Lingiari,34179,Katherine PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,801,-1.17
+NT,306,Lingiari,34179,Katherine PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,37,1.39
+NT,306,Lingiari,34179,Katherine PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,23,0.87
+NT,306,Lingiari,34179,Katherine PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,141,5.3
+NT,306,Lingiari,34179,Katherine PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,151,5.68
+NT,306,Lingiari,34179,Katherine PPVC,999,Informal,Informal,999,N,N,,Informal,163,0.63
+NT,306,Lingiari,8710,Kilgariff,36968,RYAN,Damien,1,N,N,CLP,NT CLP,139,-6.31
+NT,306,Lingiari,8710,Kilgariff,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,29,4.01
+NT,306,Lingiari,8710,Kilgariff,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,2,0.75
+NT,306,Lingiari,8710,Kilgariff,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,5,0.43
+NT,306,Lingiari,8710,Kilgariff,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,59,-6.94
+NT,306,Lingiari,8710,Kilgariff,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,2,0.75
+NT,306,Lingiari,8710,Kilgariff,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,0,0
+NT,306,Lingiari,8710,Kilgariff,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,20,7.55
+NT,306,Lingiari,8710,Kilgariff,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,9,3.4
+NT,306,Lingiari,8710,Kilgariff,999,Informal,Informal,999,N,N,,Informal,9,1.14
+NT,306,Lingiari,12069,Larapinta,36968,RYAN,Damien,1,N,N,CLP,NT CLP,254,-5.94
+NT,306,Lingiari,12069,Larapinta,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,77,2.4
+NT,306,Lingiari,12069,Larapinta,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,1,0.16
+NT,306,Lingiari,12069,Larapinta,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,11,-0.2
+NT,306,Lingiari,12069,Larapinta,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,190,-6.69
+NT,306,Lingiari,12069,Larapinta,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,9,1.46
+NT,306,Lingiari,12069,Larapinta,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,0.49
+NT,306,Lingiari,12069,Larapinta,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,50,8.13
+NT,306,Lingiari,12069,Larapinta,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,20,3.25
+NT,306,Lingiari,12069,Larapinta,999,Informal,Informal,999,N,N,,Informal,24,-0.36
+NT,306,Lingiari,97709,Nhulunbuy PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,182,-6.92
+NT,306,Lingiari,97709,Nhulunbuy PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,212,6.03
+NT,306,Lingiari,97709,Nhulunbuy PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,10,0.96
+NT,306,Lingiari,97709,Nhulunbuy PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,35,-0.25
+NT,306,Lingiari,97709,Nhulunbuy PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,433,-11.8
+NT,306,Lingiari,97709,Nhulunbuy PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,11,1.05
+NT,306,Lingiari,97709,Nhulunbuy PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,4,0.38
+NT,306,Lingiari,97709,Nhulunbuy PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,87,8.32
+NT,306,Lingiari,97709,Nhulunbuy PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,72,6.88
+NT,306,Lingiari,97709,Nhulunbuy PPVC,999,Informal,Informal,999,N,N,,Informal,83,2.77
+NT,306,Lingiari,108482,Other Mobile Team 1,36968,RYAN,Damien,1,N,N,CLP,NT CLP,17,-7.25
+NT,306,Lingiari,108482,Other Mobile Team 1,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,10,2.47
+NT,306,Lingiari,108482,Other Mobile Team 1,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,0,0
+NT,306,Lingiari,108482,Other Mobile Team 1,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,2,-0.22
+NT,306,Lingiari,108482,Other Mobile Team 1,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,173,4.66
+NT,306,Lingiari,108482,Other Mobile Team 1,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,1,0.48
+NT,306,Lingiari,108482,Other Mobile Team 1,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.48
+NT,306,Lingiari,108482,Other Mobile Team 1,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,1,0.48
+NT,306,Lingiari,108482,Other Mobile Team 1,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,4,1.91
+NT,306,Lingiari,108482,Other Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,44,13.22
+NT,306,Lingiari,108483,Other Mobile Team 2,36968,RYAN,Damien,1,N,N,CLP,NT CLP,16,5.67
+NT,306,Lingiari,108483,Other Mobile Team 2,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,8,8.22
+NT,306,Lingiari,108483,Other Mobile Team 2,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,4,5.26
+NT,306,Lingiari,108483,Other Mobile Team 2,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,1,0.14
+NT,306,Lingiari,108483,Other Mobile Team 2,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,45,-18.91
+NT,306,Lingiari,108483,Other Mobile Team 2,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,0,0
+NT,306,Lingiari,108483,Other Mobile Team 2,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,0,0
+NT,306,Lingiari,108483,Other Mobile Team 2,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,2,2.63
+NT,306,Lingiari,108483,Other Mobile Team 2,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,0,0
+NT,306,Lingiari,108483,Other Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,16,13.22
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,664,-11.94
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,146,2.45
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,25,1.49
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,103,1.4
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,441,-1.22
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,52,3.11
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,25,1.49
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,99,5.92
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,118,7.05
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,118,0.98
+NT,306,Lingiari,108364,Pine Creek PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,27,23.75
+NT,306,Lingiari,108364,Pine Creek PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,0,-2.37
+NT,306,Lingiari,108364,Pine Creek PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,1,1.61
+NT,306,Lingiari,108364,Pine Creek PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,4,4.96
+NT,306,Lingiari,108364,Pine Creek PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,20,-35.98
+NT,306,Lingiari,108364,Pine Creek PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,4,6.45
+NT,306,Lingiari,108364,Pine Creek PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,1.61
+NT,306,Lingiari,108364,Pine Creek PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,3,4.84
+NT,306,Lingiari,108364,Pine Creek PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,2,3.23
+NT,306,Lingiari,108364,Pine Creek PPVC,999,Informal,Informal,999,N,N,,Informal,4,1.32
+NT,306,Lingiari,34147,Remote Mobile Team 1,36968,RYAN,Damien,1,N,N,CLP,NT CLP,162,-3.53
+NT,306,Lingiari,34147,Remote Mobile Team 1,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,57,0.94
+NT,306,Lingiari,34147,Remote Mobile Team 1,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,7,0.6
+NT,306,Lingiari,34147,Remote Mobile Team 1,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,19,0.13
+NT,306,Lingiari,34147,Remote Mobile Team 1,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,899,4.96
+NT,306,Lingiari,34147,Remote Mobile Team 1,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,6,0.51
+NT,306,Lingiari,34147,Remote Mobile Team 1,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,6,0.51
+NT,306,Lingiari,34147,Remote Mobile Team 1,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,9,0.77
+NT,306,Lingiari,34147,Remote Mobile Team 1,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,5,0.43
+NT,306,Lingiari,34147,Remote Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,116,2.15
+NT,306,Lingiari,34156,Remote Mobile Team 10,36968,RYAN,Damien,1,N,N,CLP,NT CLP,98,1.29
+NT,306,Lingiari,34156,Remote Mobile Team 10,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,34,2.55
+NT,306,Lingiari,34156,Remote Mobile Team 10,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,5,0.95
+NT,306,Lingiari,34156,Remote Mobile Team 10,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,22,2.7
+NT,306,Lingiari,34156,Remote Mobile Team 10,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,329,-9.21
+NT,306,Lingiari,34156,Remote Mobile Team 10,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,15,2.86
+NT,306,Lingiari,34156,Remote Mobile Team 10,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,2,0.38
+NT,306,Lingiari,34156,Remote Mobile Team 10,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,7,1.33
+NT,306,Lingiari,34156,Remote Mobile Team 10,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,13,2.48
+NT,306,Lingiari,34156,Remote Mobile Team 10,999,Informal,Informal,999,N,N,,Informal,46,1.19
+NT,306,Lingiari,34157,Remote Mobile Team 11,36968,RYAN,Damien,1,N,N,CLP,NT CLP,129,12.83
+NT,306,Lingiari,34157,Remote Mobile Team 11,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,15,-0.42
+NT,306,Lingiari,34157,Remote Mobile Team 11,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,4,0.94
+NT,306,Lingiari,34157,Remote Mobile Team 11,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,9,0.62
+NT,306,Lingiari,34157,Remote Mobile Team 11,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,247,-14.03
+NT,306,Lingiari,34157,Remote Mobile Team 11,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,4,0.94
+NT,306,Lingiari,34157,Remote Mobile Team 11,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.23
+NT,306,Lingiari,34157,Remote Mobile Team 11,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,7,1.64
+NT,306,Lingiari,34157,Remote Mobile Team 11,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,11,2.58
+NT,306,Lingiari,34157,Remote Mobile Team 11,999,Informal,Informal,999,N,N,,Informal,41,1.89
+NT,306,Lingiari,34158,Remote Mobile Team 12,36968,RYAN,Damien,1,N,N,CLP,NT CLP,97,9.64
+NT,306,Lingiari,34158,Remote Mobile Team 12,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,28,3.87
+NT,306,Lingiari,34158,Remote Mobile Team 12,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,1,0.28
+NT,306,Lingiari,34158,Remote Mobile Team 12,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,9,1.02
+NT,306,Lingiari,34158,Remote Mobile Team 12,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,207,-14.22
+NT,306,Lingiari,34158,Remote Mobile Team 12,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,6,1.67
+NT,306,Lingiari,34158,Remote Mobile Team 12,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,0.84
+NT,306,Lingiari,34158,Remote Mobile Team 12,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,5,1.39
+NT,306,Lingiari,34158,Remote Mobile Team 12,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,3,0.84
+NT,306,Lingiari,34158,Remote Mobile Team 12,999,Informal,Informal,999,N,N,,Informal,32,1.31
+NT,306,Lingiari,34159,Remote Mobile Team 13,36968,RYAN,Damien,1,N,N,CLP,NT CLP,97,11.49
+NT,306,Lingiari,34159,Remote Mobile Team 13,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,35,6.49
+NT,306,Lingiari,34159,Remote Mobile Team 13,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,3,0.89
+NT,306,Lingiari,34159,Remote Mobile Team 13,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,6,0.3
+NT,306,Lingiari,34159,Remote Mobile Team 13,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,184,-17.12
+NT,306,Lingiari,34159,Remote Mobile Team 13,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,7,2.08
+NT,306,Lingiari,34159,Remote Mobile Team 13,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,0,0
+NT,306,Lingiari,34159,Remote Mobile Team 13,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,0,0
+NT,306,Lingiari,34159,Remote Mobile Team 13,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,4,1.19
+NT,306,Lingiari,34159,Remote Mobile Team 13,999,Informal,Informal,999,N,N,,Informal,84,13.13
+NT,306,Lingiari,34160,Remote Mobile Team 14,36968,RYAN,Damien,1,N,N,CLP,NT CLP,75,2.51
+NT,306,Lingiari,34160,Remote Mobile Team 14,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,25,2.7
+NT,306,Lingiari,34160,Remote Mobile Team 14,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,3,0.8
+NT,306,Lingiari,34160,Remote Mobile Team 14,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,8,0.63
+NT,306,Lingiari,34160,Remote Mobile Team 14,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,227,-11.67
+NT,306,Lingiari,34160,Remote Mobile Team 14,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,29,7.69
+NT,306,Lingiari,34160,Remote Mobile Team 14,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,2,0.53
+NT,306,Lingiari,34160,Remote Mobile Team 14,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,0,0
+NT,306,Lingiari,34160,Remote Mobile Team 14,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,8,2.12
+NT,306,Lingiari,34160,Remote Mobile Team 14,999,Informal,Informal,999,N,N,,Informal,38,2.29
+NT,306,Lingiari,34161,Remote Mobile Team 15,36968,RYAN,Damien,1,N,N,CLP,NT CLP,89,2.94
+NT,306,Lingiari,34161,Remote Mobile Team 15,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,8,-2.1
+NT,306,Lingiari,34161,Remote Mobile Team 15,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,3,0.68
+NT,306,Lingiari,34161,Remote Mobile Team 15,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,13,1.48
+NT,306,Lingiari,34161,Remote Mobile Team 15,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,299,-3.62
+NT,306,Lingiari,34161,Remote Mobile Team 15,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,18,4.11
+NT,306,Lingiari,34161,Remote Mobile Team 15,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,0.68
+NT,306,Lingiari,34161,Remote Mobile Team 15,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,2,0.46
+NT,306,Lingiari,34161,Remote Mobile Team 15,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,3,0.68
+NT,306,Lingiari,34161,Remote Mobile Team 15,999,Informal,Informal,999,N,N,,Informal,67,6.4
+NT,306,Lingiari,34162,Remote Mobile Team 16,36968,RYAN,Damien,1,N,N,CLP,NT CLP,175,14.21
+NT,306,Lingiari,34162,Remote Mobile Team 16,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,83,11.05
+NT,306,Lingiari,34162,Remote Mobile Team 16,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,7,1.26
+NT,306,Lingiari,34162,Remote Mobile Team 16,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,24,2.84
+NT,306,Lingiari,34162,Remote Mobile Team 16,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,225,-31.27
+NT,306,Lingiari,34162,Remote Mobile Team 16,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,7,1.26
+NT,306,Lingiari,34162,Remote Mobile Team 16,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,0.54
+NT,306,Lingiari,34162,Remote Mobile Team 16,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,13,2.35
+NT,306,Lingiari,34162,Remote Mobile Team 16,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,17,3.07
+NT,306,Lingiari,34162,Remote Mobile Team 16,999,Informal,Informal,999,N,N,,Informal,48,1.1
+NT,306,Lingiari,34148,Remote Mobile Team 2,36968,RYAN,Damien,1,N,N,CLP,NT CLP,255,6.86
+NT,306,Lingiari,34148,Remote Mobile Team 2,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,39,-0.22
+NT,306,Lingiari,34148,Remote Mobile Team 2,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,8,0.76
+NT,306,Lingiari,34148,Remote Mobile Team 2,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,47,2.98
+NT,306,Lingiari,34148,Remote Mobile Team 2,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,676,-7.62
+NT,306,Lingiari,34148,Remote Mobile Team 2,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,5,0.48
+NT,306,Lingiari,34148,Remote Mobile Team 2,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,5,0.48
+NT,306,Lingiari,34148,Remote Mobile Team 2,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,10,0.95
+NT,306,Lingiari,34148,Remote Mobile Team 2,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,7,0.67
+NT,306,Lingiari,34148,Remote Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,70,-0.63
+NT,306,Lingiari,34149,Remote Mobile Team 3,36968,RYAN,Damien,1,N,N,CLP,NT CLP,158,9.04
+NT,306,Lingiari,34149,Remote Mobile Team 3,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,20,-0.59
+NT,306,Lingiari,34149,Remote Mobile Team 3,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,4,0.67
+NT,306,Lingiari,34149,Remote Mobile Team 3,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,11,0.35
+NT,306,Lingiari,34149,Remote Mobile Team 3,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,385,-7.5
+NT,306,Lingiari,34149,Remote Mobile Team 3,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,3,0.5
+NT,306,Lingiari,34149,Remote Mobile Team 3,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,2,0.33
+NT,306,Lingiari,34149,Remote Mobile Team 3,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,10,1.67
+NT,306,Lingiari,34149,Remote Mobile Team 3,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,5,0.84
+NT,306,Lingiari,34149,Remote Mobile Team 3,999,Informal,Informal,999,N,N,,Informal,33,-1.64
+NT,306,Lingiari,34150,Remote Mobile Team 4,36968,RYAN,Damien,1,N,N,CLP,NT CLP,226,24.39
+NT,306,Lingiari,34150,Remote Mobile Team 4,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,19,-0.42
+NT,306,Lingiari,34150,Remote Mobile Team 4,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,4,0.74
+NT,306,Lingiari,34150,Remote Mobile Team 4,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,13,0.91
+NT,306,Lingiari,34150,Remote Mobile Team 4,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,234,-28.63
+NT,306,Lingiari,34150,Remote Mobile Team 4,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,5,0.92
+NT,306,Lingiari,34150,Remote Mobile Team 4,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,4,0.74
+NT,306,Lingiari,34150,Remote Mobile Team 4,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,21,3.88
+NT,306,Lingiari,34150,Remote Mobile Team 4,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,15,2.77
+NT,306,Lingiari,34150,Remote Mobile Team 4,999,Informal,Informal,999,N,N,,Informal,84,6.57
+NT,306,Lingiari,34151,Remote Mobile Team 5,36968,RYAN,Damien,1,N,N,CLP,NT CLP,153,-1
+NT,306,Lingiari,34151,Remote Mobile Team 5,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,32,-0.5
+NT,306,Lingiari,34151,Remote Mobile Team 5,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,6,0.64
+NT,306,Lingiari,34151,Remote Mobile Team 5,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,22,0.87
+NT,306,Lingiari,34151,Remote Mobile Team 5,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,696,2.64
+NT,306,Lingiari,34151,Remote Mobile Team 5,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,8,0.86
+NT,306,Lingiari,34151,Remote Mobile Team 5,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,0.32
+NT,306,Lingiari,34151,Remote Mobile Team 5,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,4,0.43
+NT,306,Lingiari,34151,Remote Mobile Team 5,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,10,1.07
+NT,306,Lingiari,34151,Remote Mobile Team 5,999,Informal,Informal,999,N,N,,Informal,152,7.13
+NT,306,Lingiari,34152,Remote Mobile Team 6,36968,RYAN,Damien,1,N,N,CLP,NT CLP,97,-4.62
+NT,306,Lingiari,34152,Remote Mobile Team 6,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,67,4.89
+NT,306,Lingiari,34152,Remote Mobile Team 6,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,8,1.05
+NT,306,Lingiari,34152,Remote Mobile Team 6,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,17,0.75
+NT,306,Lingiari,34152,Remote Mobile Team 6,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,542,-0.56
+NT,306,Lingiari,34152,Remote Mobile Team 6,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,9,1.18
+NT,306,Lingiari,34152,Remote Mobile Team 6,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,5,0.66
+NT,306,Lingiari,34152,Remote Mobile Team 6,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,6,0.79
+NT,306,Lingiari,34152,Remote Mobile Team 6,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,9,1.18
+NT,306,Lingiari,34152,Remote Mobile Team 6,999,Informal,Informal,999,N,N,,Informal,130,7.74
+NT,306,Lingiari,34153,Remote Mobile Team 7,36968,RYAN,Damien,1,N,N,CLP,NT CLP,242,10.53
+NT,306,Lingiari,34153,Remote Mobile Team 7,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,56,2.53
+NT,306,Lingiari,34153,Remote Mobile Team 7,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,9,1.04
+NT,306,Lingiari,34153,Remote Mobile Team 7,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,33,2.32
+NT,306,Lingiari,34153,Remote Mobile Team 7,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,461,-18.71
+NT,306,Lingiari,34153,Remote Mobile Team 7,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,13,1.5
+NT,306,Lingiari,34153,Remote Mobile Team 7,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,0,0
+NT,306,Lingiari,34153,Remote Mobile Team 7,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,21,2.42
+NT,306,Lingiari,34153,Remote Mobile Team 7,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,32,3.69
+NT,306,Lingiari,34153,Remote Mobile Team 7,999,Informal,Informal,999,N,N,,Informal,134,6.52
+NT,306,Lingiari,34154,Remote Mobile Team 8,36968,RYAN,Damien,1,N,N,CLP,NT CLP,159,6.6
+NT,306,Lingiari,34154,Remote Mobile Team 8,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,46,3.01
+NT,306,Lingiari,34154,Remote Mobile Team 8,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,7,1.06
+NT,306,Lingiari,34154,Remote Mobile Team 8,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,34,3.64
+NT,306,Lingiari,34154,Remote Mobile Team 8,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,379,-14.72
+NT,306,Lingiari,34154,Remote Mobile Team 8,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,12,1.81
+NT,306,Lingiari,34154,Remote Mobile Team 8,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.15
+NT,306,Lingiari,34154,Remote Mobile Team 8,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,3,0.45
+NT,306,Lingiari,34154,Remote Mobile Team 8,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,22,3.32
+NT,306,Lingiari,34154,Remote Mobile Team 8,999,Informal,Informal,999,N,N,,Informal,163,12.86
+NT,306,Lingiari,34155,Remote Mobile Team 9,36968,RYAN,Damien,1,N,N,CLP,NT CLP,183,12.04
+NT,306,Lingiari,34155,Remote Mobile Team 9,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,13,-1.84
+NT,306,Lingiari,34155,Remote Mobile Team 9,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,5,0.8
+NT,306,Lingiari,34155,Remote Mobile Team 9,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,25,2.53
+NT,306,Lingiari,34155,Remote Mobile Team 9,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,352,-15.29
+NT,306,Lingiari,34155,Remote Mobile Team 9,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,9,1.45
+NT,306,Lingiari,34155,Remote Mobile Team 9,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.16
+NT,306,Lingiari,34155,Remote Mobile Team 9,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,7,1.13
+NT,306,Lingiari,34155,Remote Mobile Team 9,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,27,4.34
+NT,306,Lingiari,34155,Remote Mobile Team 9,999,Informal,Informal,999,N,N,,Informal,66,2.72
+NT,306,Lingiari,8731,Sadadeen,36968,RYAN,Damien,1,N,N,CLP,NT CLP,219,-5.92
+NT,306,Lingiari,8731,Sadadeen,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,190,8.62
+NT,306,Lingiari,8731,Sadadeen,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,5,0.66
+NT,306,Lingiari,8731,Sadadeen,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,14,0.05
+NT,306,Lingiari,8731,Sadadeen,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,242,-10.93
+NT,306,Lingiari,8731,Sadadeen,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,25,3.3
+NT,306,Lingiari,8731,Sadadeen,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,9,1.19
+NT,306,Lingiari,8731,Sadadeen,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,40,5.28
+NT,306,Lingiari,8731,Sadadeen,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,14,1.85
+NT,306,Lingiari,8731,Sadadeen,999,Informal,Informal,999,N,N,,Informal,40,1.2
+NT,306,Lingiari,97708,Tennant Creek PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,440,8.91
+NT,306,Lingiari,97708,Tennant Creek PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,100,3.76
+NT,306,Lingiari,97708,Tennant Creek PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,8,0.78
+NT,306,Lingiari,97708,Tennant Creek PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,33,1.3
+NT,306,Lingiari,97708,Tennant Creek PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,341,-18.79
+NT,306,Lingiari,97708,Tennant Creek PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,27,2.62
+NT,306,Lingiari,97708,Tennant Creek PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,0.29
+NT,306,Lingiari,97708,Tennant Creek PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,44,4.27
+NT,306,Lingiari,97708,Tennant Creek PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,34,3.3
+NT,306,Lingiari,97708,Tennant Creek PPVC,999,Informal,Informal,999,N,N,,Informal,85,2.07
+NT,306,Lingiari,8888,Tindal,36968,RYAN,Damien,1,N,N,CLP,NT CLP,42,-27.04
+NT,306,Lingiari,8888,Tindal,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,15,-0.66
+NT,306,Lingiari,8888,Tindal,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,1,0.53
+NT,306,Lingiari,8888,Tindal,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,9,-0.39
+NT,306,Lingiari,8888,Tindal,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,59,3.27
+NT,306,Lingiari,8888,Tindal,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,9,4.74
+NT,306,Lingiari,8888,Tindal,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,3,1.58
+NT,306,Lingiari,8888,Tindal,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,10,5.26
+NT,306,Lingiari,8888,Tindal,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,42,22.11
+NT,306,Lingiari,8888,Tindal,999,Informal,Informal,999,N,N,,Informal,9,-1.5
+NT,306,Lingiari,65142,Wagait Beach,36968,RYAN,Damien,1,N,N,CLP,NT CLP,45,-7.31
+NT,306,Lingiari,65142,Wagait Beach,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,12,-5.38
+NT,306,Lingiari,65142,Wagait Beach,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,3,1.95
+NT,306,Lingiari,65142,Wagait Beach,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,5,0.85
+NT,306,Lingiari,65142,Wagait Beach,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,62,1.94
+NT,306,Lingiari,65142,Wagait Beach,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,4,2.6
+NT,306,Lingiari,65142,Wagait Beach,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,1,0.65
+NT,306,Lingiari,65142,Wagait Beach,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,17,11.04
+NT,306,Lingiari,65142,Wagait Beach,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,5,3.25
+NT,306,Lingiari,65142,Wagait Beach,999,Informal,Informal,999,N,N,,Informal,7,2.01
+NT,306,Lingiari,108365,West Island PPVC,36968,RYAN,Damien,1,N,N,CLP,NT CLP,2,5.41
+NT,306,Lingiari,108365,West Island PPVC,36457,McFARLAND,Blair,2,N,N,GRN,The Greens,7,18.92
+NT,306,Lingiari,108365,West Island PPVC,37585,LEE,Thong Sum,3,N,N,CEC,Citizens Party,0,0
+NT,306,Lingiari,108365,West Island PPVC,37142,MCLEOD,Allan,4,N,N,UAPP,United Australia Party,1,2.7
+NT,306,Lingiari,108365,West Island PPVC,37286,SCRYMGOUR,Marion,5,Y,N,ALP,A.L.P.,17,45.95
+NT,306,Lingiari,108365,West Island PPVC,36987,GRAVENER,Michael Setford,6,N,N,IND,Independent,1,2.7
+NT,306,Lingiari,108365,West Island PPVC,37808,ADAMSON AGARS,Imelda,7,N,N,IND,Independent,0,0
+NT,306,Lingiari,108365,West Island PPVC,37433,GALLARD,Tim,8,N,N,ON,Pauline Hanson's One Nation,1,2.7
+NT,306,Lingiari,108365,West Island PPVC,37429,KASPAREK,George,9,N,N,LDP,Liberal Democrats,8,21.62
+NT,306,Lingiari,108365,West Island PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,307,Solomon,8703,Anula,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,44,8.61
+NT,307,Solomon,8703,Anula,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,75,1.77
+NT,307,Solomon,8703,Anula,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,229,-0.23
+NT,307,Solomon,8703,Anula,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,115,-10.89
+NT,307,Solomon,8703,Anula,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,21,4.11
+NT,307,Solomon,8703,Anula,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,27,2.84
+NT,307,Solomon,8703,Anula,999,Informal,Informal,999,N,N,,Informal,17,-1.34
+NT,307,Solomon,33137,Bakewell,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,111,10.11
+NT,307,Solomon,33137,Bakewell,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,127,2.36
+NT,307,Solomon,33137,Bakewell,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,406,-5.22
+NT,307,Solomon,33137,Bakewell,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,272,-12.13
+NT,307,Solomon,33137,Bakewell,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,77,7.01
+NT,307,Solomon,33137,Bakewell,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,105,6.13
+NT,307,Solomon,33137,Bakewell,999,Informal,Informal,999,N,N,,Informal,62,-0.6
+NT,307,Solomon,8705,Berrimah,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,29,12.89
+NT,307,Solomon,8705,Berrimah,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,18,-3.02
+NT,307,Solomon,8705,Berrimah,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,71,-2.76
+NT,307,Solomon,8705,Berrimah,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,69,-12.55
+NT,307,Solomon,8705,Berrimah,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,24,10.67
+NT,307,Solomon,8705,Berrimah,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,14,1.98
+NT,307,Solomon,8705,Berrimah,999,Informal,Informal,999,N,N,,Informal,6,-5.57
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,174,12.08
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,166,-1.9
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,496,-2.06
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,359,-10.61
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,144,10
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,101,2.09
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,77,1.54
+NT,307,Solomon,8709,Darwin,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,153,13.73
+NT,307,Solomon,8709,Darwin,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,191,2.82
+NT,307,Solomon,8709,Darwin,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,448,1.14
+NT,307,Solomon,8709,Darwin,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,231,-16.05
+NT,307,Solomon,8709,Darwin,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,54,4.85
+NT,307,Solomon,8709,Darwin,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,37,0.28
+NT,307,Solomon,8709,Darwin,999,Informal,Informal,999,N,N,,Informal,32,-1.2
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,771,10.13
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,1213,5.34
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,3136,4.53
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,2051,-18.05
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,232,3.05
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,208,0.54
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,211,-0.52
+NT,307,Solomon,8725,Driver,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,85,9.75
+NT,307,Solomon,8725,Driver,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,91,-1.05
+NT,307,Solomon,8725,Driver,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,287,-4.72
+NT,307,Solomon,8725,Driver,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,232,-11.17
+NT,307,Solomon,8725,Driver,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,89,10.21
+NT,307,Solomon,8725,Driver,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,88,6.47
+NT,307,Solomon,8725,Driver,999,Informal,Informal,999,N,N,,Informal,47,-1.38
+NT,307,Solomon,32595,Durack,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,93,10.18
+NT,307,Solomon,32595,Durack,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,109,3.03
+NT,307,Solomon,32595,Durack,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,293,-1.06
+NT,307,Solomon,32595,Durack,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,283,-18.95
+NT,307,Solomon,32595,Durack,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,63,6.89
+NT,307,Solomon,32595,Durack,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,73,5.88
+NT,307,Solomon,32595,Durack,999,Informal,Informal,999,N,N,,Informal,49,-1.03
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,1238,10.29
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,1634,2.81
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,5089,-1.76
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,3093,-11.55
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,516,4.29
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,460,1.52
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,373,-1.51
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,19,8.48
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,51,22.77
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,83,37.05
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,47,20.98
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,11,4.91
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,13,5.8
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,999,Informal,Informal,999,N,N,,Informal,2,0.88
+NT,307,Solomon,65623,EAV Solomon PPVC,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,0,0
+NT,307,Solomon,65623,EAV Solomon PPVC,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,0,0
+NT,307,Solomon,65623,EAV Solomon PPVC,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,5,38.13
+NT,307,Solomon,65623,EAV Solomon PPVC,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,1,-19.1
+NT,307,Solomon,65623,EAV Solomon PPVC,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,1,14.29
+NT,307,Solomon,65623,EAV Solomon PPVC,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,0,0
+NT,307,Solomon,65623,EAV Solomon PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,307,Solomon,8887,Gray,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,52,7.7
+NT,307,Solomon,8887,Gray,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,112,2.65
+NT,307,Solomon,8887,Gray,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,277,-2.82
+NT,307,Solomon,8887,Gray,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,132,-9.85
+NT,307,Solomon,8887,Gray,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,66,9.78
+NT,307,Solomon,8887,Gray,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,36,1.37
+NT,307,Solomon,8887,Gray,999,Informal,Informal,999,N,N,,Informal,41,-2.38
+NT,307,Solomon,8716,Karama,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,130,12.4
+NT,307,Solomon,8716,Karama,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,114,2.04
+NT,307,Solomon,8716,Karama,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,457,-6.26
+NT,307,Solomon,8716,Karama,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,217,-9.21
+NT,307,Solomon,8716,Karama,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,63,6.01
+NT,307,Solomon,8716,Karama,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,67,3.65
+NT,307,Solomon,8716,Karama,999,Informal,Informal,999,N,N,,Informal,59,0.13
+NT,307,Solomon,83441,Karama East,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,33,7.6
+NT,307,Solomon,83441,Karama East,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,60,4.45
+NT,307,Solomon,83441,Karama East,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,197,-8.74
+NT,307,Solomon,83441,Karama East,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,73,-9.21
+NT,307,Solomon,83441,Karama East,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,31,7.14
+NT,307,Solomon,83441,Karama East,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,40,6.68
+NT,307,Solomon,83441,Karama East,999,Informal,Informal,999,N,N,,Informal,13,-1.64
+NT,307,Solomon,8718,Larrakeyah,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,43,8.83
+NT,307,Solomon,8718,Larrakeyah,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,64,-1.75
+NT,307,Solomon,8718,Larrakeyah,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,205,11.29
+NT,307,Solomon,8718,Larrakeyah,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,140,-17.38
+NT,307,Solomon,8718,Larrakeyah,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,23,4.72
+NT,307,Solomon,8718,Larrakeyah,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,12,0.42
+NT,307,Solomon,8718,Larrakeyah,999,Informal,Informal,999,N,N,,Informal,8,-0.38
+NT,307,Solomon,8719,Leanyer,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,156,11.56
+NT,307,Solomon,8719,Leanyer,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,151,2.22
+NT,307,Solomon,8719,Leanyer,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,567,-2.37
+NT,307,Solomon,8719,Leanyer,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,340,-12.75
+NT,307,Solomon,8719,Leanyer,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,64,4.74
+NT,307,Solomon,8719,Leanyer,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,72,2.26
+NT,307,Solomon,8719,Leanyer,999,Informal,Informal,999,N,N,,Informal,69,0.54
+NT,307,Solomon,8720,Ludmilla,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,64,9.43
+NT,307,Solomon,8720,Ludmilla,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,140,7.48
+NT,307,Solomon,8720,Ludmilla,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,256,-3.03
+NT,307,Solomon,8720,Ludmilla,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,163,-11.08
+NT,307,Solomon,8720,Ludmilla,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,26,3.83
+NT,307,Solomon,8720,Ludmilla,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,30,2.45
+NT,307,Solomon,8720,Ludmilla,999,Informal,Informal,999,N,N,,Informal,21,-1.28
+NT,307,Solomon,38314,Malak,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,62,7.6
+NT,307,Solomon,38314,Malak,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,121,3.35
+NT,307,Solomon,38314,Malak,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,371,-2.36
+NT,307,Solomon,38314,Malak,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,179,-8.27
+NT,307,Solomon,38314,Malak,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,34,4.17
+NT,307,Solomon,38314,Malak,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,49,2.37
+NT,307,Solomon,38314,Malak,999,Informal,Informal,999,N,N,,Informal,33,-0.17
+NT,307,Solomon,83440,Millner,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,76,8.85
+NT,307,Solomon,83440,Millner,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,192,4.53
+NT,307,Solomon,83440,Millner,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,358,-3.35
+NT,307,Solomon,83440,Millner,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,159,-10.43
+NT,307,Solomon,83440,Millner,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,37,4.31
+NT,307,Solomon,83440,Millner,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,37,1.72
+NT,307,Solomon,83440,Millner,999,Informal,Informal,999,N,N,,Informal,33,-0.84
+NT,307,Solomon,8721,Moil,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,90,8.54
+NT,307,Solomon,8721,Moil,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,191,2.61
+NT,307,Solomon,8721,Moil,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,424,-1.8
+NT,307,Solomon,8721,Moil,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,241,-9.42
+NT,307,Solomon,8721,Moil,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,39,3.7
+NT,307,Solomon,8721,Moil,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,69,3.92
+NT,307,Solomon,8721,Moil,999,Informal,Informal,999,N,N,,Informal,55,0.2
+NT,307,Solomon,8722,Nakara,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,90,7.46
+NT,307,Solomon,8722,Nakara,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,240,3.95
+NT,307,Solomon,8722,Nakara,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,516,-1.45
+NT,307,Solomon,8722,Nakara,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,207,-13.79
+NT,307,Solomon,8722,Nakara,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,81,6.71
+NT,307,Solomon,8722,Nakara,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,73,3.45
+NT,307,Solomon,8722,Nakara,999,Informal,Informal,999,N,N,,Informal,55,-0.08
+NT,307,Solomon,8724,Nightcliff,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,27,5.57
+NT,307,Solomon,8724,Nightcliff,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,166,8.76
+NT,307,Solomon,8724,Nightcliff,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,178,-5.44
+NT,307,Solomon,8724,Nightcliff,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,79,-9.18
+NT,307,Solomon,8724,Nightcliff,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,18,3.71
+NT,307,Solomon,8724,Nightcliff,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,17,0.52
+NT,307,Solomon,8724,Nightcliff,999,Informal,Informal,999,N,N,,Informal,8,-2.74
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,670,11.29
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,539,1.83
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,2158,1.02
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,1877,-13.22
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,368,6.2
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,325,2.04
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,262,-0.85
+NT,307,Solomon,8726,Parap,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,165,12.68
+NT,307,Solomon,8726,Parap,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,252,2.14
+NT,307,Solomon,8726,Parap,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,470,0.49
+NT,307,Solomon,8726,Parap,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,321,-15.42
+NT,307,Solomon,8726,Parap,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,46,3.54
+NT,307,Solomon,8726,Parap,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,47,1.63
+NT,307,Solomon,8726,Parap,999,Informal,Informal,999,N,N,,Informal,45,-0.89
+NT,307,Solomon,97427,Parap East,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,22,10.89
+NT,307,Solomon,97427,Parap East,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,49,8.15
+NT,307,Solomon,97427,Parap East,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,78,0.41
+NT,307,Solomon,97427,Parap East,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,42,-16.56
+NT,307,Solomon,97427,Parap East,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,9,4.46
+NT,307,Solomon,97427,Parap East,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,2,-1.04
+NT,307,Solomon,97427,Parap East,999,Informal,Informal,999,N,N,,Informal,8,0.86
+NT,307,Solomon,8729,Rapid Creek,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,84,7.04
+NT,307,Solomon,8729,Rapid Creek,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,305,5.01
+NT,307,Solomon,8729,Rapid Creek,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,480,0.02
+NT,307,Solomon,8729,Rapid Creek,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,215,-13.69
+NT,307,Solomon,8729,Rapid Creek,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,44,3.69
+NT,307,Solomon,8729,Rapid Creek,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,65,2.92
+NT,307,Solomon,8729,Rapid Creek,999,Informal,Informal,999,N,N,,Informal,31,-1.12
+NT,307,Solomon,65151,Rosebery,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,114,11.42
+NT,307,Solomon,65151,Rosebery,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,101,2.06
+NT,307,Solomon,65151,Rosebery,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,343,-1.65
+NT,307,Solomon,65151,Rosebery,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,291,-14.15
+NT,307,Solomon,65151,Rosebery,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,83,8.32
+NT,307,Solomon,65151,Rosebery,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,66,2.75
+NT,307,Solomon,65151,Rosebery,999,Informal,Informal,999,N,N,,Informal,55,0.56
+NT,307,Solomon,8732,Stuart Park,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,77,8.88
+NT,307,Solomon,8732,Stuart Park,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,150,3.4
+NT,307,Solomon,8732,Stuart Park,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,345,-0.72
+NT,307,Solomon,8732,Stuart Park,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,218,-11.8
+NT,307,Solomon,8732,Stuart Park,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,42,4.84
+NT,307,Solomon,8732,Stuart Park,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,35,2.13
+NT,307,Solomon,8732,Stuart Park,999,Informal,Informal,999,N,N,,Informal,20,-0.98
+NT,307,Solomon,8734,Wanguri,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,139,11.79
+NT,307,Solomon,8734,Wanguri,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,187,3.8
+NT,307,Solomon,8734,Wanguri,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,476,-5.64
+NT,307,Solomon,8734,Wanguri,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,245,-11.72
+NT,307,Solomon,8734,Wanguri,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,68,5.77
+NT,307,Solomon,8734,Wanguri,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,64,3.33
+NT,307,Solomon,8734,Wanguri,999,Informal,Informal,999,N,N,,Informal,59,0.58
+NT,307,Solomon,32593,Woodroffe,37426,BONANNI,Kylie,1,N,N,LDP,Liberal Democrats,41,8.89
+NT,307,Solomon,32593,Woodroffe,36459,GOODRICH CARTTLING,Aiya,2,N,N,GRN,The Greens,57,1.79
+NT,307,Solomon,32593,Woodroffe,37280,GOSLING,Luke,3,Y,Y,ALP,A.L.P.,192,1.39
+NT,307,Solomon,32593,Woodroffe,36937,MACFARLANE,Tina,4,N,N,CLP,NT CLP,97,-14.03
+NT,307,Solomon,32593,Woodroffe,37437,LOHSE,Emily,5,N,N,ON,Pauline Hanson's One Nation,41,8.89
+NT,307,Solomon,32593,Woodroffe,37146,SELFE,Tayla Elise,6,N,N,UAPP,United Australia Party,33,3.64
+NT,307,Solomon,32593,Woodroffe,999,Informal,Informal,999,N,N,,Informal,26,-0.59

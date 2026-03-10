@@ -1,0 +1,398 @@
+{
+  "years": {
+    "2019": {
+      "district_count": 151,
+      "top_representative": [
+        {
+          "district": "Bowman",
+          "state": "QLD",
+          "representative_score": 91.2,
+          "gerrymander_index": 8.8
+        },
+        {
+          "district": "Gorton",
+          "state": "VIC",
+          "representative_score": 90.7,
+          "gerrymander_index": 9.3
+        },
+        {
+          "district": "Chifley",
+          "state": "NSW",
+          "representative_score": 88.5,
+          "gerrymander_index": 11.5
+        },
+        {
+          "district": "Dickson",
+          "state": "QLD",
+          "representative_score": 88.4,
+          "gerrymander_index": 11.6
+        },
+        {
+          "district": "Swan",
+          "state": "WA",
+          "representative_score": 86.4,
+          "gerrymander_index": 13.6
+        },
+        {
+          "district": "Dunkley",
+          "state": "VIC",
+          "representative_score": 86.3,
+          "gerrymander_index": 13.7
+        },
+        {
+          "district": "Burt",
+          "state": "WA",
+          "representative_score": 85.4,
+          "gerrymander_index": 14.6
+        },
+        {
+          "district": "Kooyong",
+          "state": "VIC",
+          "representative_score": 85.1,
+          "gerrymander_index": 14.9
+        },
+        {
+          "district": "Chisholm",
+          "state": "VIC",
+          "representative_score": 84.2,
+          "gerrymander_index": 15.8
+        },
+        {
+          "district": "Adelaide",
+          "state": "SA",
+          "representative_score": 83.3,
+          "gerrymander_index": 16.7
+        }
+      ],
+      "top_risk": [
+        {
+          "district": "Durack",
+          "state": "WA",
+          "representative_score": 14.3,
+          "gerrymander_index": 85.7
+        },
+        {
+          "district": "Sydney",
+          "state": "NSW",
+          "representative_score": 19.3,
+          "gerrymander_index": 80.7
+        },
+        {
+          "district": "Cowper",
+          "state": "NSW",
+          "representative_score": 21.0,
+          "gerrymander_index": 79.0
+        },
+        {
+          "district": "Paterson",
+          "state": "NSW",
+          "representative_score": 28.5,
+          "gerrymander_index": 71.5
+        },
+        {
+          "district": "Bean",
+          "state": "ACT",
+          "representative_score": 29.3,
+          "gerrymander_index": 70.7
+        },
+        {
+          "district": "Fowler",
+          "state": "NSW",
+          "representative_score": 29.8,
+          "gerrymander_index": 70.2
+        },
+        {
+          "district": "Whitlam",
+          "state": "NSW",
+          "representative_score": 30.8,
+          "gerrymander_index": 69.2
+        },
+        {
+          "district": "Fairfax",
+          "state": "QLD",
+          "representative_score": 31.9,
+          "gerrymander_index": 68.1
+        },
+        {
+          "district": "Page",
+          "state": "NSW",
+          "representative_score": 32.9,
+          "gerrymander_index": 67.1
+        },
+        {
+          "district": "Gilmore",
+          "state": "NSW",
+          "representative_score": 33.0,
+          "gerrymander_index": 67.0
+        }
+      ],
+      "mean_representative_score": 55.1
+    },
+    "2022": {
+      "district_count": 151,
+      "top_representative": [
+        {
+          "district": "Bowman",
+          "state": "QLD",
+          "representative_score": 93.2,
+          "gerrymander_index": 6.8
+        },
+        {
+          "district": "Hinkler",
+          "state": "QLD",
+          "representative_score": 91.1,
+          "gerrymander_index": 8.9
+        },
+        {
+          "district": "Hasluck",
+          "state": "WA",
+          "representative_score": 88.3,
+          "gerrymander_index": 11.7
+        },
+        {
+          "district": "Bennelong",
+          "state": "NSW",
+          "representative_score": 87.4,
+          "gerrymander_index": 12.6
+        },
+        {
+          "district": "Chisholm",
+          "state": "VIC",
+          "representative_score": 87.1,
+          "gerrymander_index": 12.9
+        },
+        {
+          "district": "Kooyong",
+          "state": "VIC",
+          "representative_score": 85.4,
+          "gerrymander_index": 14.6
+        },
+        {
+          "district": "Reid",
+          "state": "NSW",
+          "representative_score": 83.9,
+          "gerrymander_index": 16.1
+        },
+        {
+          "district": "Dickson",
+          "state": "QLD",
+          "representative_score": 83.1,
+          "gerrymander_index": 16.9
+        },
+        {
+          "district": "Dunkley",
+          "state": "VIC",
+          "representative_score": 83.1,
+          "gerrymander_index": 16.9
+        },
+        {
+          "district": "North Sydney",
+          "state": "NSW",
+          "representative_score": 82.5,
+          "gerrymander_index": 17.5
+        }
+      ],
+      "top_risk": [
+        {
+          "district": "Sydney",
+          "state": "NSW",
+          "representative_score": 6.8,
+          "gerrymander_index": 93.2
+        },
+        {
+          "district": "New England",
+          "state": "NSW",
+          "representative_score": 25.3,
+          "gerrymander_index": 74.7
+        },
+        {
+          "district": "Whitlam",
+          "state": "NSW",
+          "representative_score": 29.1,
+          "gerrymander_index": 70.9
+        },
+        {
+          "district": "Bean",
+          "state": "ACT",
+          "representative_score": 31.0,
+          "gerrymander_index": 69.0
+        },
+        {
+          "district": "Paterson",
+          "state": "NSW",
+          "representative_score": 31.3,
+          "gerrymander_index": 68.7
+        },
+        {
+          "district": "Farrer",
+          "state": "NSW",
+          "representative_score": 31.4,
+          "gerrymander_index": 68.6
+        },
+        {
+          "district": "Gippsland",
+          "state": "VIC",
+          "representative_score": 31.5,
+          "gerrymander_index": 68.5
+        },
+        {
+          "district": "Barker",
+          "state": "SA",
+          "representative_score": 31.6,
+          "gerrymander_index": 68.4
+        },
+        {
+          "district": "Page",
+          "state": "NSW",
+          "representative_score": 31.8,
+          "gerrymander_index": 68.2
+        },
+        {
+          "district": "Maribyrnong",
+          "state": "VIC",
+          "representative_score": 33.0,
+          "gerrymander_index": 67.0
+        }
+      ],
+      "mean_representative_score": 55.0
+    },
+    "2025": {
+      "district_count": 150,
+      "top_representative": [
+        {
+          "district": "Bowman",
+          "state": "QLD",
+          "representative_score": 93.4,
+          "gerrymander_index": 6.6
+        },
+        {
+          "district": "Canning",
+          "state": "WA",
+          "representative_score": 91.7,
+          "gerrymander_index": 8.3
+        },
+        {
+          "district": "Hinkler",
+          "state": "QLD",
+          "representative_score": 87.1,
+          "gerrymander_index": 12.9
+        },
+        {
+          "district": "Bullwinkel",
+          "state": "WA",
+          "representative_score": 86.6,
+          "gerrymander_index": 13.4
+        },
+        {
+          "district": "Curtin",
+          "state": "WA",
+          "representative_score": 86.6,
+          "gerrymander_index": 13.4
+        },
+        {
+          "district": "Mitchell",
+          "state": "NSW",
+          "representative_score": 85.6,
+          "gerrymander_index": 14.4
+        },
+        {
+          "district": "Cowan",
+          "state": "WA",
+          "representative_score": 85.4,
+          "gerrymander_index": 14.6
+        },
+        {
+          "district": "Bennelong",
+          "state": "NSW",
+          "representative_score": 82.5,
+          "gerrymander_index": 17.5
+        },
+        {
+          "district": "La Trobe",
+          "state": "VIC",
+          "representative_score": 81.5,
+          "gerrymander_index": 18.5
+        },
+        {
+          "district": "Newcastle",
+          "state": "NSW",
+          "representative_score": 81.3,
+          "gerrymander_index": 18.7
+        }
+      ],
+      "top_risk": [
+        {
+          "district": "Lyons",
+          "state": "TAS",
+          "representative_score": 18.6,
+          "gerrymander_index": 81.4
+        },
+        {
+          "district": "Sydney",
+          "state": "NSW",
+          "representative_score": 20.6,
+          "gerrymander_index": 79.4
+        },
+        {
+          "district": "New England",
+          "state": "NSW",
+          "representative_score": 20.9,
+          "gerrymander_index": 79.1
+        },
+        {
+          "district": "Bean",
+          "state": "ACT",
+          "representative_score": 24.1,
+          "gerrymander_index": 75.9
+        },
+        {
+          "district": "Cunningham",
+          "state": "NSW",
+          "representative_score": 29.5,
+          "gerrymander_index": 70.5
+        },
+        {
+          "district": "Macnamara",
+          "state": "VIC",
+          "representative_score": 30.1,
+          "gerrymander_index": 69.9
+        },
+        {
+          "district": "Melbourne",
+          "state": "VIC",
+          "representative_score": 30.3,
+          "gerrymander_index": 69.7
+        },
+        {
+          "district": "Ryan",
+          "state": "QLD",
+          "representative_score": 30.5,
+          "gerrymander_index": 69.5
+        },
+        {
+          "district": "Mayo",
+          "state": "SA",
+          "representative_score": 31.4,
+          "gerrymander_index": 68.6
+        },
+        {
+          "district": "Fowler",
+          "state": "NSW",
+          "representative_score": 31.6,
+          "gerrymander_index": 68.4
+        }
+      ],
+      "mean_representative_score": 55.21
+    }
+  },
+  "limitations": [
+    "This is stronger than the v1 shape-only screen, but it is still not a full redistricting-ensemble test because the input data does not contain alternative plans or booth catchment polygons.",
+    "Booth-level geographic coverage is incomplete for mobile and special teams because some TPP polling-place rows have no coordinates in the AEC polling-place file.",
+    "High margin or high heterogeneity can reflect geography, incumbency, or demographic sorting rather than intentional gerrymandering."
+  ],
+  "methods": [
+    "Boundary compactness uses Polsby-Popper, Reock, convex-hull ratio, and contiguity/components.",
+    "Electoral context uses division-level TPP, enrolment deviation from the state-year mean, and booth-level TPP dispersion.",
+    "The composite gerrymander index is a heuristic screen, not a causal or legal finding."
+  ]
+}

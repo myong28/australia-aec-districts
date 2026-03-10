@@ -1,0 +1,961 @@
+2022 Federal Election House of Representatives First Preferences By Candidate By Polling Place for ACT [Event:27966 Phase:FinalResults Generated:2022-07-19T10:30:00 Cycle:06578790-03c6-4cf4-b786-103cfb915abd Created:2022-07-19T10:24:10 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.9.9.0]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+ACT,318,Bean,93925,Belconnen BEAN PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,26,0.33
+ACT,318,Bean,93925,Belconnen BEAN PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,23,2.55
+ACT,318,Bean,93925,Belconnen BEAN PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,356,1.89
+ACT,318,Bean,93925,Belconnen BEAN PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,60,0.55
+ACT,318,Bean,93925,Belconnen BEAN PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,156,2.26
+ACT,318,Bean,93925,Belconnen BEAN PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,282,0.49
+ACT,318,Bean,93925,Belconnen BEAN PPVC,999,Informal,Informal,999,N,N,,Informal,32,-2.32
+ACT,318,Bean,11877,Bonython,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,37,1.02
+ACT,318,Bean,11877,Bonython,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,37,2.9
+ACT,318,Bean,11877,Bonython,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,541,-0.87
+ACT,318,Bean,11877,Bonython,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,96,0.08
+ACT,318,Bean,11877,Bonython,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,176,0.47
+ACT,318,Bean,11877,Bonython,37198,HIATT,Jane,6,N,N,LP,Liberal,390,2.87
+ACT,318,Bean,11877,Bonython,999,Informal,Informal,999,N,N,,Informal,37,-3.78
+ACT,318,Bean,11452,Calwell,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,76,1.62
+ACT,318,Bean,11452,Calwell,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,64,3.69
+ACT,318,Bean,11452,Calwell,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,721,1.9
+ACT,318,Bean,11452,Calwell,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,146,-1.72
+ACT,318,Bean,11452,Calwell,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,218,-0.22
+ACT,318,Bean,11452,Calwell,37198,HIATT,Jane,6,N,N,LP,Liberal,510,-0.04
+ACT,318,Bean,11452,Calwell,999,Informal,Informal,999,N,N,,Informal,63,-1.92
+ACT,318,Bean,8761,Chapman,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,41,0.57
+ACT,318,Bean,8761,Chapman,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,47,2.15
+ACT,318,Bean,8761,Chapman,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,943,3.14
+ACT,318,Bean,8761,Chapman,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,213,-1.11
+ACT,318,Bean,8761,Chapman,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,347,0.9
+ACT,318,Bean,8761,Chapman,37198,HIATT,Jane,6,N,N,LP,Liberal,594,0.25
+ACT,318,Bean,8761,Chapman,999,Informal,Informal,999,N,N,,Informal,25,-1.6
+ACT,318,Bean,8763,Chisholm,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,56,0.32
+ACT,318,Bean,8763,Chisholm,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,50,4.03
+ACT,318,Bean,8763,Chisholm,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,508,2
+ACT,318,Bean,8763,Chisholm,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,84,-1.48
+ACT,318,Bean,8763,Chisholm,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,131,0.14
+ACT,318,Bean,8763,Chisholm,37198,HIATT,Jane,6,N,N,LP,Liberal,413,2.03
+ACT,318,Bean,8763,Chisholm,999,Informal,Informal,999,N,N,,Informal,46,-2.53
+ACT,318,Bean,93916,City (Bean),36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,2,3.23
+ACT,318,Bean,93916,City (Bean),37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,1,1.61
+ACT,318,Bean,93916,City (Bean),36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,16,-7.89
+ACT,318,Bean,93916,City (Bean),32130,CHRISTIE,Jamie,4,N,N,IND,Independent,6,2.07
+ACT,318,Bean,93916,City (Bean),36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,23,2.33
+ACT,318,Bean,93916,City (Bean),37198,HIATT,Jane,6,N,N,LP,Liberal,14,6.26
+ACT,318,Bean,93916,City (Bean),999,Informal,Informal,999,N,N,,Informal,4,2.9
+ACT,318,Bean,93922,City BEAN PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,36,0.25
+ACT,318,Bean,93922,City BEAN PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,28,1.65
+ACT,318,Bean,93922,City BEAN PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,735,2.37
+ACT,318,Bean,93922,City BEAN PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,133,1.13
+ACT,318,Bean,93922,City BEAN PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,330,2.67
+ACT,318,Bean,93922,City BEAN PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,433,-2.05
+ACT,318,Bean,93922,City BEAN PPVC,999,Informal,Informal,999,N,N,,Informal,32,-2.63
+ACT,318,Bean,31298,Conder,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,93,1.36
+ACT,318,Bean,31298,Conder,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,61,3.06
+ACT,318,Bean,31298,Conder,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,829,3.52
+ACT,318,Bean,31298,Conder,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,176,1.2
+ACT,318,Bean,31298,Conder,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,248,1.06
+ACT,318,Bean,31298,Conder,37198,HIATT,Jane,6,N,N,LP,Liberal,586,-1.15
+ACT,318,Bean,31298,Conder,999,Informal,Informal,999,N,N,,Informal,87,-2.74
+ACT,318,Bean,83835,Conder North,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,35,0.06
+ACT,318,Bean,83835,Conder North,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,41,3.81
+ACT,318,Bean,83835,Conder North,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,420,3.49
+ACT,318,Bean,83835,Conder North,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,90,-1.56
+ACT,318,Bean,83835,Conder North,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,122,1.3
+ACT,318,Bean,83835,Conder North,37198,HIATT,Jane,6,N,N,LP,Liberal,367,-0.69
+ACT,318,Bean,83835,Conder North,999,Informal,Informal,999,N,N,,Informal,38,-2.8
+ACT,318,Bean,82523,Coombs,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,49,0.53
+ACT,318,Bean,82523,Coombs,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,42,1.68
+ACT,318,Bean,82523,Coombs,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,1094,3.36
+ACT,318,Bean,82523,Coombs,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,167,-2.5
+ACT,318,Bean,82523,Coombs,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,475,2.77
+ACT,318,Bean,82523,Coombs,37198,HIATT,Jane,6,N,N,LP,Liberal,671,0.21
+ACT,318,Bean,82523,Coombs,999,Informal,Informal,999,N,N,,Informal,42,-2.07
+ACT,318,Bean,93906,Curtin (Bean),36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,1,-0.6
+ACT,318,Bean,93906,Curtin (Bean),37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,5,3.52
+ACT,318,Bean,93906,Curtin (Bean),36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,62,6.7
+ACT,318,Bean,93906,Curtin (Bean),32130,CHRISTIE,Jamie,4,N,N,IND,Independent,7,-1.59
+ACT,318,Bean,93906,Curtin (Bean),36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,32,0.81
+ACT,318,Bean,93906,Curtin (Bean),37198,HIATT,Jane,6,N,N,LP,Liberal,35,-2.32
+ACT,318,Bean,93906,Curtin (Bean),999,Informal,Informal,999,N,N,,Informal,1,-3.86
+ACT,318,Bean,8767,Duffy,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,43,0.9
+ACT,318,Bean,8767,Duffy,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,31,1.7
+ACT,318,Bean,8767,Duffy,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,832,0.79
+ACT,318,Bean,8767,Duffy,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,170,0.12
+ACT,318,Bean,8767,Duffy,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,332,0.33
+ACT,318,Bean,8767,Duffy,37198,HIATT,Jane,6,N,N,LP,Liberal,412,2.21
+ACT,318,Bean,8767,Duffy,999,Informal,Informal,999,N,N,,Informal,38,-1.87
+ACT,318,Bean,93927,EAV Bean PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,1,7.14
+ACT,318,Bean,93927,EAV Bean PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,0,0
+ACT,318,Bean,93927,EAV Bean PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,5,-10.43
+ACT,318,Bean,93927,EAV Bean PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,1,-0.55
+ACT,318,Bean,93927,EAV Bean PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,2,-8.78
+ACT,318,Bean,93927,EAV Bean PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,5,27.98
+ACT,318,Bean,93927,EAV Bean PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+ACT,318,Bean,108523,EAV COVID19 Bean PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,19,3.74
+ACT,318,Bean,108523,EAV COVID19 Bean PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,9,1.77
+ACT,318,Bean,108523,EAV COVID19 Bean PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,217,42.72
+ACT,318,Bean,108523,EAV COVID19 Bean PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,37,7.28
+ACT,318,Bean,108523,EAV COVID19 Bean PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,93,18.31
+ACT,318,Bean,108523,EAV COVID19 Bean PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,133,26.18
+ACT,318,Bean,108523,EAV COVID19 Bean PPVC,999,Informal,Informal,999,N,N,,Informal,3,0.59
+ACT,318,Bean,8768,Fadden,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,37,1.03
+ACT,318,Bean,8768,Fadden,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,25,1.62
+ACT,318,Bean,8768,Fadden,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,662,6.41
+ACT,318,Bean,8768,Fadden,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,142,-0.96
+ACT,318,Bean,8768,Fadden,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,206,1.22
+ACT,318,Bean,8768,Fadden,37198,HIATT,Jane,6,N,N,LP,Liberal,469,-4.34
+ACT,318,Bean,8768,Fadden,999,Informal,Informal,999,N,N,,Informal,36,-1.83
+ACT,318,Bean,8769,Farrer,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,47,1.03
+ACT,318,Bean,8769,Farrer,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,32,1.68
+ACT,318,Bean,8769,Farrer,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,812,2.91
+ACT,318,Bean,8769,Farrer,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,156,-1.02
+ACT,318,Bean,8769,Farrer,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,286,1.97
+ACT,318,Bean,8769,Farrer,37198,HIATT,Jane,6,N,N,LP,Liberal,575,-1.01
+ACT,318,Bean,8769,Farrer,999,Informal,Informal,999,N,N,,Informal,42,-2.29
+ACT,318,Bean,93913,Garran (Bean),36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,5,-0.69
+ACT,318,Bean,93913,Garran (Bean),37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,9,1.84
+ACT,318,Bean,93913,Garran (Bean),36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,208,7.69
+ACT,318,Bean,93913,Garran (Bean),32130,CHRISTIE,Jamie,4,N,N,IND,Independent,40,-0.58
+ACT,318,Bean,93913,Garran (Bean),36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,111,4.1
+ACT,318,Bean,93913,Garran (Bean),37198,HIATT,Jane,6,N,N,LP,Liberal,117,-5.13
+ACT,318,Bean,93913,Garran (Bean),999,Informal,Informal,999,N,N,,Informal,13,-1.9
+ACT,318,Bean,8771,Gilmore,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,48,-0.45
+ACT,318,Bean,8771,Gilmore,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,71,4.76
+ACT,318,Bean,8771,Gilmore,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,560,0.46
+ACT,318,Bean,8771,Gilmore,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,118,0.11
+ACT,318,Bean,8771,Gilmore,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,177,0.38
+ACT,318,Bean,8771,Gilmore,37198,HIATT,Jane,6,N,N,LP,Liberal,519,2.08
+ACT,318,Bean,8771,Gilmore,999,Informal,Informal,999,N,N,,Informal,82,-1.63
+ACT,318,Bean,12072,Gordon,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,97,1.73
+ACT,318,Bean,12072,Gordon,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,95,3.96
+ACT,318,Bean,12072,Gordon,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,991,2.87
+ACT,318,Bean,12072,Gordon,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,180,-1.92
+ACT,318,Bean,12072,Gordon,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,297,0.27
+ACT,318,Bean,12072,Gordon,37198,HIATT,Jane,6,N,N,LP,Liberal,738,0.19
+ACT,318,Bean,12072,Gordon,999,Informal,Informal,999,N,N,,Informal,107,-2.48
+ACT,318,Bean,83837,Gordon North,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,22,0.94
+ACT,318,Bean,83837,Gordon North,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,33,5.92
+ACT,318,Bean,83837,Gordon North,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,189,1.22
+ACT,318,Bean,83837,Gordon North,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,46,1.49
+ACT,318,Bean,83837,Gordon North,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,61,0.23
+ACT,318,Bean,83837,Gordon North,37198,HIATT,Jane,6,N,N,LP,Liberal,206,-3.81
+ACT,318,Bean,83837,Gordon North,999,Informal,Informal,999,N,N,,Informal,23,0.87
+ACT,318,Bean,8772,Gowrie,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,50,0.74
+ACT,318,Bean,8772,Gowrie,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,46,3.19
+ACT,318,Bean,8772,Gowrie,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,555,0.45
+ACT,318,Bean,8772,Gowrie,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,120,-0.73
+ACT,318,Bean,8772,Gowrie,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,241,4.25
+ACT,318,Bean,8772,Gowrie,37198,HIATT,Jane,6,N,N,LP,Liberal,431,-1.36
+ACT,318,Bean,8772,Gowrie,999,Informal,Informal,999,N,N,,Informal,48,-2.25
+ACT,318,Bean,97445,Greenway,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,70,2.96
+ACT,318,Bean,97445,Greenway,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,48,3.51
+ACT,318,Bean,97445,Greenway,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,513,3.27
+ACT,318,Bean,97445,Greenway,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,102,-1.35
+ACT,318,Bean,97445,Greenway,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,257,1.4
+ACT,318,Bean,97445,Greenway,37198,HIATT,Jane,6,N,N,LP,Liberal,377,-1.05
+ACT,318,Bean,97445,Greenway,999,Informal,Informal,999,N,N,,Informal,41,-2.15
+ACT,318,Bean,93929,Gungahlin BEAN PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,22,1.71
+ACT,318,Bean,93929,Gungahlin BEAN PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,20,4.74
+ACT,318,Bean,93929,Gungahlin BEAN PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,144,-0.58
+ACT,318,Bean,93929,Gungahlin BEAN PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,26,2.08
+ACT,318,Bean,93929,Gungahlin BEAN PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,80,7.29
+ACT,318,Bean,93929,Gungahlin BEAN PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,130,-8.26
+ACT,318,Bean,93929,Gungahlin BEAN PPVC,999,Informal,Informal,999,N,N,,Informal,21,-2.55
+ACT,318,Bean,8773,Holder,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,30,0.7
+ACT,318,Bean,8773,Holder,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,47,2.89
+ACT,318,Bean,8773,Holder,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,716,3.53
+ACT,318,Bean,8773,Holder,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,137,-0.46
+ACT,318,Bean,8773,Holder,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,217,1.37
+ACT,318,Bean,8773,Holder,37198,HIATT,Jane,6,N,N,LP,Liberal,478,-1.62
+ACT,318,Bean,8773,Holder,999,Informal,Informal,999,N,N,,Informal,38,-2.44
+ACT,318,Bean,93908,Hughes (Bean),36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,7,-0.34
+ACT,318,Bean,93908,Hughes (Bean),37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,7,2.94
+ACT,318,Bean,93908,Hughes (Bean),36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,105,13.6
+ACT,318,Bean,93908,Hughes (Bean),32130,CHRISTIE,Jamie,4,N,N,IND,Independent,17,0.57
+ACT,318,Bean,93908,Hughes (Bean),36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,42,-4.41
+ACT,318,Bean,93908,Hughes (Bean),37198,HIATT,Jane,6,N,N,LP,Liberal,60,-8.6
+ACT,318,Bean,93908,Hughes (Bean),999,Informal,Informal,999,N,N,,Informal,6,-4.93
+ACT,318,Bean,8884,Isabella Plains,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,58,0.05
+ACT,318,Bean,8884,Isabella Plains,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,67,4.13
+ACT,318,Bean,8884,Isabella Plains,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,659,2.55
+ACT,318,Bean,8884,Isabella Plains,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,146,0.98
+ACT,318,Bean,8884,Isabella Plains,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,201,-0.03
+ACT,318,Bean,8884,Isabella Plains,37198,HIATT,Jane,6,N,N,LP,Liberal,492,-0.29
+ACT,318,Bean,8884,Isabella Plains,999,Informal,Informal,999,N,N,,Informal,83,-1.81
+ACT,318,Bean,8776,Kambah North,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,60,0.52
+ACT,318,Bean,8776,Kambah North,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,55,3.43
+ACT,318,Bean,8776,Kambah North,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,618,-1.4
+ACT,318,Bean,8776,Kambah North,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,170,2.25
+ACT,318,Bean,8776,Kambah North,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,260,2.03
+ACT,318,Bean,8776,Kambah North,37198,HIATT,Jane,6,N,N,LP,Liberal,439,1.46
+ACT,318,Bean,8776,Kambah North,999,Informal,Informal,999,N,N,,Informal,48,-2.29
+ACT,318,Bean,8777,Kambah South,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,48,0.85
+ACT,318,Bean,8777,Kambah South,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,51,3.19
+ACT,318,Bean,8777,Kambah South,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,709,4.07
+ACT,318,Bean,8777,Kambah South,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,143,-0.68
+ACT,318,Bean,8777,Kambah South,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,302,0.56
+ACT,318,Bean,8777,Kambah South,37198,HIATT,Jane,6,N,N,LP,Liberal,344,-1.7
+ACT,318,Bean,8777,Kambah South,999,Informal,Informal,999,N,N,,Informal,50,-3.01
+ACT,318,Bean,8778,Kambah West,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,61,0.99
+ACT,318,Bean,8778,Kambah West,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,47,2.57
+ACT,318,Bean,8778,Kambah West,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,766,2.53
+ACT,318,Bean,8778,Kambah West,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,139,-1.12
+ACT,318,Bean,8778,Kambah West,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,264,0.51
+ACT,318,Bean,8778,Kambah West,37198,HIATT,Jane,6,N,N,LP,Liberal,551,1.29
+ACT,318,Bean,8778,Kambah West,999,Informal,Informal,999,N,N,,Informal,50,-2.2
+ACT,318,Bean,93909,Lyons (Bean),36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,12,0.51
+ACT,318,Bean,93909,Lyons (Bean),37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,13,2.33
+ACT,318,Bean,93909,Lyons (Bean),36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,242,4.94
+ACT,318,Bean,93909,Lyons (Bean),32130,CHRISTIE,Jamie,4,N,N,IND,Independent,46,-0.26
+ACT,318,Bean,93909,Lyons (Bean),36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,124,3.28
+ACT,318,Bean,93909,Lyons (Bean),37198,HIATT,Jane,6,N,N,LP,Liberal,122,-4.78
+ACT,318,Bean,93909,Lyons (Bean),999,Informal,Informal,999,N,N,,Informal,14,-3
+ACT,318,Bean,8780,Mawson,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,38,0.42
+ACT,318,Bean,8780,Mawson,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,29,1.64
+ACT,318,Bean,8780,Mawson,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,800,6.98
+ACT,318,Bean,8780,Mawson,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,129,-2.08
+ACT,318,Bean,8780,Mawson,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,351,4
+ACT,318,Bean,8780,Mawson,37198,HIATT,Jane,6,N,N,LP,Liberal,426,-5.58
+ACT,318,Bean,8780,Mawson,999,Informal,Informal,999,N,N,,Informal,58,-1.88
+ACT,318,Bean,8781,Monash,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,50,0.67
+ACT,318,Bean,8781,Monash,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,61,3.73
+ACT,318,Bean,8781,Monash,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,668,1.26
+ACT,318,Bean,8781,Monash,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,133,-0.5
+ACT,318,Bean,8781,Monash,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,211,3.17
+ACT,318,Bean,8781,Monash,37198,HIATT,Jane,6,N,N,LP,Liberal,513,-2.63
+ACT,318,Bean,8781,Monash,999,Informal,Informal,999,N,N,,Informal,62,-1.98
+ACT,318,Bean,65739,Norfolk Island,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,16,4.57
+ACT,318,Bean,65739,Norfolk Island,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,16,6.02
+ACT,318,Bean,65739,Norfolk Island,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,54,-6.87
+ACT,318,Bean,65739,Norfolk Island,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,80,17.04
+ACT,318,Bean,65739,Norfolk Island,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,50,5.03
+ACT,318,Bean,65739,Norfolk Island,37198,HIATT,Jane,6,N,N,LP,Liberal,50,-17.43
+ACT,318,Bean,65739,Norfolk Island,999,Informal,Informal,999,N,N,,Informal,36,-5.69
+ACT,318,Bean,66153,Norfolk Island PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,15,-0.61
+ACT,318,Bean,66153,Norfolk Island PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,31,7.03
+ACT,318,Bean,66153,Norfolk Island PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,114,-0.06
+ACT,318,Bean,66153,Norfolk Island PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,97,9.23
+ACT,318,Bean,66153,Norfolk Island PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,47,1.54
+ACT,318,Bean,66153,Norfolk Island PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,137,-7.25
+ACT,318,Bean,66153,Norfolk Island PPVC,999,Informal,Informal,999,N,N,,Informal,84,-1.96
+ACT,318,Bean,93928,Parkes (Bean),36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,2,-0.46
+ACT,318,Bean,93928,Parkes (Bean),37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,8,1.83
+ACT,318,Bean,93928,Parkes (Bean),36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,196,-3.38
+ACT,318,Bean,93928,Parkes (Bean),32130,CHRISTIE,Jamie,4,N,N,IND,Independent,35,1.94
+ACT,318,Bean,93928,Parkes (Bean),36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,120,7.6
+ACT,318,Bean,93928,Parkes (Bean),37198,HIATT,Jane,6,N,N,LP,Liberal,75,-0.72
+ACT,318,Bean,93928,Parkes (Bean),999,Informal,Informal,999,N,N,,Informal,3,-0.42
+ACT,318,Bean,97479,Parkes BEAN PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,23,-0.45
+ACT,318,Bean,97479,Parkes BEAN PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,26,1.52
+ACT,318,Bean,97479,Parkes BEAN PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,801,7.73
+ACT,318,Bean,97479,Parkes BEAN PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,157,0.21
+ACT,318,Bean,97479,Parkes BEAN PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,309,0.74
+ACT,318,Bean,97479,Parkes BEAN PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,397,-4.57
+ACT,318,Bean,97479,Parkes BEAN PPVC,999,Informal,Informal,999,N,N,,Informal,19,-2.56
+ACT,318,Bean,8784,Pearce,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,29,0.51
+ACT,318,Bean,8784,Pearce,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,28,2.13
+ACT,318,Bean,8784,Pearce,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,574,3.33
+ACT,318,Bean,8784,Pearce,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,116,-0.5
+ACT,318,Bean,8784,Pearce,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,219,2.55
+ACT,318,Bean,8784,Pearce,37198,HIATT,Jane,6,N,N,LP,Liberal,349,-2.48
+ACT,318,Bean,8784,Pearce,999,Informal,Informal,999,N,N,,Informal,38,-1.54
+ACT,318,Bean,98056,Queanbeyan BEAN PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,16,2.34
+ACT,318,Bean,98056,Queanbeyan BEAN PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,11,3.57
+ACT,318,Bean,98056,Queanbeyan BEAN PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,98,-4.08
+ACT,318,Bean,98056,Queanbeyan BEAN PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,20,0.47
+ACT,318,Bean,98056,Queanbeyan BEAN PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,48,-1.92
+ACT,318,Bean,98056,Queanbeyan BEAN PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,115,7.16
+ACT,318,Bean,98056,Queanbeyan BEAN PPVC,999,Informal,Informal,999,N,N,,Informal,14,-0.35
+ACT,318,Bean,8786,Richardson,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,69,1.39
+ACT,318,Bean,8786,Richardson,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,74,6.12
+ACT,318,Bean,8786,Richardson,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,514,1.9
+ACT,318,Bean,8786,Richardson,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,103,2.45
+ACT,318,Bean,8786,Richardson,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,119,-0.13
+ACT,318,Bean,8786,Richardson,37198,HIATT,Jane,6,N,N,LP,Liberal,331,-2.68
+ACT,318,Bean,8786,Richardson,999,Informal,Informal,999,N,N,,Informal,59,-2.3
+ACT,318,Bean,8788,Tharwa,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,4,-0.47
+ACT,318,Bean,8788,Tharwa,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,4,3.1
+ACT,318,Bean,8788,Tharwa,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,38,-1.79
+ACT,318,Bean,8788,Tharwa,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,19,1.34
+ACT,318,Bean,8788,Tharwa,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,17,2.46
+ACT,318,Bean,8788,Tharwa,37198,HIATT,Jane,6,N,N,LP,Liberal,47,1.61
+ACT,318,Bean,8788,Tharwa,999,Informal,Informal,999,N,N,,Informal,2,-6.67
+ACT,318,Bean,11878,Theodore,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,53,-0.26
+ACT,318,Bean,11878,Theodore,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,51,3.64
+ACT,318,Bean,11878,Theodore,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,580,5.99
+ACT,318,Bean,11878,Theodore,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,106,-2.6
+ACT,318,Bean,11878,Theodore,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,173,0.22
+ACT,318,Bean,11878,Theodore,37198,HIATT,Jane,6,N,N,LP,Liberal,439,0.52
+ACT,318,Bean,11878,Theodore,999,Informal,Informal,999,N,N,,Informal,52,-2.25
+ACT,318,Bean,98052,Torrens,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,9,-0.56
+ACT,318,Bean,98052,Torrens,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,19,2.28
+ACT,318,Bean,98052,Torrens,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,390,6.86
+ACT,318,Bean,98052,Torrens,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,70,-0.89
+ACT,318,Bean,98052,Torrens,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,142,3.09
+ACT,318,Bean,98052,Torrens,37198,HIATT,Jane,6,N,N,LP,Liberal,202,-5.25
+ACT,318,Bean,98052,Torrens,999,Informal,Informal,999,N,N,,Informal,15,-2.65
+ACT,318,Bean,32704,Tuggeranong BEAN PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,570,0.19
+ACT,318,Bean,32704,Tuggeranong BEAN PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,467,2.43
+ACT,318,Bean,32704,Tuggeranong BEAN PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,8075,5.52
+ACT,318,Bean,32704,Tuggeranong BEAN PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,1358,-0.66
+ACT,318,Bean,32704,Tuggeranong BEAN PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,2172,1.8
+ACT,318,Bean,32704,Tuggeranong BEAN PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,6591,-2.37
+ACT,318,Bean,32704,Tuggeranong BEAN PPVC,999,Informal,Informal,999,N,N,,Informal,579,-2.3
+ACT,318,Bean,8790,Wanniassa,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,54,-0.48
+ACT,318,Bean,8790,Wanniassa,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,86,4.88
+ACT,318,Bean,8790,Wanniassa,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,702,2.07
+ACT,318,Bean,8790,Wanniassa,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,164,0.19
+ACT,318,Bean,8790,Wanniassa,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,252,2.76
+ACT,318,Bean,8790,Wanniassa,37198,HIATT,Jane,6,N,N,LP,Liberal,503,-2.08
+ACT,318,Bean,8790,Wanniassa,999,Informal,Informal,999,N,N,,Informal,56,-3.55
+ACT,318,Bean,8791,Wanniassa Hills,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,49,1.48
+ACT,318,Bean,8791,Wanniassa Hills,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,36,2.59
+ACT,318,Bean,8791,Wanniassa Hills,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,591,1.56
+ACT,318,Bean,8791,Wanniassa Hills,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,118,-0.17
+ACT,318,Bean,8791,Wanniassa Hills,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,215,-0.15
+ACT,318,Bean,8791,Wanniassa Hills,37198,HIATT,Jane,6,N,N,LP,Liberal,381,1.66
+ACT,318,Bean,8791,Wanniassa Hills,999,Informal,Informal,999,N,N,,Informal,35,-1.53
+ACT,318,Bean,8792,Waramanga,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,36,0.53
+ACT,318,Bean,8792,Waramanga,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,24,1.56
+ACT,318,Bean,8792,Waramanga,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,671,2.6
+ACT,318,Bean,8792,Waramanga,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,135,0.07
+ACT,318,Bean,8792,Waramanga,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,303,3.3
+ACT,318,Bean,8792,Waramanga,37198,HIATT,Jane,6,N,N,LP,Liberal,370,-1.12
+ACT,318,Bean,8792,Waramanga,999,Informal,Informal,999,N,N,,Informal,45,-1.06
+ACT,318,Bean,83841,Waramanga West,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,18,0.77
+ACT,318,Bean,83841,Waramanga West,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,12,1.63
+ACT,318,Bean,83841,Waramanga West,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,319,2.95
+ACT,318,Bean,83841,Waramanga West,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,60,0.14
+ACT,318,Bean,83841,Waramanga West,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,146,0.98
+ACT,318,Bean,83841,Waramanga West,37198,HIATT,Jane,6,N,N,LP,Liberal,182,0.01
+ACT,318,Bean,83841,Waramanga West,999,Informal,Informal,999,N,N,,Informal,16,-2.19
+ACT,318,Bean,8793,Weston,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,30,0.68
+ACT,318,Bean,8793,Weston,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,29,2.52
+ACT,318,Bean,8793,Weston,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,498,2.84
+ACT,318,Bean,8793,Weston,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,80,-1.13
+ACT,318,Bean,8793,Weston,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,213,2.48
+ACT,318,Bean,8793,Weston,37198,HIATT,Jane,6,N,N,LP,Liberal,303,-0.48
+ACT,318,Bean,8793,Weston,999,Informal,Informal,999,N,N,,Informal,38,-1.91
+ACT,318,Bean,32705,Woden BEAN PPVC,36239,CONWAY,Sean,1,N,N,UAPP,United Australia Party,209,0.31
+ACT,318,Bean,32705,Woden BEAN PPVC,37455,AMBARD,Benjamin,2,N,N,ON,Pauline Hanson's One Nation,187,1.83
+ACT,318,Bean,32705,Woden BEAN PPVC,36231,SMITH,David,3,Y,Y,ALP,Australian Labor Party,4472,5.57
+ACT,318,Bean,32705,Woden BEAN PPVC,32130,CHRISTIE,Jamie,4,N,N,IND,Independent,859,0.76
+ACT,318,Bean,32705,Woden BEAN PPVC,36243,SAVERY,Kathryn Jane,5,N,N,GRN,The Greens,1556,3.23
+ACT,318,Bean,32705,Woden BEAN PPVC,37198,HIATT,Jane,6,N,N,LP,Liberal,2937,-5.7
+ACT,318,Bean,32705,Woden BEAN PPVC,999,Informal,Informal,999,N,N,,Informal,212,-2.71
+ACT,101,Canberra,8801,Ainslie North,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,34,1.14
+ACT,101,Canberra,8801,Ainslie North,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,23,1.27
+ACT,101,Canberra,8801,Ainslie North,32830,BOHM,Tim,3,N,N,IND,Independent,60,-0.09
+ACT,101,Canberra,8801,Ainslie North,37211,MINSON,Slade,4,N,N,LP,Liberal,211,-2.9
+ACT,101,Canberra,8801,Ainslie North,36241,HOLLO,Tim,5,N,N,GRN,The Greens,606,-2.34
+ACT,101,Canberra,8801,Ainslie North,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,877,4.91
+ACT,101,Canberra,8801,Ainslie North,999,Informal,Informal,999,N,N,,Informal,31,-0.41
+ACT,101,Canberra,8803,Aranda (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,23,0.65
+ACT,101,Canberra,8803,Aranda (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,23,1.69
+ACT,101,Canberra,8803,Aranda (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,63,-0.24
+ACT,101,Canberra,8803,Aranda (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,153,-6.61
+ACT,101,Canberra,8803,Aranda (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,441,2.04
+ACT,101,Canberra,8803,Aranda (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,658,4.01
+ACT,101,Canberra,8803,Aranda (Canberra),999,Informal,Informal,999,N,N,,Informal,25,0.29
+ACT,101,Canberra,8829,Barton,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,35,0.58
+ACT,101,Canberra,8829,Barton,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,26,1.23
+ACT,101,Canberra,8829,Barton,32830,BOHM,Tim,3,N,N,IND,Independent,99,0.57
+ACT,101,Canberra,8829,Barton,37211,MINSON,Slade,4,N,N,LP,Liberal,518,-3.41
+ACT,101,Canberra,8829,Barton,36241,HOLLO,Tim,5,N,N,GRN,The Greens,467,1.98
+ACT,101,Canberra,8829,Barton,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,969,0.9
+ACT,101,Canberra,8829,Barton,999,Informal,Informal,999,N,N,,Informal,34,-0.19
+ACT,101,Canberra,93968,Belconnen (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,15,0.52
+ACT,101,Canberra,93968,Belconnen (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,17,3.01
+ACT,101,Canberra,93968,Belconnen (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,21,-2.06
+ACT,101,Canberra,93968,Belconnen (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,114,-4.2
+ACT,101,Canberra,93968,Belconnen (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,176,4.45
+ACT,101,Canberra,93968,Belconnen (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,221,0.4
+ACT,101,Canberra,93968,Belconnen (Canberra),999,Informal,Informal,999,N,N,,Informal,11,-0.99
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,147,-0.15
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,159,2.04
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,389,0.28
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,1870,-9.55
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,1651,4.83
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,3595,4.02
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,152,-1
+ACT,101,Canberra,8802,Braddon,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,28,0.6
+ACT,101,Canberra,8802,Braddon,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,23,1.23
+ACT,101,Canberra,8802,Braddon,32830,BOHM,Tim,3,N,N,IND,Independent,96,0.77
+ACT,101,Canberra,8802,Braddon,37211,MINSON,Slade,4,N,N,LP,Liberal,264,-2.79
+ACT,101,Canberra,8802,Braddon,36241,HOLLO,Tim,5,N,N,GRN,The Greens,587,0.49
+ACT,101,Canberra,8802,Braddon,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,871,2.36
+ACT,101,Canberra,8802,Braddon,999,Informal,Informal,999,N,N,,Informal,26,-0.06
+ACT,101,Canberra,83849,Bruce (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,16,1.13
+ACT,101,Canberra,83849,Bruce (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,7,0.85
+ACT,101,Canberra,83849,Bruce (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,41,0.15
+ACT,101,Canberra,83849,Bruce (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,179,-4.77
+ACT,101,Canberra,83849,Bruce (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,244,3.92
+ACT,101,Canberra,83849,Bruce (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,337,1.4
+ACT,101,Canberra,83849,Bruce (Canberra),999,Informal,Informal,999,N,N,,Informal,16,-0.03
+ACT,101,Canberra,8806,Campbell,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,26,0.59
+ACT,101,Canberra,8806,Campbell,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,24,1.54
+ACT,101,Canberra,8806,Campbell,32830,BOHM,Tim,3,N,N,IND,Independent,77,0.11
+ACT,101,Canberra,8806,Campbell,37211,MINSON,Slade,4,N,N,LP,Liberal,479,-6.46
+ACT,101,Canberra,8806,Campbell,36241,HOLLO,Tim,5,N,N,GRN,The Greens,315,1.99
+ACT,101,Canberra,8806,Campbell,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,641,3.81
+ACT,101,Canberra,8806,Campbell,999,Informal,Informal,999,N,N,,Informal,21,0.14
+ACT,101,Canberra,98053,Campbell North,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,8,-0.11
+ACT,101,Canberra,98053,Campbell North,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,16,1.72
+ACT,101,Canberra,98053,Campbell North,32830,BOHM,Tim,3,N,N,IND,Independent,52,1.09
+ACT,101,Canberra,98053,Campbell North,37211,MINSON,Slade,4,N,N,LP,Liberal,171,-8.43
+ACT,101,Canberra,98053,Campbell North,36241,HOLLO,Tim,5,N,N,GRN,The Greens,256,2.59
+ACT,101,Canberra,98053,Campbell North,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,426,5.2
+ACT,101,Canberra,98053,Campbell North,999,Informal,Informal,999,N,N,,Informal,11,-0.2
+ACT,101,Canberra,8808,City (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,25,0.68
+ACT,101,Canberra,8808,City (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,11,0.83
+ACT,101,Canberra,8808,City (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,55,-0.1
+ACT,101,Canberra,8808,City (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,170,-6.63
+ACT,101,Canberra,8808,City (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,551,4.3
+ACT,101,Canberra,8808,City (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,514,4.03
+ACT,101,Canberra,8808,City (Canberra),999,Informal,Informal,999,N,N,,Informal,27,0.74
+ACT,101,Canberra,58708,City CANBERRA PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,114,-0.11
+ACT,101,Canberra,58708,City CANBERRA PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,78,0.95
+ACT,101,Canberra,58708,City CANBERRA PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,417,0.65
+ACT,101,Canberra,58708,City CANBERRA PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,1524,-8.3
+ACT,101,Canberra,58708,City CANBERRA PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,2518,5.8
+ACT,101,Canberra,58708,City CANBERRA PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,3529,2.75
+ACT,101,Canberra,58708,City CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,114,-0.57
+ACT,101,Canberra,8764,Curtin (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,34,0.38
+ACT,101,Canberra,8764,Curtin (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,29,1.7
+ACT,101,Canberra,8764,Curtin (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,100,0.73
+ACT,101,Canberra,8764,Curtin (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,354,-4.73
+ACT,101,Canberra,8764,Curtin (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,349,-0.84
+ACT,101,Canberra,8764,Curtin (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,839,5.53
+ACT,101,Canberra,8764,Curtin (Canberra),999,Informal,Informal,999,N,N,,Informal,20,-0.77
+ACT,101,Canberra,8766,Deakin,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,11,-0.27
+ACT,101,Canberra,8766,Deakin,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,14,1.45
+ACT,101,Canberra,8766,Deakin,32830,BOHM,Tim,3,N,N,IND,Independent,44,1.37
+ACT,101,Canberra,8766,Deakin,37211,MINSON,Slade,4,N,N,LP,Liberal,376,-10.81
+ACT,101,Canberra,8766,Deakin,36241,HOLLO,Tim,5,N,N,GRN,The Greens,142,0.64
+ACT,101,Canberra,8766,Deakin,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,380,9.03
+ACT,101,Canberra,8766,Deakin,999,Informal,Informal,999,N,N,,Informal,15,0.4
+ACT,101,Canberra,8809,Dickson,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,10,1.44
+ACT,101,Canberra,8809,Dickson,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,8,2.27
+ACT,101,Canberra,8809,Dickson,32830,BOHM,Tim,3,N,N,IND,Independent,11,-1.74
+ACT,101,Canberra,8809,Dickson,37211,MINSON,Slade,4,N,N,LP,Liberal,54,-7.77
+ACT,101,Canberra,8809,Dickson,36241,HOLLO,Tim,5,N,N,GRN,The Greens,137,7.56
+ACT,101,Canberra,8809,Dickson,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,133,-0.05
+ACT,101,Canberra,8809,Dickson,999,Informal,Informal,999,N,N,,Informal,7,-0.62
+ACT,101,Canberra,83852,Dickson East,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,18,0.09
+ACT,101,Canberra,83852,Dickson East,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,17,1.72
+ACT,101,Canberra,83852,Dickson East,32830,BOHM,Tim,3,N,N,IND,Independent,57,1.39
+ACT,101,Canberra,83852,Dickson East,37211,MINSON,Slade,4,N,N,LP,Liberal,164,-0.12
+ACT,101,Canberra,83852,Dickson East,36241,HOLLO,Tim,5,N,N,GRN,The Greens,324,-5.21
+ACT,101,Canberra,83852,Dickson East,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,409,4.07
+ACT,101,Canberra,83852,Dickson East,999,Informal,Informal,999,N,N,,Informal,11,0.64
+ACT,101,Canberra,82525,Downer,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,27,0.28
+ACT,101,Canberra,82525,Downer,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,22,1.81
+ACT,101,Canberra,82525,Downer,32830,BOHM,Tim,3,N,N,IND,Independent,55,0.21
+ACT,101,Canberra,82525,Downer,37211,MINSON,Slade,4,N,N,LP,Liberal,153,-2.33
+ACT,101,Canberra,82525,Downer,36241,HOLLO,Tim,5,N,N,GRN,The Greens,464,1.06
+ACT,101,Canberra,82525,Downer,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,493,0.91
+ACT,101,Canberra,82525,Downer,999,Informal,Informal,999,N,N,,Informal,30,0.26
+ACT,101,Canberra,65504,EAV Canberra PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,1,-0.81
+ACT,101,Canberra,65504,EAV Canberra PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,1,4.17
+ACT,101,Canberra,65504,EAV Canberra PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,3,2.54
+ACT,101,Canberra,65504,EAV Canberra PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,5,-9.12
+ACT,101,Canberra,65504,EAV Canberra PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,4,6.57
+ACT,101,Canberra,65504,EAV Canberra PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,10,-3.33
+ACT,101,Canberra,65504,EAV Canberra PPVC,999,Informal,Informal,999,N,N,,Informal,0,-4.73
+ACT,101,Canberra,108524,EAV COVID19 Canberra PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,8,1.55
+ACT,101,Canberra,108524,EAV COVID19 Canberra PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,7,1.35
+ACT,101,Canberra,108524,EAV COVID19 Canberra PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,35,6.77
+ACT,101,Canberra,108524,EAV COVID19 Canberra PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,79,15.28
+ACT,101,Canberra,108524,EAV COVID19 Canberra PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,134,25.92
+ACT,101,Canberra,108524,EAV COVID19 Canberra PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,254,49.13
+ACT,101,Canberra,108524,EAV COVID19 Canberra PPVC,999,Informal,Informal,999,N,N,,Informal,8,1.52
+ACT,101,Canberra,8794,Garran (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,22,0.68
+ACT,101,Canberra,8794,Garran (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,17,1.86
+ACT,101,Canberra,8794,Garran (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,54,0.19
+ACT,101,Canberra,8794,Garran (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,251,-2.88
+ACT,101,Canberra,8794,Garran (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,163,0.75
+ACT,101,Canberra,8794,Garran (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,409,1.9
+ACT,101,Canberra,8794,Garran (Canberra),999,Informal,Informal,999,N,N,,Informal,22,-0.42
+ACT,101,Canberra,8816,Giralang (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,50,2.01
+ACT,101,Canberra,8816,Giralang (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,50,4.17
+ACT,101,Canberra,8816,Giralang (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,77,0.16
+ACT,101,Canberra,8816,Giralang (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,236,-7.75
+ACT,101,Canberra,8816,Giralang (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,238,0.23
+ACT,101,Canberra,8816,Giralang (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,548,3.63
+ACT,101,Canberra,8816,Giralang (Canberra),999,Informal,Informal,999,N,N,,Informal,40,-0.29
+ACT,101,Canberra,8817,Griffith,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,22,0.85
+ACT,101,Canberra,8817,Griffith,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,30,2.43
+ACT,101,Canberra,8817,Griffith,32830,BOHM,Tim,3,N,N,IND,Independent,72,1.17
+ACT,101,Canberra,8817,Griffith,37211,MINSON,Slade,4,N,N,LP,Liberal,321,-6.65
+ACT,101,Canberra,8817,Griffith,36241,HOLLO,Tim,5,N,N,GRN,The Greens,227,-1.4
+ACT,101,Canberra,8817,Griffith,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,565,5.76
+ACT,101,Canberra,8817,Griffith,999,Informal,Informal,999,N,N,,Informal,28,-0.02
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,79,-0.98
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,124,2.4
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,263,-0.12
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,1081,-10.65
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,1255,2.37
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,2359,8.16
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,90,-1.13
+ACT,101,Canberra,8774,Hughes (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,21,0.54
+ACT,101,Canberra,8774,Hughes (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,22,1.57
+ACT,101,Canberra,8774,Hughes (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,75,0.31
+ACT,101,Canberra,8774,Hughes (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,343,-7.27
+ACT,101,Canberra,8774,Hughes (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,258,-1.08
+ACT,101,Canberra,8774,Hughes (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,682,7.98
+ACT,101,Canberra,8774,Hughes (Canberra),999,Informal,Informal,999,N,N,,Informal,14,-1.27
+ACT,101,Canberra,8823,Kaleen,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,54,1.43
+ACT,101,Canberra,8823,Kaleen,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,39,2.71
+ACT,101,Canberra,8823,Kaleen,32830,BOHM,Tim,3,N,N,IND,Independent,81,0.31
+ACT,101,Canberra,8823,Kaleen,37211,MINSON,Slade,4,N,N,LP,Liberal,372,-5.72
+ACT,101,Canberra,8823,Kaleen,36241,HOLLO,Tim,5,N,N,GRN,The Greens,244,0.79
+ACT,101,Canberra,8823,Kaleen,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,649,2.34
+ACT,101,Canberra,8823,Kaleen,999,Informal,Informal,999,N,N,,Informal,48,-0.2
+ACT,101,Canberra,8824,Kaleen South,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,43,1.57
+ACT,101,Canberra,8824,Kaleen South,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,24,1.82
+ACT,101,Canberra,8824,Kaleen South,32830,BOHM,Tim,3,N,N,IND,Independent,67,0.51
+ACT,101,Canberra,8824,Kaleen South,37211,MINSON,Slade,4,N,N,LP,Liberal,270,-6.85
+ACT,101,Canberra,8824,Kaleen South,36241,HOLLO,Tim,5,N,N,GRN,The Greens,277,-1.61
+ACT,101,Canberra,8824,Kaleen South,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,636,6.46
+ACT,101,Canberra,8824,Kaleen South,999,Informal,Informal,999,N,N,,Informal,27,-0.26
+ACT,101,Canberra,8826,Lyneham,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,39,0.9
+ACT,101,Canberra,8826,Lyneham,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,22,1.07
+ACT,101,Canberra,8826,Lyneham,32830,BOHM,Tim,3,N,N,IND,Independent,73,-0.28
+ACT,101,Canberra,8826,Lyneham,37211,MINSON,Slade,4,N,N,LP,Liberal,252,-4.42
+ACT,101,Canberra,8826,Lyneham,36241,HOLLO,Tim,5,N,N,GRN,The Greens,813,3.46
+ACT,101,Canberra,8826,Lyneham,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,857,0.9
+ACT,101,Canberra,8826,Lyneham,999,Informal,Informal,999,N,N,,Informal,41,-0.22
+ACT,101,Canberra,83856,Lyneham East,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,18,-0.49
+ACT,101,Canberra,83856,Lyneham East,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,20,2.11
+ACT,101,Canberra,83856,Lyneham East,32830,BOHM,Tim,3,N,N,IND,Independent,40,0.44
+ACT,101,Canberra,83856,Lyneham East,37211,MINSON,Slade,4,N,N,LP,Liberal,110,-5.83
+ACT,101,Canberra,83856,Lyneham East,36241,HOLLO,Tim,5,N,N,GRN,The Greens,371,4.86
+ACT,101,Canberra,83856,Lyneham East,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,389,1.06
+ACT,101,Canberra,83856,Lyneham East,999,Informal,Informal,999,N,N,,Informal,12,-0.47
+ACT,101,Canberra,8779,Lyons (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,30,1.9
+ACT,101,Canberra,8779,Lyons (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,25,2.98
+ACT,101,Canberra,8779,Lyons (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,33,-3.03
+ACT,101,Canberra,8779,Lyons (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,158,-7.1
+ACT,101,Canberra,8779,Lyons (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,191,1.52
+ACT,101,Canberra,8779,Lyons (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,402,5.89
+ACT,101,Canberra,8779,Lyons (Canberra),999,Informal,Informal,999,N,N,,Informal,14,-1.61
+ACT,101,Canberra,8828,Macquarie (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,23,-0.27
+ACT,101,Canberra,8828,Macquarie (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,20,1.66
+ACT,101,Canberra,8828,Macquarie (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,66,0.58
+ACT,101,Canberra,8828,Macquarie (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,206,-4.22
+ACT,101,Canberra,8828,Macquarie (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,326,3.19
+ACT,101,Canberra,8828,Macquarie (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,563,2.09
+ACT,101,Canberra,8828,Macquarie (Canberra),999,Informal,Informal,999,N,N,,Informal,14,-1.35
+ACT,101,Canberra,8782,Narrabundah,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,27,0.71
+ACT,101,Canberra,8782,Narrabundah,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,31,3.37
+ACT,101,Canberra,8782,Narrabundah,32830,BOHM,Tim,3,N,N,IND,Independent,51,0.95
+ACT,101,Canberra,8782,Narrabundah,37211,MINSON,Slade,4,N,N,LP,Liberal,211,-4.02
+ACT,101,Canberra,8782,Narrabundah,36241,HOLLO,Tim,5,N,N,GRN,The Greens,172,-0.78
+ACT,101,Canberra,8782,Narrabundah,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,427,0.99
+ACT,101,Canberra,8782,Narrabundah,999,Informal,Informal,999,N,N,,Informal,29,-0.21
+ACT,101,Canberra,98055,Narrabundah South,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,23,1.72
+ACT,101,Canberra,98055,Narrabundah South,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,11,1.53
+ACT,101,Canberra,98055,Narrabundah South,32830,BOHM,Tim,3,N,N,IND,Independent,41,1.38
+ACT,101,Canberra,98055,Narrabundah South,37211,MINSON,Slade,4,N,N,LP,Liberal,161,-8.72
+ACT,101,Canberra,98055,Narrabundah South,36241,HOLLO,Tim,5,N,N,GRN,The Greens,144,0.95
+ACT,101,Canberra,98055,Narrabundah South,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,339,4.87
+ACT,101,Canberra,98055,Narrabundah South,999,Informal,Informal,999,N,N,,Informal,17,-0.59
+ACT,101,Canberra,8783,Oaks Estate,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,4,-4.07
+ACT,101,Canberra,8783,Oaks Estate,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,12,7.23
+ACT,101,Canberra,8783,Oaks Estate,32830,BOHM,Tim,3,N,N,IND,Independent,9,-3.01
+ACT,101,Canberra,8783,Oaks Estate,37211,MINSON,Slade,4,N,N,LP,Liberal,37,-0.44
+ACT,101,Canberra,8783,Oaks Estate,36241,HOLLO,Tim,5,N,N,GRN,The Greens,34,0.99
+ACT,101,Canberra,8783,Oaks Estate,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,70,1.9
+ACT,101,Canberra,8783,Oaks Estate,999,Informal,Informal,999,N,N,,Informal,10,-0.97
+ACT,101,Canberra,93976,Page (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,6,-1.95
+ACT,101,Canberra,93976,Page (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,10,2.66
+ACT,101,Canberra,93976,Page (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,30,3.1
+ACT,101,Canberra,93976,Page (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,104,-4.7
+ACT,101,Canberra,93976,Page (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,60,-1.56
+ACT,101,Canberra,93976,Page (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,166,4.68
+ACT,101,Canberra,93976,Page (Canberra),999,Informal,Informal,999,N,N,,Informal,8,-0.51
+ACT,101,Canberra,65741,Parkes (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,15,-0.06
+ACT,101,Canberra,65741,Parkes (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,20,0.81
+ACT,101,Canberra,65741,Parkes (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,103,1.65
+ACT,101,Canberra,65741,Parkes (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,316,-5.84
+ACT,101,Canberra,65741,Parkes (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,788,3.74
+ACT,101,Canberra,65741,Parkes (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,1232,3.99
+ACT,101,Canberra,65741,Parkes (Canberra),999,Informal,Informal,999,N,N,,Informal,11,-0.33
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,51,-0.67
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,58,0.91
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,334,0.48
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,1558,-8.21
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,1347,1.27
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,3056,7.61
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,77,-0.12
+ACT,101,Canberra,98054,Queanbeyan CANBERRA PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,11,3.33
+ACT,101,Canberra,98054,Queanbeyan CANBERRA PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,6,2.75
+ACT,101,Canberra,98054,Queanbeyan CANBERRA PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,11,0.72
+ACT,101,Canberra,98054,Queanbeyan CANBERRA PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,64,4.78
+ACT,101,Canberra,98054,Queanbeyan CANBERRA PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,35,-8.66
+ACT,101,Canberra,98054,Queanbeyan CANBERRA PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,91,-1.05
+ACT,101,Canberra,98054,Queanbeyan CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,9,2.29
+ACT,101,Canberra,8785,Red Hill,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,26,0.36
+ACT,101,Canberra,8785,Red Hill,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,8,0.41
+ACT,101,Canberra,8785,Red Hill,32830,BOHM,Tim,3,N,N,IND,Independent,105,1.42
+ACT,101,Canberra,8785,Red Hill,37211,MINSON,Slade,4,N,N,LP,Liberal,581,-4.15
+ACT,101,Canberra,8785,Red Hill,36241,HOLLO,Tim,5,N,N,GRN,The Greens,363,0.16
+ACT,101,Canberra,8785,Red Hill,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,852,3.85
+ACT,101,Canberra,8785,Red Hill,999,Informal,Informal,999,N,N,,Informal,28,-1.3
+ACT,101,Canberra,108470,Special Hospital Team 1,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,1,-0.15
+ACT,101,Canberra,108470,Special Hospital Team 1,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,1,1.64
+ACT,101,Canberra,108470,Special Hospital Team 1,32830,BOHM,Tim,3,N,N,IND,Independent,5,2.25
+ACT,101,Canberra,108470,Special Hospital Team 1,37211,MINSON,Slade,4,N,N,LP,Liberal,23,3.88
+ACT,101,Canberra,108470,Special Hospital Team 1,36241,HOLLO,Tim,5,N,N,GRN,The Greens,5,-10.9
+ACT,101,Canberra,108470,Special Hospital Team 1,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,26,6.15
+ACT,101,Canberra,108470,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,4,4.1
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,13,0.23
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,14,2.83
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,27,0.83
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,120,-8.6
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,109,4.02
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,212,3.6
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,17,1.31
+ACT,101,Canberra,8836,Turner,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,26,0.34
+ACT,101,Canberra,8836,Turner,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,14,0.78
+ACT,101,Canberra,8836,Turner,32830,BOHM,Tim,3,N,N,IND,Independent,72,0.28
+ACT,101,Canberra,8836,Turner,37211,MINSON,Slade,4,N,N,LP,Liberal,264,-1.28
+ACT,101,Canberra,8836,Turner,36241,HOLLO,Tim,5,N,N,GRN,The Greens,608,-0.25
+ACT,101,Canberra,8836,Turner,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,809,2.87
+ACT,101,Canberra,8836,Turner,999,Informal,Informal,999,N,N,,Informal,33,0.7
+ACT,101,Canberra,8837,Watson,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,31,0.65
+ACT,101,Canberra,8837,Watson,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,24,1.36
+ACT,101,Canberra,8837,Watson,32830,BOHM,Tim,3,N,N,IND,Independent,96,0.08
+ACT,101,Canberra,8837,Watson,37211,MINSON,Slade,4,N,N,LP,Liberal,265,-2.04
+ACT,101,Canberra,8837,Watson,36241,HOLLO,Tim,5,N,N,GRN,The Greens,597,-0.94
+ACT,101,Canberra,8837,Watson,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,746,2.98
+ACT,101,Canberra,8837,Watson,999,Informal,Informal,999,N,N,,Informal,30,-0.03
+ACT,101,Canberra,8838,Weetangera (Canberra),36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,23,-0.15
+ACT,101,Canberra,8838,Weetangera (Canberra),37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,17,1.16
+ACT,101,Canberra,8838,Weetangera (Canberra),32830,BOHM,Tim,3,N,N,IND,Independent,87,1.13
+ACT,101,Canberra,8838,Weetangera (Canberra),37211,MINSON,Slade,4,N,N,LP,Liberal,337,-6.84
+ACT,101,Canberra,8838,Weetangera (Canberra),36241,HOLLO,Tim,5,N,N,GRN,The Greens,265,1.52
+ACT,101,Canberra,8838,Weetangera (Canberra),36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,735,5.19
+ACT,101,Canberra,8838,Weetangera (Canberra),999,Informal,Informal,999,N,N,,Informal,22,-0.04
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,89,0.3
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,79,1.71
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,32830,BOHM,Tim,3,N,N,IND,Independent,222,-0.45
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,37211,MINSON,Slade,4,N,N,LP,Liberal,1385,-9.96
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,36241,HOLLO,Tim,5,N,N,GRN,The Greens,786,1.86
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,2061,8.5
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,112,-0.68
+ACT,101,Canberra,8840,Yarralumla,36238,SMITH,Catherine,1,N,N,UAPP,United Australia Party,22,0.53
+ACT,101,Canberra,8840,Yarralumla,37456,MILES,James,2,N,N,ON,Pauline Hanson's One Nation,24,1.92
+ACT,101,Canberra,8840,Yarralumla,32830,BOHM,Tim,3,N,N,IND,Independent,72,0.43
+ACT,101,Canberra,8840,Yarralumla,37211,MINSON,Slade,4,N,N,LP,Liberal,400,-7.12
+ACT,101,Canberra,8840,Yarralumla,36241,HOLLO,Tim,5,N,N,GRN,The Greens,198,-0.97
+ACT,101,Canberra,8840,Yarralumla,36228,PAYNE,Alicia,6,Y,Y,ALP,Australian Labor Party,537,6.95
+ACT,101,Canberra,8840,Yarralumla,999,Informal,Informal,999,N,N,,Informal,24,-0.23
+ACT,102,Fenner,38197,Amaroo,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,1225,1.07
+ACT,102,Fenner,38197,Amaroo,37203,KUSTER,Nathan,2,N,N,LP,Liberal,814,-5.97
+ACT,102,Fenner,38197,Amaroo,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,92,0.42
+ACT,102,Fenner,38197,Amaroo,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,79,3
+ACT,102,Fenner,38197,Amaroo,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,371,0.93
+ACT,102,Fenner,38197,Amaroo,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,56,2.12
+ACT,102,Fenner,38197,Amaroo,999,Informal,Informal,999,N,N,,Informal,64,-0.16
+ACT,102,Fenner,94007,Aranda (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,78,6.94
+ACT,102,Fenner,94007,Aranda (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,17,-8.87
+ACT,102,Fenner,94007,Aranda (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,3,-0.68
+ACT,102,Fenner,94007,Aranda (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,1,0.73
+ACT,102,Fenner,94007,Aranda (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,36,3.3
+ACT,102,Fenner,94007,Aranda (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,2,1.46
+ACT,102,Fenner,94007,Aranda (Fenner),999,Informal,Informal,999,N,N,,Informal,3,1
+ACT,102,Fenner,8805,Belconnen (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,760,-0.42
+ACT,102,Fenner,8805,Belconnen (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,285,-6.83
+ACT,102,Fenner,8805,Belconnen (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,51,-0.02
+ACT,102,Fenner,8805,Belconnen (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,56,3.42
+ACT,102,Fenner,8805,Belconnen (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,455,5.1
+ACT,102,Fenner,8805,Belconnen (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,32,1.95
+ACT,102,Fenner,8805,Belconnen (Fenner),999,Informal,Informal,999,N,N,,Informal,57,0.38
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,7943,4.2
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,4348,-8.75
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,399,-2.5
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,416,2.61
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,2546,4.34
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,296,1.86
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,431,-0.68
+ACT,102,Fenner,65695,Bonner,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,900,-0.55
+ACT,102,Fenner,65695,Bonner,37203,KUSTER,Nathan,2,N,N,LP,Liberal,582,-4.64
+ACT,102,Fenner,65695,Bonner,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,69,-0.42
+ACT,102,Fenner,65695,Bonner,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,55,2.81
+ACT,102,Fenner,65695,Bonner,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,319,2.8
+ACT,102,Fenner,65695,Bonner,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,30,1.53
+ACT,102,Fenner,65695,Bonner,999,Informal,Informal,999,N,N,,Informal,55,-0.05
+ACT,102,Fenner,94020,Bruce (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,81,7.89
+ACT,102,Fenner,94020,Bruce (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,54,-12.94
+ACT,102,Fenner,94020,Bruce (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,3,-1.01
+ACT,102,Fenner,94020,Bruce (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,2,1.09
+ACT,102,Fenner,94020,Bruce (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,40,3.25
+ACT,102,Fenner,94020,Bruce (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,4,2.17
+ACT,102,Fenner,94020,Bruce (Fenner),999,Informal,Informal,999,N,N,,Informal,2,0.2
+ACT,102,Fenner,8807,Charnwood,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,808,3
+ACT,102,Fenner,8807,Charnwood,37203,KUSTER,Nathan,2,N,N,LP,Liberal,426,-6.01
+ACT,102,Fenner,8807,Charnwood,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,68,-1.54
+ACT,102,Fenner,8807,Charnwood,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,71,4.33
+ACT,102,Fenner,8807,Charnwood,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,234,0.84
+ACT,102,Fenner,8807,Charnwood,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,33,2.01
+ACT,102,Fenner,8807,Charnwood,999,Informal,Informal,999,N,N,,Informal,82,-0.42
+ACT,102,Fenner,83851,Charnwood East,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,382,5.73
+ACT,102,Fenner,83851,Charnwood East,37203,KUSTER,Nathan,2,N,N,LP,Liberal,158,-5
+ACT,102,Fenner,83851,Charnwood East,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,17,-5.55
+ACT,102,Fenner,83851,Charnwood East,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,25,3.42
+ACT,102,Fenner,83851,Charnwood East,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,138,2.73
+ACT,102,Fenner,83851,Charnwood East,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,10,1.37
+ACT,102,Fenner,83851,Charnwood East,999,Informal,Informal,999,N,N,,Informal,42,2.67
+ACT,102,Fenner,66144,City (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,34,-3.19
+ACT,102,Fenner,66144,City (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,24,-7.74
+ACT,102,Fenner,66144,City (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,6,3.34
+ACT,102,Fenner,66144,City (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,3,3.23
+ACT,102,Fenner,66144,City (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,21,1.48
+ACT,102,Fenner,66144,City (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,5,5.38
+ACT,102,Fenner,66144,City (Fenner),999,Informal,Informal,999,N,N,,Informal,3,2.51
+ACT,102,Fenner,32465,City FENNER PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,1328,4.35
+ACT,102,Fenner,32465,City FENNER PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,620,-9.41
+ACT,102,Fenner,32465,City FENNER PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,63,-0.15
+ACT,102,Fenner,32465,City FENNER PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,47,1.84
+ACT,102,Fenner,32465,City FENNER PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,455,3.41
+ACT,102,Fenner,32465,City FENNER PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,47,1.84
+ACT,102,Fenner,32465,City FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,51,-1.12
+ACT,102,Fenner,108525,EAV COVID19 Fenner PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,284,50.99
+ACT,102,Fenner,108525,EAV COVID19 Fenner PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,141,25.31
+ACT,102,Fenner,108525,EAV COVID19 Fenner PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,7,1.26
+ACT,102,Fenner,108525,EAV COVID19 Fenner PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,13,2.33
+ACT,102,Fenner,108525,EAV COVID19 Fenner PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,102,18.31
+ACT,102,Fenner,108525,EAV COVID19 Fenner PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,10,1.8
+ACT,102,Fenner,108525,EAV COVID19 Fenner PPVC,999,Informal,Informal,999,N,N,,Informal,5,0.89
+ACT,102,Fenner,65505,EAV Fenner PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,10,19.31
+ACT,102,Fenner,65505,EAV Fenner PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,2,-34.03
+ACT,102,Fenner,65505,EAV Fenner PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,0,0
+ACT,102,Fenner,65505,EAV Fenner PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,1,6.67
+ACT,102,Fenner,65505,EAV Fenner PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,1,1.4
+ACT,102,Fenner,65505,EAV Fenner PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,1,6.67
+ACT,102,Fenner,65505,EAV Fenner PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+ACT,102,Fenner,8812,Evatt,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,914,2.67
+ACT,102,Fenner,8812,Evatt,37203,KUSTER,Nathan,2,N,N,LP,Liberal,440,-8.37
+ACT,102,Fenner,8812,Evatt,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,48,-0.92
+ACT,102,Fenner,8812,Evatt,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,58,3.1
+ACT,102,Fenner,8812,Evatt,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,365,3.26
+ACT,102,Fenner,8812,Evatt,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,45,2.41
+ACT,102,Fenner,8812,Evatt,999,Informal,Informal,999,N,N,,Informal,72,-0.34
+ACT,102,Fenner,83853,Evatt South,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,490,0.25
+ACT,102,Fenner,83853,Evatt South,37203,KUSTER,Nathan,2,N,N,LP,Liberal,210,-6.25
+ACT,102,Fenner,83853,Evatt South,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,23,0.02
+ACT,102,Fenner,83853,Evatt South,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,25,2.61
+ACT,102,Fenner,83853,Evatt South,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,192,4.75
+ACT,102,Fenner,83853,Evatt South,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,17,1.78
+ACT,102,Fenner,83853,Evatt South,999,Informal,Informal,999,N,N,,Informal,18,0.37
+ACT,102,Fenner,8814,Florey,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,603,1.54
+ACT,102,Fenner,8814,Florey,37203,KUSTER,Nathan,2,N,N,LP,Liberal,279,-4.07
+ACT,102,Fenner,8814,Florey,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,37,-0.26
+ACT,102,Fenner,8814,Florey,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,33,2.79
+ACT,102,Fenner,8814,Florey,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,207,0.05
+ACT,102,Fenner,8814,Florey,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,24,2.03
+ACT,102,Fenner,8814,Florey,999,Informal,Informal,999,N,N,,Informal,33,-0.77
+ACT,102,Fenner,65493,Forde,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,761,7.9
+ACT,102,Fenner,65493,Forde,37203,KUSTER,Nathan,2,N,N,LP,Liberal,551,-7.62
+ACT,102,Fenner,65493,Forde,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,20,-1.41
+ACT,102,Fenner,65493,Forde,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,28,1.76
+ACT,102,Fenner,65493,Forde,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,215,-0.64
+ACT,102,Fenner,65493,Forde,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,18,1.13
+ACT,102,Fenner,65493,Forde,999,Informal,Informal,999,N,N,,Informal,43,0.89
+ACT,102,Fenner,83854,Franklin,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,595,0.69
+ACT,102,Fenner,83854,Franklin,37203,KUSTER,Nathan,2,N,N,LP,Liberal,377,-5.58
+ACT,102,Fenner,83854,Franklin,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,28,-0.45
+ACT,102,Fenner,83854,Franklin,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,30,2.35
+ACT,102,Fenner,83854,Franklin,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,222,2.8
+ACT,102,Fenner,83854,Franklin,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,25,1.96
+ACT,102,Fenner,83854,Franklin,999,Informal,Informal,999,N,N,,Informal,33,-0.68
+ACT,102,Fenner,34238,Fraser Central,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,968,3.71
+ACT,102,Fenner,34238,Fraser Central,37203,KUSTER,Nathan,2,N,N,LP,Liberal,516,-5.63
+ACT,102,Fenner,34238,Fraser Central,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,62,-0.9
+ACT,102,Fenner,34238,Fraser Central,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,63,3.26
+ACT,102,Fenner,34238,Fraser Central,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,294,-0.31
+ACT,102,Fenner,34238,Fraser Central,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,32,1.65
+ACT,102,Fenner,34238,Fraser Central,999,Informal,Informal,999,N,N,,Informal,70,-0.04
+ACT,102,Fenner,94009,Giralang (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,116,11.87
+ACT,102,Fenner,94009,Giralang (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,43,-17.26
+ACT,102,Fenner,94009,Giralang (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,13,4.45
+ACT,102,Fenner,94009,Giralang (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,7,3.15
+ACT,102,Fenner,94009,Giralang (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,38,-3.52
+ACT,102,Fenner,94009,Giralang (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,5,2.25
+ACT,102,Fenner,94009,Giralang (Fenner),999,Informal,Informal,999,N,N,,Informal,9,-1.01
+ACT,102,Fenner,34240,Gungahlin,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,632,-0.51
+ACT,102,Fenner,34240,Gungahlin,37203,KUSTER,Nathan,2,N,N,LP,Liberal,455,-5.16
+ACT,102,Fenner,34240,Gungahlin,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,44,-1.01
+ACT,102,Fenner,34240,Gungahlin,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,44,2.98
+ACT,102,Fenner,34240,Gungahlin,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,267,3.57
+ACT,102,Fenner,34240,Gungahlin,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,36,2.44
+ACT,102,Fenner,34240,Gungahlin,999,Informal,Informal,999,N,N,,Informal,39,-0.25
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,7196,6.68
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,5064,-9.75
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,317,-2.07
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,283,1.87
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,1982,2.91
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,256,1.7
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,348,-0.65
+ACT,102,Fenner,83848,Hall,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,205,6.58
+ACT,102,Fenner,83848,Hall,37203,KUSTER,Nathan,2,N,N,LP,Liberal,135,-9.49
+ACT,102,Fenner,83848,Hall,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,10,-2.14
+ACT,102,Fenner,83848,Hall,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,21,4.68
+ACT,102,Fenner,83848,Hall,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,70,2.24
+ACT,102,Fenner,83848,Hall,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,8,1.78
+ACT,102,Fenner,83848,Hall,999,Informal,Informal,999,N,N,,Informal,12,0.23
+ACT,102,Fenner,83863,Hall PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,0,0
+ACT,102,Fenner,83863,Hall PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,0,0
+ACT,102,Fenner,83863,Hall PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,0,0
+ACT,102,Fenner,83863,Hall PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,0,0
+ACT,102,Fenner,83863,Hall PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,0,0
+ACT,102,Fenner,83863,Hall PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,0,0
+ACT,102,Fenner,83863,Hall PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+ACT,102,Fenner,47681,Harrison,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,1077,1.06
+ACT,102,Fenner,47681,Harrison,37203,KUSTER,Nathan,2,N,N,LP,Liberal,701,-5.76
+ACT,102,Fenner,47681,Harrison,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,36,-1.05
+ACT,102,Fenner,47681,Harrison,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,42,1.77
+ACT,102,Fenner,47681,Harrison,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,471,3.64
+ACT,102,Fenner,47681,Harrison,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,47,1.98
+ACT,102,Fenner,47681,Harrison,999,Informal,Informal,999,N,N,,Informal,60,-0.38
+ACT,102,Fenner,8821,Holt,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,928,2.97
+ACT,102,Fenner,8821,Holt,37203,KUSTER,Nathan,2,N,N,LP,Liberal,450,-6.22
+ACT,102,Fenner,8821,Holt,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,74,-1.91
+ACT,102,Fenner,8821,Holt,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,76,4.03
+ACT,102,Fenner,8821,Holt,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,315,1.66
+ACT,102,Fenner,8821,Holt,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,44,2.33
+ACT,102,Fenner,8821,Holt,999,Informal,Informal,999,N,N,,Informal,68,-0.5
+ACT,102,Fenner,83855,Holt West,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,408,4.47
+ACT,102,Fenner,83855,Holt West,37203,KUSTER,Nathan,2,N,N,LP,Liberal,192,-6.22
+ACT,102,Fenner,83855,Holt West,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,19,-2.08
+ACT,102,Fenner,83855,Holt West,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,27,3.25
+ACT,102,Fenner,83855,Holt West,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,169,1.39
+ACT,102,Fenner,83855,Holt West,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,15,1.81
+ACT,102,Fenner,83855,Holt West,999,Informal,Informal,999,N,N,,Informal,39,0.76
+ACT,102,Fenner,8825,Latham,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,670,1.68
+ACT,102,Fenner,8825,Latham,37203,KUSTER,Nathan,2,N,N,LP,Liberal,287,-5.07
+ACT,102,Fenner,8825,Latham,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,45,-1.48
+ACT,102,Fenner,8825,Latham,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,41,3.09
+ACT,102,Fenner,8825,Latham,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,258,2.18
+ACT,102,Fenner,8825,Latham,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,27,2.03
+ACT,102,Fenner,8825,Latham,999,Informal,Informal,999,N,N,,Informal,54,0.7
+ACT,102,Fenner,8827,Macgregor,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,970,2.59
+ACT,102,Fenner,8827,Macgregor,37203,KUSTER,Nathan,2,N,N,LP,Liberal,405,-5.94
+ACT,102,Fenner,8827,Macgregor,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,36,-1.88
+ACT,102,Fenner,8827,Macgregor,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,55,2.95
+ACT,102,Fenner,8827,Macgregor,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,357,1.69
+ACT,102,Fenner,8827,Macgregor,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,41,2.2
+ACT,102,Fenner,8827,Macgregor,999,Informal,Informal,999,N,N,,Informal,51,-0.65
+ACT,102,Fenner,94013,Macquarie (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,101,-0.1
+ACT,102,Fenner,94013,Macquarie (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,35,-6.97
+ACT,102,Fenner,94013,Macquarie (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,7,-3.88
+ACT,102,Fenner,94013,Macquarie (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,4,1.78
+ACT,102,Fenner,94013,Macquarie (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,75,9.35
+ACT,102,Fenner,94013,Macquarie (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,3,1.33
+ACT,102,Fenner,94013,Macquarie (Fenner),999,Informal,Informal,999,N,N,,Informal,7,-0.36
+ACT,102,Fenner,8830,Melba,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,851,6.45
+ACT,102,Fenner,8830,Melba,37203,KUSTER,Nathan,2,N,N,LP,Liberal,337,-7.41
+ACT,102,Fenner,8830,Melba,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,37,-1.07
+ACT,102,Fenner,8830,Melba,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,44,2.75
+ACT,102,Fenner,8830,Melba,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,302,-0.1
+ACT,102,Fenner,8830,Melba,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,30,1.87
+ACT,102,Fenner,8830,Melba,999,Informal,Informal,999,N,N,,Informal,46,-0.07
+ACT,102,Fenner,32463,Ngunnawal,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,1032,3.1
+ACT,102,Fenner,32463,Ngunnawal,37203,KUSTER,Nathan,2,N,N,LP,Liberal,473,-7.17
+ACT,102,Fenner,32463,Ngunnawal,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,63,-1.59
+ACT,102,Fenner,32463,Ngunnawal,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,55,2.62
+ACT,102,Fenner,32463,Ngunnawal,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,447,4.32
+ACT,102,Fenner,32463,Ngunnawal,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,31,1.48
+ACT,102,Fenner,32463,Ngunnawal,999,Informal,Informal,999,N,N,,Informal,88,0.53
+ACT,102,Fenner,32081,Nicholls,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,1125,7.89
+ACT,102,Fenner,32081,Nicholls,37203,KUSTER,Nathan,2,N,N,LP,Liberal,736,-9.43
+ACT,102,Fenner,32081,Nicholls,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,51,-1.4
+ACT,102,Fenner,32081,Nicholls,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,59,2.53
+ACT,102,Fenner,32081,Nicholls,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,315,-0.18
+ACT,102,Fenner,32081,Nicholls,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,47,2.01
+ACT,102,Fenner,32081,Nicholls,999,Informal,Informal,999,N,N,,Informal,63,0.98
+ACT,102,Fenner,83857,Nicholls North,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,638,3.22
+ACT,102,Fenner,83857,Nicholls North,37203,KUSTER,Nathan,2,N,N,LP,Liberal,446,-8.36
+ACT,102,Fenner,83857,Nicholls North,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,39,-0.09
+ACT,102,Fenner,83857,Nicholls North,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,31,2.24
+ACT,102,Fenner,83857,Nicholls North,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,203,2.99
+ACT,102,Fenner,83857,Nicholls North,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,24,1.74
+ACT,102,Fenner,83857,Nicholls North,999,Informal,Informal,999,N,N,,Informal,31,-0.7
+ACT,102,Fenner,65840,Other Mobile Team 1,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,46,-5.06
+ACT,102,Fenner,65840,Other Mobile Team 1,37203,KUSTER,Nathan,2,N,N,LP,Liberal,7,4.26
+ACT,102,Fenner,65840,Other Mobile Team 1,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,1,0.22
+ACT,102,Fenner,65840,Other Mobile Team 1,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,1,1.59
+ACT,102,Fenner,65840,Other Mobile Team 1,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,7,0.15
+ACT,102,Fenner,65840,Other Mobile Team 1,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,1,1.59
+ACT,102,Fenner,65840,Other Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,3,3.2
+ACT,102,Fenner,8832,Page (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,501,1.63
+ACT,102,Fenner,8832,Page (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,210,-5.99
+ACT,102,Fenner,8832,Page (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,32,0.23
+ACT,102,Fenner,8832,Page (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,29,2.99
+ACT,102,Fenner,8832,Page (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,185,3.05
+ACT,102,Fenner,8832,Page (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,12,1.24
+ACT,102,Fenner,8832,Page (Fenner),999,Informal,Informal,999,N,N,,Informal,44,1.36
+ACT,102,Fenner,31626,Palmerston,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,1190,3.39
+ACT,102,Fenner,31626,Palmerston,37203,KUSTER,Nathan,2,N,N,LP,Liberal,683,-6.99
+ACT,102,Fenner,31626,Palmerston,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,57,-0.55
+ACT,102,Fenner,31626,Palmerston,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,53,2.15
+ACT,102,Fenner,31626,Palmerston,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,430,2.55
+ACT,102,Fenner,31626,Palmerston,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,56,2.27
+ACT,102,Fenner,31626,Palmerston,999,Informal,Informal,999,N,N,,Informal,79,-0.03
+ACT,102,Fenner,65743,Parkes (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,200,-2.57
+ACT,102,Fenner,65743,Parkes (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,56,-7.82
+ACT,102,Fenner,65743,Parkes (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,4,0.34
+ACT,102,Fenner,65743,Parkes (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,7,1.8
+ACT,102,Fenner,65743,Parkes (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,115,9.43
+ACT,102,Fenner,65743,Parkes (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,7,1.8
+ACT,102,Fenner,65743,Parkes (Fenner),999,Informal,Informal,999,N,N,,Informal,2,-1.29
+ACT,102,Fenner,83858,Parkes FENNER PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,527,4.73
+ACT,102,Fenner,83858,Parkes FENNER PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,236,-10.75
+ACT,102,Fenner,83858,Parkes FENNER PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,16,-1.3
+ACT,102,Fenner,83858,Parkes FENNER PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,18,1.73
+ACT,102,Fenner,83858,Parkes FENNER PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,234,5.56
+ACT,102,Fenner,83858,Parkes FENNER PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,12,1.15
+ACT,102,Fenner,83858,Parkes FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,22,0.28
+ACT,102,Fenner,98057,Queanbeyan FENNER PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,0,-41.8
+ACT,102,Fenner,98057,Queanbeyan FENNER PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,0,-33.43
+ACT,102,Fenner,98057,Queanbeyan FENNER PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,0,-5.97
+ACT,102,Fenner,98057,Queanbeyan FENNER PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,0,0
+ACT,102,Fenner,98057,Queanbeyan FENNER PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,0,-16.66
+ACT,102,Fenner,98057,Queanbeyan FENNER PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,0,0
+ACT,102,Fenner,98057,Queanbeyan FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,0,-2.36
+ACT,102,Fenner,8834,Scullin,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,508,3.26
+ACT,102,Fenner,8834,Scullin,37203,KUSTER,Nathan,2,N,N,LP,Liberal,155,-4.02
+ACT,102,Fenner,8834,Scullin,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,20,-0.66
+ACT,102,Fenner,8834,Scullin,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,28,2.87
+ACT,102,Fenner,8834,Scullin,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,258,0.46
+ACT,102,Fenner,8834,Scullin,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,6,0.62
+ACT,102,Fenner,8834,Scullin,999,Informal,Informal,999,N,N,,Informal,23,-0.02
+ACT,102,Fenner,97559,Taylor,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,760,-2.61
+ACT,102,Fenner,97559,Taylor,37203,KUSTER,Nathan,2,N,N,LP,Liberal,549,1.57
+ACT,102,Fenner,97559,Taylor,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,56,0.05
+ACT,102,Fenner,97559,Taylor,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,29,1.77
+ACT,102,Fenner,97559,Taylor,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,220,-0.63
+ACT,102,Fenner,97559,Taylor,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,22,1.34
+ACT,102,Fenner,97559,Taylor,999,Informal,Informal,999,N,N,,Informal,34,-0.87
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,202,5.05
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,85,-12.08
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,0,-3.92
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,9,2.4
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,79,10.45
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,0,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,18,2.03
+ACT,102,Fenner,94016,Weetangera (Fenner),36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,138,5.49
+ACT,102,Fenner,94016,Weetangera (Fenner),37203,KUSTER,Nathan,2,N,N,LP,Liberal,42,-5.53
+ACT,102,Fenner,94016,Weetangera (Fenner),36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,3,-6.04
+ACT,102,Fenner,94016,Weetangera (Fenner),37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,3,1.22
+ACT,102,Fenner,94016,Weetangera (Fenner),36242,SOJIC,Natasa,5,N,N,GRN,The Greens,55,5.36
+ACT,102,Fenner,94016,Weetangera (Fenner),37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,4,1.63
+ACT,102,Fenner,94016,Weetangera (Fenner),999,Informal,Informal,999,N,N,,Informal,5,-0.91
+ACT,102,Fenner,64584,Woden FENNER PPVC,36234,LEIGH,Andrew,1,Y,Y,ALP,Australian Labor Party,308,0.2
+ACT,102,Fenner,64584,Woden FENNER PPVC,37203,KUSTER,Nathan,2,N,N,LP,Liberal,180,-7.95
+ACT,102,Fenner,64584,Woden FENNER PPVC,36237,ELTON,Timothy Peter,3,N,N,UAPP,United Australia Party,11,-1.58
+ACT,102,Fenner,64584,Woden FENNER PPVC,37458,GRANT,Lucia,4,N,N,ON,Pauline Hanson's One Nation,12,1.8
+ACT,102,Fenner,64584,Woden FENNER PPVC,36242,SOJIC,Natasa,5,N,N,GRN,The Greens,141,7.53
+ACT,102,Fenner,64584,Woden FENNER PPVC,37599,JAKEMAN,Guy,6,N,N,LDP,Liberal Democrats,13,1.95
+ACT,102,Fenner,64584,Woden FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,13,-0.5
