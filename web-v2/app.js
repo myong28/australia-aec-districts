@@ -104,7 +104,7 @@
 
   const state = {
     year: latestYear,
-    activeTab: "executive",
+    activeTab: "findings",
     metric: "gerrymander_index",
     showBooths: false,
     sortKey: "representative_rank",
